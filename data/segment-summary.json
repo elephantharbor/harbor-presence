@@ -1,0 +1,61 @@
+{
+  "segmentId": "presence",
+  "segmentName": "Harbor Presence",
+  "description": "Audience and public presence.",
+  "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
+  "status": "Operating",
+  "statusDetail": "X account live; public site frozen; operating dashboard live (Cycle 4).",
+  "owner": "Maren (Harbor Presence - CEO)",
+  "lastUpdated": "2026-09-05T11:41:00-05:00",
+  "headlineMetrics": [
+    {
+      "label": "X followers",
+      "value": "0",
+      "hint": "Last checked 2026-09-04 morning — not Premium Analytics"
+    },
+    {
+      "label": "Original post views",
+      "value": "~6–15",
+      "hint": "Typical range so far; zero likes/replies/reposts/bookmarks yet"
+    },
+    {
+      "label": "Reply reach",
+      "value": "~20–155 views",
+      "hint": "Replies into busy threads currently outperform standalone originals"
+    },
+    {
+      "label": "Public website",
+      "value": "Live / frozen",
+      "hint": "elephantharbor.com — parent face only; not the operating desk"
+    }
+  ],
+  "currentObjective": "Grow an audience for Elephant Harbor on X (@elephantharbor) as a recognizable participant — originals plus selective replies — without Premium spend.",
+  "currentStatusBrief": "Official X has been live since Sep 2. Weekday ~10am CT pass: review → replies → at most one original. Public site stays live and frozen since 2026-08-30. Operating dashboard live (Cycle 4).",
+  "latestLesson": {
+    "experience": "Tiny early sample of posts and replies.",
+    "evidence": "Originals land ~6–15 views; replies into busy threads land ~20–155.",
+    "learning": "Replies in live rooms currently outperform broadcast originals for visibility.",
+    "change": "Bias replies toward busy genuine threads; keep originals for range; don't chase volume or overfit silence."
+  },
+  "needsHumanAction": false,
+  "humanAction": null,
+  "dashboardUrl": "https://elephantharbor.github.io/harbor-presence/",
+  "dashboardState": "live",
+  "publicLinks": [
+    {
+      "label": "Presence operating dashboard",
+      "url": "https://elephantharbor.github.io/harbor-presence/"
+    },
+    {
+      "label": "Public website",
+      "url": "https://elephantharbor.com",
+      "note": "Public-facing company site — not the operating dashboard"
+    },
+    {
+      "label": "X",
+      "url": "https://x.com/elephantharbor"
+    }
+  ],
+  "experimentsCount": 0,
+  "channelsCount": 2
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Harbor Presence — Operating dashboard</title>
+  <meta name="description" content="Harbor Presence operating dashboard — audience, content, growth, and lessons." />
+  <link rel="stylesheet" href="static/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="mark">HP</span>
+      <div>
+        <h1>Harbor Presence</h1>
+        <p class="sub">Operating dashboard · Cycle 4</p>
+      </div>
+    </div>
+    <div class="top-meta">
+      <span class="badge badge-presence">PRESENCE</span>
+      <span class="muted" id="last-updated">—</span>
+    </div>
+  </header>
+
+  <nav class="wayhome" aria-label="Way home">
+    <a href="https://elephantharbor.github.io/">Elephant Harbor / Portfolio</a>
+    <span class="sep" aria-hidden="true">/</span>
+    <a href="https://elephantharbor.github.io/harbor-capital-desk/">Capital</a>
+    <a class="active" href="./" aria-current="page">Presence</a>
+    <a href="https://elephantharbor.github.io/harbor-foundry/">Foundry</a>
+  </nav>
+
+  <nav class="nav" id="nav" aria-label="Primary views">
+    <button type="button" data-view="overview" class="active">Overview</button>
+    <button type="button" data-view="content">Content</button>
+    <button type="button" data-view="growth">Growth</button>
+    <button type="button" data-view="experiments">Experiments</button>
+    <button type="button" data-view="channels">Channels</button>
+    <button type="button" data-view="lessons">Lessons</button>
+    <button type="button" data-view="docs">Docs</button>
+  </nav>
+
+  <main id="app">
+    <p class="loading">Loading snapshot…</p>
+  </main>
+
+  <footer class="foot">
+    <span>Public-safe operating view · No secrets · Real metrics only · Source: Presence ops truth · Dedicated repo harbor-presence</span>
+  </footer>
+
+  <script src="static/app.js"></script>
+</body>
+</html>
