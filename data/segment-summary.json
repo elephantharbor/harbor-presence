@@ -11,29 +11,29 @@
     {
       "label": "X followers",
       "value": "0",
-      "hint": "Last checked 2026-09-04 morning — not Premium Analytics"
+      "hint": "Last checked 2026-09-04 morning \u2014 not Premium Analytics"
     },
     {
       "label": "Original post views",
-      "value": "~6–15",
+      "value": "~6\u201315",
       "hint": "Typical range so far; zero likes/replies/reposts/bookmarks yet"
     },
     {
       "label": "Reply reach",
-      "value": "~20–155 views",
+      "value": "~20\u2013155 views",
       "hint": "Replies into busy threads currently outperform standalone originals"
     },
     {
       "label": "Public website",
       "value": "Live / frozen",
-      "hint": "elephantharbor.com — parent face only; not the operating desk"
+      "hint": "elephantharbor.com \u2014 parent face only; not the operating desk"
     }
   ],
-  "currentObjective": "Grow an audience for Elephant Harbor on X (@elephantharbor) as a recognizable participant — originals plus selective replies — without Premium spend.",
-  "currentStatusBrief": "Official X has been live since Sep 2. Weekday ~10am CT pass: review → replies → at most one original. Public site stays live and frozen since 2026-08-30. Operating dashboard live (Cycle 4).",
+  "currentObjective": "Grow an audience for Elephant Harbor on X (@elephantharbor) as a recognizable participant \u2014 originals plus selective replies \u2014 without Premium spend.",
+  "currentStatusBrief": "Official X has been live since Sep 2. Weekday ~10am CT pass: review \u2192 replies \u2192 at most one original. Public site stays live and frozen since 2026-08-30. Operating dashboard live (Cycle 4).",
   "latestLesson": {
     "experience": "Tiny early sample of posts and replies.",
-    "evidence": "Originals land ~6–15 views; replies into busy threads land ~20–155.",
+    "evidence": "Originals land ~6\u201315 views; replies into busy threads land ~20\u2013155.",
     "learning": "Replies in live rooms currently outperform broadcast originals for visibility.",
     "change": "Bias replies toward busy genuine threads; keep originals for range; don't chase volume or overfit silence."
   },
@@ -49,7 +49,7 @@
     {
       "label": "Public website",
       "url": "https://elephantharbor.com",
-      "note": "Public-facing company site — not the operating dashboard"
+      "note": "Public-facing company site \u2014 not the operating dashboard"
     },
     {
       "label": "X",
@@ -57,5 +57,6 @@
     }
   ],
   "experimentsCount": 0,
-  "channelsCount": 2
+  "channelsCount": 2,
+  "freshnessNote": "Manual Presence ops feed. Metrics as-of last Rowan X check (see metric hints). lastUpdated is publish time of this summary."
 }
