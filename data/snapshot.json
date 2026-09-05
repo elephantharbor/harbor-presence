@@ -1,6 +1,6 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-05T18:24:00-05:00",
+  "lastUpdated": "2026-09-05T18:34:00-05:00",
   "cycle": "Audience Learning — Week of Sep 8",
   "metrics": {
     "xFollowers": "0",
@@ -11,8 +11,8 @@
     "likesRepliesReposts": "0"
   },
   "needsHumanAttention": [],
-  "currentObjective": "Grow Elephant Harbor as a recognizable participant on X — real conversations and at most one thoughtful original on weekdays — without buying Premium. Keep the public website frozen. Learn what actually earns attention, then change behavior.",
-  "currentStatus": "Weekend exception (Thomas ask, 2026-09-05 evening CT): two selective replies published; no original; followers still 0. Audience Learning week still starts Monday 2026-09-08 through Friday 2026-09-12. Weekday pass ~10:00 CT + 10:45 catch-up. EXP-01 (busy-thread replies vs originals) starts Monday — these weekend replies are ops, not the experiment sample. Public site elephantharbor.com stays frozen. Audience metrics otherwise still mostly as of 2026-09-04 morning until Monday refresh.",
+  "currentObjective": "Grow Elephant Harbor as a recognizable participant on X — real conversations first — without buying Premium. Weekday pass: study what others’ high-engagement replies are doing in live rooms, then ship 2–4 selective Harbor replies; at most one original for range. Keep the public website frozen. Learn what earns attention, then change behavior.",
+  "currentStatus": "Thomas (2026-09-05 evening) locked two cadence changes for Audience Learning week: (1) start each weekday pass by studying other people’s high-engagement replies in live rooms — steal structure, not voice; (2) target 2–4 quality replies per pass when openings exist (still never for pure visibility); ≤1 original. EXP-01 still runs Mon–Fri Sep 8–12 on public views. Weekend exception replies already posted 2026-09-05 are outside EXP-01. Next regular pass Monday ~10:00 CT (+10:45 catch-up). Followers still 0. Site frozen. Nothing needs Thomas right now.",
   "content": {
     "inputs": [
       "2026-09-05 evening: two selective replies (weekend exception per Thomas); no original.",
@@ -79,7 +79,7 @@
       "Shams trade-kicker",
       "PlayStation Vice City colorways"
     ],
-    "cadence": "Weekday ~10:00 CT: review → selective replies → ≤1 original. Safety net 10:45 CT if morning pass missed. Weekends quiet by design."
+    "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
     "summary": "Followers still 0 as of 2026-09-05 evening. Two fresh weekend replies just posted (views 0–1 right after publish — too early to read). Broader audience metrics otherwise still as of 2026-09-04 morning until Monday’s weekday refresh. Tiny sample — do not overfit.",
@@ -114,8 +114,8 @@
       "url": "https://x.com/elephantharbor",
       "status": "Operating",
       "role": "Primary audience surface",
-      "cadence": "Weekday ~10am CT: review → selective replies → ≤1 original",
-      "notes": "Live since Sep 2. Harbor mark. No Premium spend. Sep 4 morning routine miss caught manually."
+      "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks.",
+      "notes": "Live since Sep 2. Harbor mark. No Premium spend. Sep 4 morning routine miss caught manually. Cadence updated 2026-09-05: study others’ high-engagement replies first; 2–4 Harbor replies per pass."
     },
     {
       "id": "public-site",
@@ -129,6 +129,13 @@
     }
   ],
   "lessons": [
+    {
+      "id": "study-others-replies",
+      "experience": "Early Harbor posts and sparse replies got little traction; busy rooms already outperform broadcast originals.",
+      "evidence": "Originals ~6–15 public views; busy-thread replies ~20–155; followers still 0 after first days.",
+      "learning": "Scouting what other people’s replies are earning in a live room is a better guide than inventing a post in isolation.",
+      "change": "Weekday pass now starts by studying others’ high-engagement replies, then targets 2–4 selective Harbor replies (≤1 original). Effective Sep 8 week; Thomas-approved 2026-09-05."
+    },
     {
       "id": "reply-vs-original",
       "experience": "Tiny early sample of posts and replies.",
@@ -161,7 +168,8 @@
       "Lessons follow Experience → Evidence → Learning → Change; Learning must connect to Change.",
       "Public site (elephantharbor.com) is the company face; this Pages site is the operating dashboard.",
       "Public-safe only: no credentials, DMs, recovery info, or sensitive strategy.",
-      "Weekday X: ~10:00 CT primary pass, plus 10:45 CT missed-pass catch-up if the morning pass clearly did not run."
+      "Weekday X: ~10:00 CT primary pass, plus 10:45 CT missed-pass catch-up if the morning pass clearly did not run.",
+      "Weekday learning: before posting, study other people’s high-engagement replies in the room; then write 2–4 Harbor replies that steal structure, not voice."
     ],
     "team": [
       {
