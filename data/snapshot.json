@@ -1,29 +1,29 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
   "lastUpdated": "2026-09-05T12:44:00-05:00",
-  "cycle": "Cycle 4",
+  "cycle": "Cycle 5",
   "metrics": {
     "xFollowers": "0",
     "xFollowing": "0",
-    "originalPostViews": "~6–15",
-    "replyReach": "~20–155",
+    "originalPostViews": "~6\u201315",
+    "replyReach": "~20\u2013155",
     "publicWebsite": "Live / frozen",
     "likesRepliesReposts": "0"
   },
   "needsHumanAttention": [],
-  "currentObjective": "Grow an audience for Elephant Harbor on X (@elephantharbor) as a recognizable participant — originals plus selective replies — without Premium spend.",
-  "currentStatus": "Official X live since Sep 2 (Harbor mark; bio: “Parent company. The kids don't take our last name.”; website elephantharbor.com). Weekday ~10am CT pass: review → replies → at most one original. Public site stays live and frozen since 2026-08-30. Sep 4 morning routine missed fire — manual catch-up ran.",
+  "currentObjective": "Grow an audience for Elephant Harbor on X (@elephantharbor) as a recognizable participant \u2014 originals plus selective replies \u2014 without Premium spend.",
+  "currentStatus": "Official X live since Sep 2 (Harbor mark; bio: \u201cParent company. The kids don't take our last name.\u201d; website elephantharbor.com). Weekday ~10am CT pass: review \u2192 replies \u2192 at most one original. Public site stays live and frozen since 2026-08-30. Sep 4 morning routine missed fire \u2014 manual catch-up ran.",
   "content": {
     "inputs": [
-      "Weekday ~10am CT X pass: review & learn → selective replies → ≤1 original (weekend: no weekday pass by design).",
-      "Five originals posted Sep 2–4 (Clippers–Aspiration, Dyson toothbrush, Clippers penalty, FOMO premiere, octopus).",
+      "Weekday ~10am CT X pass: review & learn \u2192 selective replies \u2192 \u22641 original (weekend: no weekday pass by design).",
+      "Five originals posted Sep 2\u20134 (Clippers\u2013Aspiration, Dyson toothbrush, Clippers penalty, FOMO premiere, octopus).",
       "Selective replies into live rooms (examples: Ball State QB, NFL/Kirk Cousins, Clippers thread, Shams, PlayStation, league succession, Sacramento deal).",
-      "elephantharbor.com intentionally frozen — no updates since 2026-08-30 launch."
+      "elephantharbor.com intentionally frozen \u2014 no updates since 2026-08-30 launch."
     ],
     "outcomes": [
       "X followers: 0 (as of 2026-09-04 morning).",
-      "Following: 0 — not farming follows.",
-      "Original post views (public): ~6–15 each; likes/replies/reposts/bookmarks: 0.",
+      "Following: 0 \u2014 not farming follows.",
+      "Original post views (public): ~6\u201315 each; likes/replies/reposts/bookmarks: 0.",
       "Reply views into busy threads (samples): ~20 (Ball State), ~135 (Kirk Cousins), ~155 (one Clippers reply).",
       "Public website: live / frozen parent face; no site traffic figure published (no analytics at launch)."
     ],
@@ -31,22 +31,22 @@
     "originals": [
       {
         "date": "2026-09-02",
-        "title": "Clippers–Aspiration / Board of Governors",
+        "title": "Clippers\u2013Aspiration / Board of Governors",
         "url": "https://x.com/elephantharbor/status/2095271134967026142"
       },
       {
         "date": "2026-09-02",
-        "title": "Dyson toothbrush with camera, £420",
+        "title": "Dyson toothbrush with camera, \u00a3420",
         "url": "https://x.com/elephantharbor/status/2095271618968801295"
       },
       {
         "date": "2026-09-03",
-        "title": "Clippers salary-cap penalty — expensive group project",
+        "title": "Clippers salary-cap penalty \u2014 expensive group project",
         "url": "https://x.com/elephantharbor/status/2095531125003132972"
       },
       {
         "date": "2026-09-03",
-        "title": "FOMO YouTube premiere — anxiety with a calendar invite",
+        "title": "FOMO YouTube premiere \u2014 anxiety with a calendar invite",
         "url": "https://x.com/elephantharbor/status/2095617167202873698"
       },
       {
@@ -66,14 +66,14 @@
     ]
   },
   "growth": {
-    "summary": "Early sample only. As of 2026-09-04 morning: 0 followers, 0 following, originals quiet (~6–15 public views), replies into busy threads reach more eyes (~20–155). Engagement (likes/replies/reposts/bookmarks) still 0. Tiny sample — do not overfit.",
+    "summary": "Early sample only. As of 2026-09-04 morning: 0 followers, 0 following, originals quiet (~6\u201315 public views), replies into busy threads reach more eyes (~20\u2013155). Engagement (likes/replies/reposts/bookmarks) still 0. Tiny sample \u2014 do not overfit.",
     "followers": "0",
     "following": "0",
-    "originalViews": "~6–15",
-    "replyViews": "~20–155",
-    "analyticsNote": "Not Premium Analytics; last follower check 2026-09-04 morning. Profile visits / growth rate omitted — unknown or too early.",
-    "observation": "Replies into busy threads currently outperform standalone originals for visibility. Tiny early sample — do not overfit.",
-    "candidateNotStarted": "Replies into high-view live threads produce more profile visits/follows than standalone originals at same volume — measurement currently limited without Premium; would need a proxy we can see (public view counts + any follows). Not pre-registered; not an experiment yet."
+    "originalViews": "~6\u201315",
+    "replyViews": "~20\u2013155",
+    "analyticsNote": "Not Premium Analytics; last follower check 2026-09-04 morning. Profile visits / growth rate omitted \u2014 unknown or too early.",
+    "observation": "Replies into busy threads currently outperform standalone originals for visibility. Tiny early sample \u2014 do not overfit.",
+    "candidateNotStarted": "Replies into high-view live threads produce more profile visits/follows than standalone originals at same volume \u2014 measurement currently limited without Premium; would need a proxy we can see (public view counts + any follows). Not pre-registered; not an experiment yet."
   },
   "experiments": [],
   "channels": [
@@ -84,7 +84,7 @@
       "url": "https://x.com/elephantharbor",
       "status": "Operating",
       "role": "Primary audience surface",
-      "cadence": "Weekday ~10am CT: review → selective replies → ≤1 original",
+      "cadence": "Weekday ~10am CT: review \u2192 selective replies \u2192 \u22641 original",
       "notes": "Live since Sep 2. Harbor mark. No Premium spend. Sep 4 morning routine miss caught manually."
     },
     {
@@ -93,7 +93,7 @@
       "handle": "elephantharbor.com",
       "url": "https://elephantharbor.com",
       "status": "Live / frozen",
-      "role": "Public company face — NOT the operating dashboard",
+      "role": "Public company face \u2014 NOT the operating dashboard",
       "cadence": "Frozen (no updates since 2026-08-30)",
       "notes": "Parent face only. Pages: Home, /ventures, /approach, /privacy. This Pages site is the ops desk."
     }
@@ -102,14 +102,14 @@
     {
       "id": "reply-vs-original",
       "experience": "Tiny early sample of posts and replies.",
-      "evidence": "Originals land ~6–15 views; replies into busy threads land ~20–155.",
+      "evidence": "Originals land ~6\u201315 views; replies into busy threads land ~20\u2013155.",
       "learning": "Replies in live rooms currently outperform broadcast originals for visibility.",
       "change": "Bias replies toward busy genuine threads; keep originals for range; don't chase volume or overfit silence."
     },
     {
       "id": "public-counts-only",
       "experience": "Analytics gated behind Premium.",
-      "evidence": "X Analytics shows upsell / “Nothing to see here — yet”; we did not subscribe ($0).",
+      "evidence": "X Analytics shows upsell / \u201cNothing to see here \u2014 yet\u201d; we did not subscribe ($0).",
       "learning": "Only public counts are reliable for the dashboard.",
       "change": "Headline metrics = followers + public views; omit Premium-only fields; label last-checked dates."
     },
@@ -124,11 +124,11 @@
   "docs": {
     "howItWorks": [
       "Mission: build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-      "Presence is not synonymous with X — current surfaces are X and elephantharbor.com; more channels can be added without redesign.",
+      "Presence is not synonymous with X \u2014 current surfaces are X and elephantharbor.com; more channels can be added without redesign.",
       "Channels are extensible cards (schema: id, name, handle, url, status, role, cadence, notes).",
       "Inputs (posts, replies, cadence, site state) are shown separately from outcomes (followers, views, engagement).",
-      "Experiment discipline: no hindsight experiments; empty list means none pre-registered — candidate ideas live under growth, not as fake experiments.",
-      "Lessons follow Experience → Evidence → Learning → Change; Learning must connect to Change.",
+      "Experiment discipline: no hindsight experiments; empty list means none pre-registered \u2014 candidate ideas live under growth, not as fake experiments.",
+      "Lessons follow Experience \u2192 Evidence \u2192 Learning \u2192 Change; Learning must connect to Change.",
       "Public site (elephantharbor.com) is the company face; this Pages site is the operating dashboard.",
       "Public-safe only: no credentials, DMs, recovery info, or sensitive strategy."
     ],
