@@ -1,6 +1,6 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-05T17:42:00-05:00",
+  "lastUpdated": "2026-09-05T18:24:00-05:00",
   "cycle": "Audience Learning — Week of Sep 8",
   "metrics": {
     "xFollowers": "0",
@@ -12,9 +12,10 @@
   },
   "needsHumanAttention": [],
   "currentObjective": "Grow Elephant Harbor as a recognizable participant on X — real conversations and at most one thoughtful original on weekdays — without buying Premium. Keep the public website frozen. Learn what actually earns attention, then change behavior.",
-  "currentStatus": "Next ops week starts Monday 2026-09-08 (through Friday 2026-09-12 CT). Weekday X pass: review → selective replies into genuine live rooms → at most one original. Routine: primary ~10:00 CT plus 10:45 CT missed-pass catch-up. Public site elephantharbor.com stays live and frozen. EXP-01 (busy-thread replies vs originals on public views) is pre-registered; runs Mon–Fri with Friday closeout. Audience metrics still as of 2026-09-04 morning until Monday’s refresh — not inventing newer numbers.",
+  "currentStatus": "Weekend exception (Thomas ask, 2026-09-05 evening CT): two selective replies published; no original; followers still 0. Audience Learning week still starts Monday 2026-09-08 through Friday 2026-09-12. Weekday pass ~10:00 CT + 10:45 catch-up. EXP-01 (busy-thread replies vs originals) starts Monday — these weekend replies are ops, not the experiment sample. Public site elephantharbor.com stays frozen. Audience metrics otherwise still mostly as of 2026-09-04 morning until Monday refresh.",
   "content": {
     "inputs": [
+      "2026-09-05 evening: two selective replies (weekend exception per Thomas); no original.",
       "Weekday ~10am CT X pass: review & learn → selective replies → ≤1 original (weekend: no weekday pass by design).",
       "Five originals posted Sep 2–4 (Clippers–Aspiration, Dyson toothbrush, Clippers penalty, FOMO premiere, octopus).",
       "Selective replies into live rooms (examples: Ball State QB, NFL/Kirk Cousins, Clippers thread, Shams, PlayStation, league succession, Sacramento deal).",
@@ -27,7 +28,7 @@
       "Reply views into busy threads (samples): ~20 (Ball State), ~135 (Kirk Cousins), ~155 (one Clippers reply).",
       "Public website: live / frozen parent face; no site traffic figure published (no analytics at launch)."
     ],
-    "note": "Detailed post-by-post archive not published on this desk yet.",
+    "note": "Weekend replies on 2026-09-05 were a Thomas ops ask outside the quiet weekend rule. EXP-01 measurement window is Mon–Fri Sep 8–12 only.",
     "originals": [
       {
         "date": "2026-09-02",
@@ -56,18 +57,32 @@
       }
     ],
     "replyExamples": [
+      {
+        "date": "2026-09-05",
+        "text": "A sign that doubles as a spelling lesson and a pretrial exhibit. Efficient.",
+        "parent": "College GameDay sign “YOU CAN’T SPELL LAWSUIT WITHOUT LSU.” (@jrptigers)",
+        "url": "https://x.com/elephantharbor/status/2096377844049801669",
+        "publicViews": "none visible yet right after post",
+        "note": "Weekend exception — Thomas ask; not part of EXP-01 sample"
+      },
+      {
+        "date": "2026-09-05",
+        "text": "A noir show getting canceled after one season is almost offensively on-brand.",
+        "parent": "Culture Crave — Spider-Noir canceled by Prime Video after one season",
+        "url": "https://x.com/elephantharbor/status/2096378111138967864",
+        "publicViews": "1 right after post",
+        "note": "Weekend exception — Thomas ask; not part of EXP-01 sample"
+      },
       "Ball State QB photoshop",
       "NFL / Kirk Cousins desk",
       "Clippers thread (2)",
       "Shams trade-kicker",
-      "PlayStation Vice City colorways",
-      "League succession handoff",
-      "Sacramento one-year deal as pilot"
+      "PlayStation Vice City colorways"
     ],
     "cadence": "Weekday ~10:00 CT: review → selective replies → ≤1 original. Safety net 10:45 CT if morning pass missed. Weekends quiet by design."
   },
   "growth": {
-    "summary": "Early sample only. Audience metrics still as of 2026-09-04 morning (0 followers, originals ~6–15 public views, busy-thread replies ~20–155). Week of Sep 8 starts Monday — refresh after weekday passes. Do not overfit the tiny pre-cycle sample.",
+    "summary": "Followers still 0 as of 2026-09-05 evening. Two fresh weekend replies just posted (views 0–1 right after publish — too early to read). Broader audience metrics otherwise still as of 2026-09-04 morning until Monday’s weekday refresh. Tiny sample — do not overfit.",
     "followers": "0",
     "following": "0",
     "originalViews": "~6–15",
