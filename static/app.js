@@ -61,6 +61,40 @@
     return `<ul class="list-plain">${arr.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`;
   }
 
+
+  function renderNextUp(s) {
+    const nu = s.nextUp || {};
+    const items = nu.items || [];
+    let body;
+    if (!items.length) {
+      body = `<div class="empty"><strong>Nothing scheduled</strong>No upcoming Presence routines right now.</div>`;
+    } else {
+      body = `<div class="stack">${items
+        .map((it) => {
+          const when = it.nextRunAt
+            ? fmtUpdated(it.nextRunAt)
+            : "—";
+          return `<div class="item-card" style="margin-bottom:6px">
+            <div class="head">
+              <h3 class="title">${esc(it.title)}</h3>
+              ${it.owner ? `<span class="muted">${esc(it.owner)}</span>` : ""}
+            </div>
+            <div class="meta-grid">
+              <div class="k">Next run</div><div class="v">${when}</div>
+              ${it.scheduleLabel ? `<div class="k">Cadence</div><div class="v">${esc(it.scheduleLabel)}</div>` : ""}
+            </div>
+          </div>`;
+        })
+        .join("")}</div>`;
+    }
+    return `
+      <div class="card" style="margin-top:10px">
+        <h2>Next Up</h2>
+        <p class="dim" style="margin:0 0 8px;font-size:11px">Next scheduled Presence routines (America/Chicago). Refreshed when a routine runs.</p>
+        ${body}
+      </div>`;
+  }
+
   function renderOverview(s) {
     const m = s.metrics || {};
     const attention = s.needsHumanAttention || [];
@@ -99,6 +133,7 @@
         <p class="dim" style="margin:0 0 8px;font-size:11px">Only genuine decisions, gates, or blockers — not routine activity.</p>
         ${attentionHtml}
       </div>
+      ${renderNextUp(s)}
       <div class="callout info" style="margin-top:10px">
         <strong>Inputs vs outcomes.</strong> Posts, replies, and cadence are inputs. Followers, views, and engagement are outcomes. Do not confuse activity with growth.
       </div>
