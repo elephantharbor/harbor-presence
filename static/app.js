@@ -64,35 +64,22 @@
 
   function renderNextUp(s) {
     const nu = s.nextUp || {};
-    const items = nu.items || [];
-    let body;
+    const items = (nu.items || []).slice(0, 3);
     if (!items.length) {
-      body = `<div class="empty"><strong>Nothing scheduled</strong>No upcoming Presence routines right now.</div>`;
-    } else {
-      body = `<div class="stack">${items
-        .map((it) => {
-          const when = it.nextRunAt
-            ? fmtUpdated(it.nextRunAt)
-            : "—";
-          return `<div class="item-card" style="margin-bottom:6px">
-            <div class="head">
-              <h3 class="title">${esc(it.title)}</h3>
-              ${it.owner ? `<span class="muted">${esc(it.owner)}</span>` : ""}
-            </div>
-            <div class="meta-grid">
-              <div class="k">Next run</div><div class="v">${when}</div>
-              ${it.scheduleLabel ? `<div class="k">Cadence</div><div class="v">${esc(it.scheduleLabel)}</div>` : ""}
-            </div>
-          </div>`;
-        })
-        .join("")}</div>`;
+      return `<div class="next-up empty" style="margin-top:10px"><div class="next-up-title">Next up</div><p class="next-up-empty">Nothing scheduled.</p></div>`;
     }
-    return `
-      <div class="card" style="margin-top:10px">
-        <h2>Next Up</h2>
-        <p class="dim" style="margin:0 0 8px;font-size:11px">Next scheduled Presence routines (America/Chicago). Refreshed when a routine runs.</p>
-        ${body}
-      </div>`;
+    const lis = items
+      .map((it) => {
+        const meta = [it.scheduleLabel, it.owner].filter(Boolean).map(esc).join(" · ");
+        const when = it.nextRunAt ? fmtUpdated(it.nextRunAt) : "—";
+        return `<li>
+          <div class="nu-title">${esc(it.title || "—")}</div>
+          <div class="nu-when">${esc(when)}</div>
+          ${meta ? `<div class="nu-meta">${meta}</div>` : ""}
+        </li>`;
+      })
+      .join("");
+    return `<div class="next-up" style="margin-top:10px"><div class="next-up-title">Next up</div><p class="next-up-help">America/Chicago · refreshes after each routine run</p><ol>${lis}</ol></div>`;
   }
 
   function renderOverview(s) {
