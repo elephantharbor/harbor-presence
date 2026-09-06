@@ -1,6 +1,6 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-05T18:34:00-05:00",
+  "lastUpdated": "2026-09-06T14:31:16-05:00",
   "cycle": "Audience Learning — Week of Sep 8",
   "metrics": {
     "xFollowers": "0",
@@ -184,5 +184,24 @@
       }
     ],
     "provenance": "Seeded from portfolio data/segments/presence.json, Cycle 4 brief, and Rowan-validated X/site truth (2026-09-05). Public-safe only. Real metrics only; unknowns stay unknown. Rowan validates ongoing truth."
+  },
+  "nextUp": {
+    "areaId": "presence",
+    "areaName": "Harbor Presence",
+    "lastUpdated": "2026-09-06T14:31:16-05:00",
+    "items": [
+      {
+        "title": "Weekday X pass",
+        "nextRunAt": "2026-09-07T10:00:00-05:00",
+        "scheduleLabel": "Weekdays 10:00 AM CT",
+        "owner": "Rowan (Harbor Presence - Lead)"
+      },
+      {
+        "title": "X missed-pass catch-up",
+        "nextRunAt": "2026-09-07T10:45:00-05:00",
+        "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
+        "owner": "Rowan (Harbor Presence - Lead)"
+      }
+    ]
   }
 }
