@@ -1,18 +1,20 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-06T14:31:16-05:00",
+  "lastUpdated": "2026-09-07T10:52:53-05:00",
   "cycle": "Audience Learning — Week of Sep 8",
   "metrics": {
     "xFollowers": "0",
     "xFollowing": "0",
-    "originalPostViews": "~6–15",
+    "originalPostViews": "~7–18",
     "replyReach": "~20–155",
     "publicWebsite": "Live / frozen",
     "likesRepliesReposts": "0"
   },
-  "needsHumanAttention": [],
+  "needsHumanAttention": [
+    "Approve Auto-review for Rowan outbound X posts so the weekday engage step can publish (not a Premium/spend ask)."
+  ],
   "currentObjective": "Grow Elephant Harbor as a recognizable participant on X — real conversations first — without buying Premium. Weekday pass: study what others’ high-engagement replies are doing in live rooms, then ship 2–4 selective Harbor replies; at most one original for range. Keep the public website frozen. Learn what earns attention, then change behavior.",
-  "currentStatus": "Thomas (2026-09-05 evening) locked two cadence changes for Audience Learning week: (1) start each weekday pass by studying other people’s high-engagement replies in live rooms — steal structure, not voice; (2) target 2–4 quality replies per pass when openings exist (still never for pure visibility); ≤1 original. EXP-01 still runs Mon–Fri Sep 8–12 on public views. Weekend exception replies already posted 2026-09-05 are outside EXP-01. Next regular pass Monday ~10:00 CT (+10:45 catch-up). Followers still 0. Site frozen. Nothing needs Thomas right now.",
+  "currentStatus": "2026-09-07 weekday pass: review completed; engage not yet live — Auto-review blocked outbound X posts (approval card for Thomas). Three reply drafts queued (Schefter Falcons QB; NFL two-year QB; DiscussingFilm one-season noir); no original today. Followers still 0. EXP-01 measurement window still Mon–Fri starting 2026-09-08 per plan (today baseline only). Site frozen. Avatar swap pending brand kit handoff to Rowan.",
   "content": {
     "inputs": [
       "2026-09-05 evening: two selective replies (weekend exception per Thomas); no original.",
@@ -82,12 +84,12 @@
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "Followers still 0 as of 2026-09-05 evening. Two fresh weekend replies just posted (views 0–1 right after publish — too early to read). Broader audience metrics otherwise still as of 2026-09-04 morning until Monday’s weekday refresh. Tiny sample — do not overfit.",
+    "summary": "As of 2026-09-07 morning: followers 0, following 0; originals ~7–18 public views with zero likes; recent Harbor replies often single-digit views. Busy-thread replies still beat standalone originals. Pattern unchanged.",
     "followers": "0",
     "following": "0",
-    "originalViews": "~6–15",
+    "originalViews": "~7–18",
     "replyViews": "~20–155",
-    "analyticsNote": "Not Premium Analytics; last follower check 2026-09-04 morning. Profile visits / growth rate omitted — unknown or too early.",
+    "analyticsNote": "Public counts only; not Premium Analytics. Last refresh 2026-09-07 morning (Rowan).",
     "observation": "Replies into busy threads currently outperform standalone originals for visibility. Tiny early sample — do not overfit.",
     "cycleNote": "EXP-01 pre-registered for Week of Sep 8; measurement begins Monday."
   },
@@ -95,7 +97,7 @@
     {
       "id": "EXP-01",
       "title": "Busy-thread replies vs originals (public views)",
-      "status": "Pre-registered — starts Monday 2026-09-08",
+      "status": "Pre-registered — measurement window Mon 2026-09-08 through Fri 2026-09-12 (today is baseline only)",
       "hypothesis": "For the week of Sep 8, the median public view count on selective replies into already-busy threads will be at least 2× the median public view count on that week’s originals.",
       "change": "Keep replies only where we have something real to say, preferring busy genuine rooms; keep at most one original per weekday for range (not a reply farm).",
       "measurement": "Each weekday after the pass, record public view counts (and any likes/replies/reposts/bookmarks) on that day’s original (if any) and each reply; also note follower count. Profile visits omitted (unknown without Premium).",
@@ -188,17 +190,17 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-06T14:31:16-05:00",
+    "lastUpdated": "2026-09-07T10:52:53-05:00",
     "items": [
       {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-09-07T10:00:00-05:00",
+        "nextRunAt": "2026-09-08T10:00:00-05:00",
         "scheduleLabel": "Weekdays 10:00 AM CT",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-09-07T10:45:00-05:00",
+        "nextRunAt": "2026-09-08T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }
