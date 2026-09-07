@@ -1,6 +1,6 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-07T10:52:53-05:00",
+  "lastUpdated": "2026-09-07T11:10:47-05:00",
   "cycle": "Audience Learning — Week of Sep 8",
   "metrics": {
     "xFollowers": "0",
@@ -10,11 +10,9 @@
     "publicWebsite": "Live / frozen",
     "likesRepliesReposts": "0"
   },
-  "needsHumanAttention": [
-    "Approve Auto-review for Rowan outbound X posts so the weekday engage step can publish (not a Premium/spend ask)."
-  ],
+  "needsHumanAttention": [],
   "currentObjective": "Grow Elephant Harbor as a recognizable participant on X — real conversations first — without buying Premium. Weekday pass: study what others’ high-engagement replies are doing in live rooms, then ship 2–4 selective Harbor replies; at most one original for range. Keep the public website frozen. Learn what earns attention, then change behavior.",
-  "currentStatus": "2026-09-07 weekday pass: review completed; engage not yet live — Auto-review blocked outbound X posts (approval card for Thomas). Three reply drafts queued (Schefter Falcons QB; NFL two-year QB; DiscussingFilm one-season noir); no original today. Followers still 0. EXP-01 measurement window still Mon–Fri starting 2026-09-08 per plan (today baseline only). Site frozen. Avatar swap pending brand kit handoff to Rowan.",
+  "currentStatus": "2026-09-07: @elephantharbor profile avatar updated to canonical Harbor Gate icon-ink from /brand/. Weekday review ran; three reply drafts remain unpublished after Auto-review approval was dismissed without a choice (hold until explicit go). No new reply/original URLs today. Followers still 0. Site frozen. EXP-01 measurement still planned Mon–Fri from 2026-09-08.",
   "content": {
     "inputs": [
       "2026-09-05 evening: two selective replies (weekend exception per Thomas); no original.",
@@ -117,7 +115,7 @@
       "status": "Operating",
       "role": "Primary audience surface",
       "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks.",
-      "notes": "Live since Sep 2. Harbor mark. No Premium spend. Sep 4 morning routine miss caught manually. Cadence updated 2026-09-05: study others’ high-engagement replies first; 2–4 Harbor replies per pass."
+      "notes": "Avatar: canonical Harbor Gate icon-ink from /brand/exports (set 2026-09-07). Cadence: study others’ high-engagement replies first; 2–4 Harbor replies; ≤1 original. 2026-09-07 engage held pending explicit go after Auto-review dismiss."
     },
     {
       "id": "public-site",
