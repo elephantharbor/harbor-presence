@@ -1,6 +1,6 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-07T11:10:47-05:00",
+  "lastUpdated": "2026-09-07T11:56:34-05:00",
   "cycle": "Audience Learning — Week of Sep 8",
   "metrics": {
     "xFollowers": "0",
@@ -12,9 +12,10 @@
   },
   "needsHumanAttention": [],
   "currentObjective": "Grow Elephant Harbor as a recognizable participant on X — real conversations first — without buying Premium. Weekday pass: study what others’ high-engagement replies are doing in live rooms, then ship 2–4 selective Harbor replies; at most one original for range. Keep the public website frozen. Learn what earns attention, then change behavior.",
-  "currentStatus": "2026-09-07: @elephantharbor profile avatar updated to canonical Harbor Gate icon-ink from /brand/. Weekday review ran; three reply drafts remain unpublished after Auto-review approval was dismissed without a choice (hold until explicit go). No new reply/original URLs today. Followers still 0. Site frozen. EXP-01 measurement still planned Mon–Fri from 2026-09-08.",
+  "currentStatus": "2026-09-07 pass complete: three selective replies live in busy rooms (Schefter ~4M, NFL ~1M, DiscussingFilm ~15M parent views); no original; followers still 0; reply public views still mostly unset right after post. Avatar is canonical Harbor Gate icon-ink. Site frozen. EXP-01 measurement starts 2026-09-08 (today outside sample). Nothing needs Thomas.",
   "content": {
     "inputs": [
+      "2026-09-07: three selective replies published (Schefter/Falcons, NFL/Jameis, DiscussingFilm/Spider-Noir); no original.",
       "2026-09-05 evening: two selective replies (weekend exception per Thomas); no original.",
       "Weekday ~10am CT X pass: review & learn → selective replies → ≤1 original (weekend: no weekday pass by design).",
       "Five originals posted Sep 2–4 (Clippers–Aspiration, Dyson toothbrush, Clippers penalty, FOMO premiere, octopus).",
@@ -28,7 +29,7 @@
       "Reply views into busy threads (samples): ~20 (Ball State), ~135 (Kirk Cousins), ~155 (one Clippers reply).",
       "Public website: live / frozen parent face; no site traffic figure published (no analytics at launch)."
     ],
-    "note": "Weekend replies on 2026-09-05 were a Thomas ops ask outside the quiet weekend rule. EXP-01 measurement window is Mon–Fri Sep 8–12 only.",
+    "note": "2026-09-07 replies published after Thomas cleared Auto-review. EXP-01 measurement window is 2026-09-08 through 2026-09-12 — today’s replies are outside that sample.",
     "originals": [
       {
         "date": "2026-09-02",
@@ -58,6 +59,33 @@
     ],
     "replyExamples": [
       {
+        "date": "2026-09-07",
+        "text": "The Falcons have chosen the rare quarterback competition format where the medical report gets a co-starring credit.",
+        "parent": "Adam Schefter — Tua / Falcons QB competition",
+        "url": "https://x.com/elephantharbor/status/2097004503350362401",
+        "publicViews": "not shown yet right after post",
+        "parentViews": "~4M",
+        "note": "Published after Thomas approved Auto-review; outside EXP-01 week (starts 2026-09-08)"
+      },
+      {
+        "date": "2026-09-07",
+        "text": "Two years is a long-term commitment to a quarterback whose weekly genre is still being decided.",
+        "parent": "NFL — Jameis / two-year QB commitment",
+        "url": "https://x.com/elephantharbor/status/2097004713677897846",
+        "publicViews": "not shown yet right after post",
+        "parentViews": "~1M",
+        "note": "Published after Thomas approved Auto-review; outside EXP-01 week (starts 2026-09-08)"
+      },
+      {
+        "date": "2026-09-07",
+        "text": "A one-season noir with a clean ending is practically a public service. The cliffhanger economy has suffered enough.",
+        "parent": "DiscussingFilm — Spider-Noir canceled after one season",
+        "url": "https://x.com/elephantharbor/status/2097005283767632054",
+        "publicViews": "1 right after post",
+        "parentViews": "~15M",
+        "note": "Published after Thomas approved Auto-review; outside EXP-01 week (starts 2026-09-08)"
+      },
+      {
         "date": "2026-09-05",
         "text": "A sign that doubles as a spelling lesson and a pretrial exhibit. Efficient.",
         "parent": "College GameDay sign “YOU CAN’T SPELL LAWSUIT WITHOUT LSU.” (@jrptigers)",
@@ -72,12 +100,7 @@
         "url": "https://x.com/elephantharbor/status/2096378111138967864",
         "publicViews": "1 right after post",
         "note": "Weekend exception — Thomas ask; not part of EXP-01 sample"
-      },
-      "Ball State QB photoshop",
-      "NFL / Kirk Cousins desk",
-      "Clippers thread (2)",
-      "Shams trade-kicker",
-      "PlayStation Vice City colorways"
+      }
     ],
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
@@ -115,7 +138,7 @@
       "status": "Operating",
       "role": "Primary audience surface",
       "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks.",
-      "notes": "Avatar: canonical Harbor Gate icon-ink from /brand/exports (set 2026-09-07). Cadence: study others’ high-engagement replies first; 2–4 Harbor replies; ≤1 original. 2026-09-07 engage held pending explicit go after Auto-review dismiss."
+      "notes": "Avatar: canonical Harbor Gate icon-ink from /brand/ (live 2026-09-07). Cadence: study others’ high-engagement replies; 2–4 Harbor replies; ≤1 original. 2026-09-07: three replies published after Auto-review approval."
     },
     {
       "id": "public-site",
