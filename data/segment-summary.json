@@ -4,38 +4,39 @@
   "description": "Audience and public presence.",
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
   "status": "Operating",
-  "statusDetail": "X live with brand avatar; three replies published 2026-09-07; site frozen; EXP-01 starts 2026-09-08.",
+  "statusDetail": "EXP-01 Day 1 complete (3 replies + 1 original); followers 0; posts 22; site rebrand live (Gmail temporary).",
   "owner": "Maren (Harbor Presence - CEO)",
-  "lastUpdated": "2026-09-07T11:56:34-05:00",
+  "lastUpdated": "2026-09-08T11:30:00-05:00",
   "headlineMetrics": [
     {
       "label": "X followers",
       "value": "0",
-      "hint": "Checked 2026-09-07 morning — not Premium Analytics"
+      "hint": "Checked 2026-09-08 Mon pass — not Premium Analytics"
     },
     {
-      "label": "Original post views",
-      "value": "~7–18",
-      "hint": "Still near-zero likes/replies/reposts/bookmarks"
+      "label": "X posts",
+      "value": "22",
+      "hint": "Public post count"
     },
     {
       "label": "Reply reach",
-      "value": "~20–155 views",
-      "hint": "Replies into busy threads currently outperform standalone originals"
+      "value": "~1–208 views",
+      "hint": "Post-time ~1; Sep 7 Spider-Noir overnight ~207–208 (outside EXP-01)"
     },
     {
       "label": "Public website",
-      "value": "Live / frozen",
-      "hint": "elephantharbor.com — parent face only; not the operating desk"
+      "value": "Live (rebrand)",
+      "hint": "elephantharbor.com — Gmail temporary; domain email post-cutover"
     }
   ],
-  "currentObjective": "Grow Elephant Harbor as a recognizable participant on X — real conversations first — without buying Premium. Weekday pass: study what others’ high-engagement replies are doing in live rooms, then ship 2–4 selective Harbor replies; at most one original for range. Keep the public website frozen. Learn what earns attention, then change behavior.",
-  "currentStatusBrief": "2026-09-07: three X replies live in high-view threads (Falcons/Schefter, Jameis/NFL, Spider-Noir); no original; followers still 0. Brand avatar live. EXP-01 measurement starts tomorrow (2026-09-08). Site frozen. Nothing needs Thomas.",
+  "currentObjective": "Grow Elephant Harbor as a recognizable participant on X — real conversations first — without buying Premium. Weekday pass: study what others’ high-engagement replies are doing in live rooms, then ship 2–4 selective Harbor replies; at most one original for range. Learn what earns attention, then change behavior. Public site is live (rebrand); domain email is post-cutover.",
+  "currentStatusBrief": "EXP-01 Day 1 (Mon): 3 replies + 1 original live; views ~1 at post (too early). Sep 7 Spider-Noir reply ~207–208 overnight — keep busy-thread bias, don’t overfit. Next pass Tue 10:00 CT. Nothing needs Thomas.",
   "latestLesson": {
-    "experience": "Early posts and sparse replies got little traction; busy rooms already beat broadcast originals.",
-    "evidence": "Originals ~6–15 public views; busy-thread replies ~20–155; followers still 0.",
-    "learning": "What other people’s replies earn in a live room is a better guide than posting in isolation.",
-    "change": "Weekday pass starts with studying others’ high-engagement replies, then targets 2–4 selective Harbor replies."
+    "id": "dont-overfit-spike",
+    "experience": "One Sep 7 entertainment-room reply (Spider-Noir) climbed overnight to ~207–208 views while sibling replies stayed low.",
+    "evidence": "Spider-Noir ~207–208; other Sep 7 replies remained low; followers still 0.",
+    "learning": "A single overnight spike in a busy room is a surface signal, not proof to chase volume or change the whole cadence.",
+    "change": "Keep selective busy-thread replies (2–4); ≤1 original; don’t overfit one spike. Logged 2026-09-08 from Rowan Day 1 delta."
   },
   "needsHumanAction": false,
   "humanAction": null,
