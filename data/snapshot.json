@@ -1,6 +1,6 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-09T10:30:00-05:00",
+  "lastUpdated": "2026-09-09T13:16:00-05:00",
   "cycle": "Audience Learning — Week of Sep 8",
   "metrics": {
     "xFollowers": "0",
@@ -9,36 +9,35 @@
     "replyReach": "Sep 8 overnight: Zelda 1,370 · Pelicans 54 · Suns/Wudang 23; Sep 9 replies ~2 at post",
     "publicWebsite": "Live (rebrand; Gmail temporary)",
     "likesRepliesReposts": "0",
-    "xPosts": "24"
+    "xPosts": "25"
   },
-  "needsHumanAttention": [
-    {
-      "id": "exp01-day2-original-auto-review",
-      "title": "Approve Day 2 original (Auto-review blocked)",
-      "detail": "Draft: “A day on Venus lasts longer than a year on Venus. Product managers hate this one simple calendar.” Rowan ready to publish; Auto-review blocked the dispatch. No phone/2FA/captcha.",
-      "owner": "Thomas",
-      "urgency": "same-day if original is wanted for EXP-01 Day 2"
-    }
-  ],
+  "needsHumanAttention": [],
   "currentObjective": "EXP-01 week (Sep 8–12): selective busy-thread replies (2–4) after studying others’ high-engagement reply structures; ≤1 original/day for range; $0 / no Premium. Public site live (rebrand); domain email post-cutover.",
-  "currentStatus": "EXP-01 Day 2 (2026-09-09): 2 selective replies live (NFL Lombardi/Stafford; Schefter Super Bowl LXI/footballs) ~2 views at post; original drafted but Auto-review blocked — waiting on Thomas. Overnight Sep 8: Zelda reply 1,370 · Pelicans 54 · Suns 23 · jellyfish original 3 — busy-thread replies still beating originals. Followers 0; posts 24 (before pending original). Next weekday pass Thu 2026-09-10 10:00 CT. No Premium / spend.",
+  "currentStatus": "EXP-01 Day 2 complete (2026-09-09): 2 selective replies + Venus original live. Followers 0; posts 25; original public views not shown yet at post. Day 1 overnight still the strong signal (Zelda 1,370 vs jellyfish original 3). Next weekday pass Thu 2026-09-10 10:00 CT. No Premium / gate / spend. Nothing needs Thomas.",
   "content": {
     "inputs": [
-      "2026-09-09 (EXP-01 Day 2): 2 selective replies (NFL Lombardi collage/Stafford; Schefter Super Bowl LXI/footballs). Original drafted (Venus calendar) — Auto-review blocked; awaiting Thomas.",
+      "2026-09-09 (EXP-01 Day 2): 2 selective replies (NFL Lombardi/Stafford; Schefter Super Bowl LXI) + original (Venus calendar) live.",
       "2026-09-08 (EXP-01 Day 1): 3 replies + 1 original (immortal jellyfish). Overnight views: Zelda 1,370; Pelicans 54; Suns 23; original 3.",
       "Weekday pass structure study (steal structure not voice): agreement + self-deprecating timing; specific comparison + visual; instant visual emotion; concise pun/personal choice.",
       "Weekday ~10am CT X pass: review & learn → selective replies → ≤1 original.",
       "elephantharbor.com rebrand live; Gmail temporary."
     ],
     "outcomes": [
-      "X followers: 0 (2026-09-09). Posts: 24 after Day 2 replies; Day 2 original not yet live.",
-      "EXP-01 Day 1 overnight: reply views 23 / 54 / 1,370 vs original 3 — replies clearly ahead so far.",
-      "Day 2 replies ~2 views at post (too early).",
-      "Human gate: Auto-review on Day 2 original only (no phone/2FA).",
+      "X followers: 0 (2026-09-09). Posts: 25. Day 2 complete.",
+      "EXP-01 Day 1 overnight: replies 23 / 54 / 1,370 (median 54) vs original 3 — hypothesis holding so far.",
+      "Day 2: 2 replies (~2 at post earlier) + Venus original (views not shown yet at post).",
+      "Human gate closed — Auto-review cleared; no phone/2FA.",
       "Public website: live rebrand; contact still Gmail."
     ],
-    "note": "EXP-01 window 2026-09-08 through 2026-09-12. Day 1 overnight counts are the first solid median signal; Day 2 original pending approval.",
+    "note": "EXP-01 window 2026-09-08 through 2026-09-12. Day 2 complete; Friday closeout still the median call.",
     "originals": [
+      {
+        "date": "2026-09-09",
+        "title": "Venus day longer than Venus year / product managers",
+        "url": "https://x.com/elephantharbor/status/2097750839104274873",
+        "publicViews": "not shown yet at post",
+        "note": "EXP-01 Day 2 original — published after Auto-review/Thomas clearance"
+      },
       {
         "date": "2026-09-08",
         "title": "Immortal jellyfish — still gets eaten",
@@ -157,35 +156,28 @@
         "note": "Weekend exception — Thomas ask; not part of EXP-01 sample"
       }
     ],
-    "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks.",
-    "pending": {
-      "date": "2026-09-09",
-      "type": "original",
-      "draft": "A day on Venus lasts longer than a year on Venus. Product managers hate this one simple calendar.",
-      "status": "Auto-review blocked — awaiting Thomas approval",
-      "note": "EXP-01 Day 2 original; Rowan ready to publish"
-    }
+    "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "Followers still 0. Day 1 overnight: Zelda reply 1,370 vs jellyfish original 3 — busy-thread replies continue to dominate. Day 2: 2 replies live (~2 at post); original gated on Auto-review/Thomas.",
+    "summary": "Followers 0; posts 25. Day 2 complete (2 replies + Venus original). Day 1 overnight still favors busy-thread replies (Zelda 1,370 vs original 3).",
     "followers": "0",
     "following": "0",
-    "posts": "24",
+    "posts": "25",
     "originalViews": "Sep 8 overnight: 3 (jellyfish); older still low",
     "replyViews": "Sep 8 overnight: 23–1,370; Day 2 ~2 at post",
     "analyticsNote": "Public counts only. Last refresh 2026-09-09 Day 2 pass (Rowan).",
     "observation": "Steal structure not voice from high-engagement replies. Don’t overfit single spikes; Day 1 set still favors busy rooms.",
-    "cycleNote": "EXP-01 Day 2 of 5 — original pending approval."
+    "cycleNote": "EXP-01 Day 2 of 5 complete — no open human gates."
   },
   "experiments": [
     {
       "id": "EXP-01",
       "title": "Busy-thread replies vs originals (public views)",
-      "status": "In measurement — Day 2 of 5 (Mon 2026-09-08 through Fri 2026-09-12)",
+      "status": "In measurement — Day 2 of 5 complete (through Fri 2026-09-12)",
       "hypothesis": "For the week of Sep 8, the median public view count on selective replies into already-busy threads will be at least 2× the median public view count on that week’s originals.",
       "change": "Keep replies only where we have something real to say, preferring busy genuine rooms; keep at most one original per weekday for range (not a reply farm).",
       "measurement": "Each weekday after the pass, record public view counts (and any likes/replies/reposts/bookmarks) on that day’s original (if any) and each reply; also note follower count. Profile visits omitted (unknown without Premium).",
-      "result": "Day 1 overnight: replies 23 / 54 / 1,370 (median 54) vs original 3 — hypothesis holding so far (≥2×). Day 2: 2 replies posted (~2 at post); original not yet live (Auto-review).",
+      "result": "Day 1 overnight: replies 23 / 54 / 1,370 (median 54) vs original 3 — hypothesis holding so far (≥2×). Day 2 complete: 2 replies + Venus original (views at post not shown yet).",
       "conclusion": null,
       "decision": "Friday 2026-09-12 closeout. If hypothesis holds, keep the busy-thread bias. If not, reopen where we spend attention. Secondary signal only: any new followers or likes.",
       "decisionDate": "2026-09-12",
@@ -201,7 +193,7 @@
       "status": "Operating",
       "role": "Primary audience surface",
       "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks.",
-      "notes": "2026-09-09 EXP-01 Day 2: 2 replies live; original pending Thomas/Auto-review. Day 1 overnight confirmed busy-thread advantage (Zelda 1,370)."
+      "notes": "2026-09-09 EXP-01 Day 2 complete: 2 replies + Venus original. Day 1 overnight confirmed busy-thread advantage (Zelda 1,370)."
     },
     {
       "id": "public-site",
@@ -281,7 +273,7 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-09T10:30:00-05:00",
+    "lastUpdated": "2026-09-09T13:16:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
