@@ -1,6 +1,6 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-09T16:56:00-05:00",
+  "lastUpdated": "2026-09-09T17:00:00-05:00",
   "cycle": "Audience Learning — Week of Sep 8",
   "metrics": {
     "xFollowers": "0",
@@ -302,21 +302,25 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-09T16:56:00-05:00",
+    "lastUpdated": "2026-09-09T17:00:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-09T17:00:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Aligned Presence Session Log to the shared contract path data/session-log/presence.json (Wells mirror path).",
+        "deskChanges": "Canonical log file moved to data/session-log/presence.json; snapshot.sessionLog kept in sync; old data/session-log.json retained as a redirect stub."
+      },
       {
         "at": "2026-09-09T16:56:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
         "summary": "Adopted Thomas’s Session Log & Lessons standard: added origination dates to all Presence lessons (backfilled older ones), opened a Presence Session Log, and asked Rowan to append after every material X pass.",
-        "deskChanges": "Lessons gained originationDate; new Log tab + data/session-log.json; docs note on standard.",
-        "lessonId": null
+        "deskChanges": "Lessons gained originationDate; new Log tab + data/session-log.json; docs note on standard."
       },
       {
         "at": "2026-09-09T13:16:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
         "summary": "Closed the human gate after Rowan’s Venus original published. Marked EXP-01 Day 2 complete (two replies + original).",
-        "deskChanges": "Cleared needsHumanAttention; logged Venus original; posts → 25; segment summary gate off.",
-        "lessonId": null
+        "deskChanges": "Cleared needsHumanAttention; logged Venus original; posts → 25; segment summary gate off."
       },
       {
         "at": "2026-09-09T10:30:00-05:00",
@@ -336,8 +340,7 @@
         "at": "2026-09-07T15:00:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
         "summary": "Thomas greenlit elephantharbor.com rebrand cutover with temporary Gmail; domain email left as post-cutover work with Wells.",
-        "deskChanges": "Public site status moved from frozen to live rebrand on a later desk refresh (Sep 8).",
-        "lessonId": null
+        "deskChanges": "Public site status moved from frozen to live rebrand on a later desk refresh (Sep 8)."
       }
     ]
   }

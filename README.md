@@ -42,5 +42,5 @@ Views: Overview · Content · Growth · Experiments · Channels · Lessons · Do
 
 ## Session log & lessons (Thomas standard, 2026-09-09)
 - Every lesson needs `originationDate` (backfill if missing).
-- After each material session, append to `data/session-log.json` (mirrored on `snapshot.sessionLog`) and refresh the desk.
+- After each material session, append to `data/session-log/presence.json` (mirrored on `snapshot.sessionLog`) and refresh the desk.
 - Log tab on the desk; Wells owns shared UI conventions — Presence owns entry truth.
