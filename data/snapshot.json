@@ -1,6 +1,6 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-09T13:16:00-05:00",
+  "lastUpdated": "2026-09-09T16:56:00-05:00",
   "cycle": "Audience Learning — Week of Sep 8",
   "metrics": {
     "xFollowers": "0",
@@ -212,39 +212,49 @@
       "experience": "One Sep 7 entertainment-room reply (Spider-Noir) climbed overnight to ~207–208 views while sibling replies stayed low.",
       "evidence": "Spider-Noir ~207–208; other Sep 7 replies remained low; followers still 0.",
       "learning": "A single overnight spike in a busy room is a surface signal, not proof to chase volume or change the whole cadence.",
-      "change": "Keep selective busy-thread replies (2–4); ≤1 original; don’t overfit one spike. Logged 2026-09-08 from Rowan Day 1 delta."
+      "change": "Keep selective busy-thread replies (2–4); ≤1 original; don’t overfit one spike. Logged 2026-09-08 from Rowan Day 1 delta.",
+      "originationDate": "2026-09-08"
     },
     {
       "id": "study-others-replies",
       "experience": "Early Harbor posts and sparse replies got little traction; busy rooms already outperform broadcast originals.",
       "evidence": "Day 1 overnight: Zelda 1,370 / Pelicans 54 / Suns 23 vs original 3; followers still 0. Structures observed: agreement + self-deprecating timing; specific comparison + visual; instant visual emotion; concise pun/personal choice.",
       "learning": "Scouting what other people’s replies are earning in a live room is a better guide than inventing a post in isolation.",
-      "change": "Weekday pass starts by studying others’ high-engagement replies (steal structure not voice), then 2–4 selective Harbor replies (≤1 original)."
+      "change": "Weekday pass starts by studying others’ high-engagement replies (steal structure not voice), then 2–4 selective Harbor replies (≤1 original).",
+      "originationDate": "2026-09-05",
+      "originationNote": "Backfilled 2026-09-09 from best-known first recording date (Thomas session-log standard)."
     },
     {
       "id": "reply-vs-original",
       "experience": "Tiny early sample of posts and replies.",
       "evidence": "Originals land ~6–15 views; replies into busy threads land ~20–155.",
       "learning": "Replies in live rooms currently outperform broadcast originals for visibility.",
-      "change": "Bias replies toward busy genuine threads; keep originals for range; don't chase volume or overfit silence."
+      "change": "Bias replies toward busy genuine threads; keep originals for range; don't chase volume or overfit silence.",
+      "originationDate": "2026-09-04",
+      "originationNote": "Backfilled 2026-09-09 from best-known first recording date (Thomas session-log standard)."
     },
     {
       "id": "public-counts-only",
       "experience": "Analytics gated behind Premium.",
       "evidence": "X Analytics shows upsell / “Nothing to see here — yet”; we did not subscribe ($0).",
       "learning": "Only public counts are reliable for the dashboard.",
-      "change": "Headline metrics = followers + public views; omit Premium-only fields; label last-checked dates."
+      "change": "Headline metrics = followers + public views; omit Premium-only fields; label last-checked dates.",
+      "originationDate": "2026-09-03",
+      "originationNote": "Backfilled 2026-09-09 from best-known first recording date (Thomas session-log standard)."
     },
     {
       "id": "routine-miss-reliability",
       "experience": "Weekday routine missed at least one fire (2026-09-04).",
       "evidence": "lastRunAt stayed 2026-09-03; Thomas noticed; manual pass ran.",
       "learning": "Scheduled wake is not fully trusted yet.",
-      "change": "Watch routine reliability; manual catch-up when missed; escalate if systemic."
+      "change": "Watch routine reliability; manual catch-up when missed; escalate if systemic.",
+      "originationDate": "2026-09-04",
+      "originationNote": "Backfilled 2026-09-09 from best-known first recording date (Thomas session-log standard)."
     }
   ],
   "docs": {
     "howItWorks": [
+      "Lessons stay ongoing (origination dates required). After every material session, append a plain-English Session Log entry (when / who / what done / what changed on the desk).",
       "Mission: build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
       "Presence is not synonymous with X — current surfaces are X and elephantharbor.com; more channels can be added without redesign.",
       "Channels are extensible cards (schema: id, name, handle, url, status, role, cadence, notes).",
@@ -286,6 +296,48 @@
         "nextRunAt": "2026-09-10T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
+      }
+    ]
+  },
+  "sessionLog": {
+    "areaId": "presence",
+    "areaName": "Harbor Presence",
+    "lastUpdated": "2026-09-09T16:56:00-05:00",
+    "entries": [
+      {
+        "at": "2026-09-09T16:56:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Adopted Thomas’s Session Log & Lessons standard: added origination dates to all Presence lessons (backfilled older ones), opened a Presence Session Log, and asked Rowan to append after every material X pass.",
+        "deskChanges": "Lessons gained originationDate; new Log tab + data/session-log.json; docs note on standard.",
+        "lessonId": null
+      },
+      {
+        "at": "2026-09-09T13:16:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Closed the human gate after Rowan’s Venus original published. Marked EXP-01 Day 2 complete (two replies + original).",
+        "deskChanges": "Cleared needsHumanAttention; logged Venus original; posts → 25; segment summary gate off.",
+        "lessonId": null
+      },
+      {
+        "at": "2026-09-09T10:30:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Refreshed the desk from Rowan’s Day 2 weekday pass. Logged overnight Day 1 view counts (Zelda reply 1,370 vs jellyfish original 3) and flagged the Venus original waiting on Auto-review / Thomas.",
+        "deskChanges": "Next Up → Thu Sep 10; metrics/growth/EXP-01 Day 2; needsHumanAttention for original; lesson evidence updated for study-others-replies.",
+        "lessonId": "study-others-replies"
+      },
+      {
+        "at": "2026-09-08T11:30:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Refreshed the desk from Rowan’s EXP-01 Day 1 weekday pass (three replies + immortal jellyfish original). Recorded the don’t-overfit overnight spike lesson from the Sep 7 Spider-Noir reply.",
+        "deskChanges": "Next Up → Tue Sep 9; Day 1 content logged; new lesson dont-overfit-spike; site channel marked live rebrand.",
+        "lessonId": "dont-overfit-spike"
+      },
+      {
+        "at": "2026-09-07T15:00:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Thomas greenlit elephantharbor.com rebrand cutover with temporary Gmail; domain email left as post-cutover work with Wells.",
+        "deskChanges": "Public site status moved from frozen to live rebrand on a later desk refresh (Sep 8).",
+        "lessonId": null
       }
     ]
   }

@@ -270,19 +270,48 @@
   function renderLessons(s) {
     const cards = (s.lessons || [])
       .map(
-        (l) => `<div class="lesson">
+        (l) => {
+          const originated = l.originationDate
+            ? `<div class="row"><div class="k">Originated</div><div class="v">${esc(l.originationDate)}${l.originationNote ? " · " + esc(l.originationNote) : ""}</div></div>`
+            : "";
+          return `<div class="lesson">
         <div class="conclusion">${esc(l.learning)}</div>
+        ${originated}
         <div class="row"><div class="k">Experience</div><div class="v">${esc(l.experience)}</div></div>
         <div class="row"><div class="k">Evidence</div><div class="v">${esc(l.evidence)}</div></div>
         <div class="row"><div class="k">Learning</div><div class="v">${esc(l.learning)}</div></div>
         <div class="row"><div class="k">Change</div><div class="v">${esc(l.change)}</div></div>
-      </div>`
+      </div>`;
+        }
       )
       .join("");
     return `
       <h2 class="section-title">Lessons</h2>
-      <p class="dim" style="margin:0 0 10px;font-size:12px">Experience → Evidence → Learning → Change. Decision-relevant only.</p>
+      <p class="dim" style="margin:0 0 10px;font-size:12px">Experience → Evidence → Learning → Change. Every lesson shows an origination date. Decision-relevant only.</p>
       <div class="stack">${cards || `<div class="empty"><strong>No lessons yet</strong></div>`}</div>
+    `;
+  }
+
+  function renderLog(s) {
+    const log = s.sessionLog || {};
+    const entries = log.entries || [];
+    const cards = entries
+      .map((e) => {
+        const when = e.at ? fmtUpdated(e.at) : "—";
+        const lesson = e.lessonId ? `<div class="row"><div class="k">Lesson</div><div class="v">${esc(e.lessonId)}</div></div>` : "";
+        return `<div class="lesson">
+        <div class="conclusion">${esc(e.summary || "—")}</div>
+        <div class="row"><div class="k">When</div><div class="v">${esc(when)}</div></div>
+        <div class="row"><div class="k">Who</div><div class="v">${esc(e.actor || "—")}</div></div>
+        <div class="row"><div class="k">Desk changes</div><div class="v">${esc(e.deskChanges || "none")}</div></div>
+        ${lesson}
+      </div>`;
+      })
+      .join("");
+    return `
+      <h2 class="section-title">Session log</h2>
+      <p class="dim" style="margin:0 0 10px;font-size:12px">Append-only, newest first. Plain English for Thomas — when, who, what was done, what changed on the desk.</p>
+      <div class="stack">${cards || `<div class="empty"><strong>No sessions logged yet</strong></div>`}</div>
     `;
   }
 
@@ -323,6 +352,7 @@
     experiments: renderExperiments,
     channels: renderChannels,
     lessons: renderLessons,
+    log: renderLog,
     docs: renderDocs,
   };
 
