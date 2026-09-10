@@ -296,26 +296,16 @@
   }
 
   function renderLog(s) {
-    const log = s.sessionLog || {};
+    const log = s.sessionLog || { entries: [] };
+    if (window.EH && EH.renderSessionLog) {
+      return EH.renderSessionLog(log, {
+        title: "Session Log",
+        help: "Append-only, newest first. Plain English for Thomas — when, who, what was done, what changed on the desk.",
+      });
+    }
+    // Fallback if shared helper missing
     const entries = log.entries || [];
-    const cards = entries
-      .map((e) => {
-        const when = e.at ? fmtUpdated(e.at) : "—";
-        const lesson = e.lessonId ? `<div class="row"><div class="k">Lesson</div><div class="v">${esc(e.lessonId)}</div></div>` : "";
-        return `<div class="lesson">
-        <div class="conclusion">${esc(e.summary || "—")}</div>
-        <div class="row"><div class="k">When</div><div class="v">${esc(when)}</div></div>
-        <div class="row"><div class="k">Who</div><div class="v">${esc(e.actor || "—")}</div></div>
-        <div class="row"><div class="k">Desk changes</div><div class="v">${esc(e.deskChanges || "none")}</div></div>
-        ${lesson}
-      </div>`;
-      })
-      .join("");
-    return `
-      <h2 class="section-title">Session log</h2>
-      <p class="dim" style="margin:0 0 10px;font-size:12px">Append-only, newest first. Plain English for Thomas — when, who, what was done, what changed on the desk.</p>
-      <div class="stack">${cards || `<div class="empty"><strong>No sessions logged yet</strong></div>`}</div>
-    `;
+    return `<h2 class="section-title">Session Log</h2><p class="muted">Shared log helper unavailable.</p>`;
   }
 
   function renderDocs(s) {
