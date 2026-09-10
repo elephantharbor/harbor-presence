@@ -83,6 +83,16 @@
   }
 
   function renderOverview(s) {
+    const trialHost = `<div id="trial-clock" class="trial-clock-host"></div>`;
+    queue.EH && EH.loadTrialClock && EH.loadTrialClock("https://elephantharbor.github.io/data/trial-clock.json")
+      .then((tc) => {
+        const el = document.getElementById("trial-clock");
+        if (el) el.outerHTML = EH.renderTrialClock(tc);
+      })
+      .catch(() => {
+        const el = document.getElementById("trial-clock");
+        if (el) el.outerHTML = EH.renderTrialClock(null);
+      });
     const m = s.metrics || {};
     const attention = s.needsHumanAttention || [];
     let attentionHtml;
@@ -93,6 +103,8 @@
     }
 
     return `
+      ${trialHost}
+
       <h2 class="section-title">Overview</h2>
       <div class="card">
         <h2>Mission</h2>
@@ -268,26 +280,17 @@
   }
 
   function renderLessons(s) {
+    const esc = window.esc || ((x) => String(x ?? "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"));
     const cards = (s.lessons || [])
-      .map(
-        (l) => {
-          const originated = l.originationDate
-            ? `<div class="row"><div class="k">Originated</div><div class="v">${esc(l.originationDate)}${l.originationNote ? " · " + esc(l.originationNote) : ""}</div></div>`
-            : "";
-          return `<div class="lesson">
-        <div class="conclusion">${esc(l.learning)}</div>
-        ${originated}
-        <div class="row"><div class="k">Experience</div><div class="v">${esc(l.experience)}</div></div>
-        <div class="row"><div class="k">Evidence</div><div class="v">${esc(l.evidence)}</div></div>
-        <div class="row"><div class="k">Learning</div><div class="v">${esc(l.learning)}</div></div>
-        <div class="row"><div class="k">Change</div><div class="v">${esc(l.change)}</div></div>
-      </div>`;
-        }
+      .map((l) =>
+        window.EH && EH.renderLessonCard
+          ? EH.renderLessonCard(l, esc)
+          : `<div class="lesson"><div class="conclusion">${esc(l.learning || "")}</div></div>`
       )
       .join("");
     return `
       <h2 class="section-title">Lessons</h2>
-      <p class="dim" style="margin:0 0 10px;font-size:12px">Experience → Evidence → Learning → Change. Every lesson shows an origination date. Decision-relevant only.</p>
+      <p class="dim" style="margin:0 0 10px;font-size:12px">Capital layout · Observation → Decision → Outcome → Lesson → System change. Origination date required.</p>
       <div class="stack">${cards || `<div class="empty"><strong>No lessons yet</strong></div>`}</div>
     `;
   }
