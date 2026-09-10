@@ -4,24 +4,24 @@
   "description": "Audience and public presence.",
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
   "status": "Operating",
-  "statusDetail": "EXP-01 Day 2 complete (2 replies + Venus original); followers 0; posts 25; no human gates. Session Log + lesson origination dates live (Thomas standard 2026-09-09).",
+  "statusDetail": "EXP-01 Day 3 complete (3 replies + chess original); followers 0; posts ~29; busy-room lesson logged.",
   "owner": "Maren (Harbor Presence - CEO)",
-  "lastUpdated": "2026-09-09T16:56:00-05:00",
+  "lastUpdated": "2026-09-10T10:56:00-05:00",
   "headlineMetrics": [
     {
       "label": "X followers",
       "value": "0",
-      "hint": "Checked 2026-09-09 after Venus original"
+      "hint": "Checked 2026-09-10 Day 3 pass"
     },
     {
       "label": "X posts",
-      "value": "25",
-      "hint": "Day 2 complete"
+      "value": "~29",
+      "hint": "After Day 3 pass"
     },
     {
       "label": "Reply reach",
-      "value": "23–1,370",
-      "hint": "Sep 8 overnight range; Zelda reply 1,370"
+      "value": "26–1,374",
+      "hint": "Week overnight aged posts; Zelda 1,374 · Schefter 615"
     },
     {
       "label": "Public website",
@@ -29,14 +29,14 @@
       "hint": "Gmail temporary; domain email post-cutover"
     }
   ],
-  "currentObjective": "EXP-01 week (Sep 8–12): selective busy-thread replies (2–4) after studying others’ high-engagement reply structures; ≤1 original/day for range; $0 / no Premium. Public site live (rebrand); domain email post-cutover.",
-  "currentStatusBrief": "Day 2 complete: 2 replies + Venus original live. Followers 0. Day 1 overnight still favors busy-thread replies. Next pass Thu 10:00 CT. Nothing needs Thomas.",
+  "currentObjective": "EXP-01 week (Sep 8–12): selective busy-thread replies (2–4) after studying others’ reply structures; ≤1 original/day as optional range; $0 / no Premium. Public site live (rebrand); domain email post-cutover.",
+  "currentStatusBrief": "Day 3 complete: 3 replies + chess original. Overnight still favors busy rooms (Zelda 1,374 · Schefter 615 vs originals 3–7). Next pass Fri 10:00 CT — EXP-01 closeout. Nothing needs Thomas.",
   "latestLesson": {
-    "experience": "Early Harbor posts and sparse replies got little traction; busy rooms already outperform broadcast originals.",
-    "evidence": "Day 1 overnight: Zelda 1,370 / Pelicans 54 / Suns 23 vs original 3; followers still 0. Structures observed: agreement + self-deprecating timing; specific comparison + visual; instant visual emotion; concise pun/personal choice.",
-    "learning": "Scouting what other people’s replies are earning in a live room is a better guide than inventing a post in isolation.",
-    "change": "Weekday pass starts by studying others’ high-engagement replies (steal structure not voice), then 2–4 selective Harbor replies (≤1 original).",
-    "originationDate": "2026-09-05"
+    "experience": "Sep 8–9 overnight, the Zelda remake reply reached 1,374 views and the Schefter Super Bowl LXI reply 615, while the Venus original stayed at 3 and the jellyfish original at 7.",
+    "evidence": "Same @elephantharbor account, same week, public view counts without Premium. Likes/replies/reposts still 0 where shown.",
+    "learning": "For a zero-follower account, a specific dry line in an already-busy room still outperforms standalone curiosities by a large margin.",
+    "change": "Keep prioritizing 2–4 selective replies in busy threads; treat originals as optional range, not the growth lever, through EXP-01 closeout Fri Sep 12.",
+    "originationDate": "2026-09-10"
   },
   "needsHumanAction": false,
   "humanAction": null,
