@@ -84,7 +84,7 @@
 
   function renderOverview(s) {
     const trialHost = `<div id="trial-clock" class="trial-clock-host"></div>`;
-    queue.EH && EH.loadTrialClock && EH.loadTrialClock("https://elephantharbor.github.io/data/trial-clock.json")
+    window.EH && EH.loadTrialClock && EH.loadTrialClock("https://elephantharbor.github.io/data/trial-clock.json")
       .then((tc) => {
         const el = document.getElementById("trial-clock");
         if (el) el.outerHTML = EH.renderTrialClock(tc);
