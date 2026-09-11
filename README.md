@@ -44,3 +44,8 @@ Views: Overview · Content · Growth · Experiments · Channels · Lessons · Do
 - Every lesson needs `originationDate` (backfill if missing).
 - After each material session, append to `data/session-log/presence.json` (mirrored on `snapshot.sessionLog`) and refresh the desk.
 - Log tab on the desk; Wells owns shared UI conventions — Presence owns entry truth.
+
+## Active Ventures (Thomas standard, 2026-09-11)
+- Substantive live growth initiatives/experiments with measurable objectives — not every daily post.
+- Canonical: `data/active-ventures/presence.json` (also `snapshot.activeVentures`).
+- Wells owns shared UI; Presence owns truth. Ping Wells to mirror.
