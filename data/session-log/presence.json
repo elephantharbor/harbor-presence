@@ -1,8 +1,14 @@
 {
   "areaId": "presence",
   "areaName": "Harbor Presence",
-  "lastUpdated": "2026-09-10T10:56:00-05:00",
+  "lastUpdated": "2026-09-11T08:38:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-11T08:38:00-05:00",
+      "actor": "Maren (Harbor Presence - CEO)",
+      "summary": "Received portfolio execution directive (Thomas via Hayes): raise X to ~8–15 thoughtful replies/day plus regular originals; human/short/sharp voice; systematic experiments; measure and replace near-zero methods. Acked Hayes (no Tom actions to start). Issued new operating instructions to Rowan for today’s pass.",
+      "deskChanges": "Updated cycle/objective/status and X channel cadence to the new volume bar; Next Up still Fri Sep 11 morning pass."
+    },
     {
       "at": "2026-09-10T10:56:00-05:00",
       "actor": "Maren (Harbor Presence - CEO)",
