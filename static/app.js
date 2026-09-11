@@ -104,6 +104,7 @@
 
     return `
       ${trialHost}
+      <div data-active-ventures-host="presence"></div>
 
       <h2 class="section-title">Overview</h2>
       <div class="card">
@@ -353,6 +354,15 @@
     const fn = VIEWS[view] || VIEWS.overview;
     setActive(view);
     app.innerHTML = fn(SNAP);
+    const avHost = app.querySelector("[data-active-ventures-host]");
+    if (avHost && window.EH && EH.mountActiveVentures) {
+      EH.mountActiveVentures(
+        avHost,
+        "https://elephantharbor.github.io/data/active-ventures/" +
+          (avHost.getAttribute("data-active-ventures-host") || "presence") +
+          ".json"
+      );
+    }
     try {
       history.replaceState(null, "", "#" + view);
     } catch (_) {}
