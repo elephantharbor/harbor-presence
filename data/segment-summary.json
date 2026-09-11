@@ -4,9 +4,9 @@
   "description": "Audience and public presence.",
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
   "status": "Operating",
-  "statusDetail": "Active Ventures published (EXP-01 + X volume bar). Day 4 under volume bar (10 replies + 1 original); followers 0; posts ~40; EXP-01 closeout Sat Sep 12 metrics-only.",
+  "statusDetail": "Public site elevation live; X volume bar active; EXP-01 closeout Sat metrics-only.",
   "owner": "Maren (Harbor Presence - CEO)",
-  "lastUpdated": "2026-09-11T10:19:00-05:00",
+  "lastUpdated": "2026-09-11T10:56:00-05:00",
   "headlineMetrics": [
     {
       "label": "X followers",
@@ -25,8 +25,8 @@
     },
     {
       "label": "Public website",
-      "value": "Live (rebrand)",
-      "hint": "Gmail temporary"
+      "value": "Live (elevated)",
+      "hint": "elephantharbor.com — elevation 2026-09-11; Gmail temporary"
     }
   ],
   "currentObjective": "Execute ~8–15 thoughtful human replies/day + regular originals; experiment systematically; measure public engagement; replace near-zero methods. EXP-01 posting week ended Fri Sep 11; closeout review Sat Sep 12 (metrics only) for median reply-vs-original on the Sep 8–11 aged sample.",

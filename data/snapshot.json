@@ -1,13 +1,13 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-11T10:24:00-05:00",
+  "lastUpdated": "2026-09-11T10:56:00-05:00",
   "cycle": "Aggressive execution — reply volume + systematic experiments (from 2026-09-11)",
   "metrics": {
     "xFollowers": "0",
     "xFollowing": "0",
     "originalPostViews": "Aged: chess 2 · Venus 6 · jellyfish 8; mixed-use original 1 at post",
     "replyReach": "Aged busy: Zelda 1.3K · Schefter 627 · Pelicans 58 · Suns 28; quiet Day 3 replies 2–3; Day 4 ~1–2 at post",
-    "publicWebsite": "Live (rebrand; Gmail temporary)",
+    "publicWebsite": "Live (elevated 2026-09-11; Gmail temporary)",
     "likesRepliesReposts": "0",
     "xPosts": "~40"
   },
@@ -295,8 +295,8 @@
       "url": "https://elephantharbor.com",
       "status": "Live",
       "role": "Public company face — NOT the operating dashboard",
-      "cadence": "Rebrand cut over; polish on branch as needed; domain email post-cutover",
-      "notes": "Parent face live with rebrand. Contact still elephantharborhq@gmail.com until hello@ + SPF/DKIM/DMARC. Ops desk remains this Pages site, not elephantharbor.com."
+      "cadence": "Elevated 2026-09-11 (site-elevation); polish as needed; domain email post-cutover",
+      "notes": "elephantharbor.com elevation live (PR #2 / d2a785a): AI-native operating company; Setaside-only; Gmail temporary."
     }
   ],
   "lessons": [
@@ -418,8 +418,14 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-11T10:24:00-05:00",
+    "lastUpdated": "2026-09-11T10:56:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-11T10:56:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Published the elephantharbor.com elevation to production (PR #2 merged). Positioning live; Setaside-only portfolio; Gmail temporary.",
+        "deskChanges": "Public website channel/metrics updated to elevated live status."
+      },
       {
         "at": "2026-09-11T10:24:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
