@@ -1,55 +1,62 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-11T08:38:00-05:00",
+  "lastUpdated": "2026-09-11T09:01:00-05:00",
   "cycle": "Aggressive execution — reply volume + systematic experiments (from 2026-09-11)",
   "metrics": {
     "xFollowers": "0",
     "xFollowing": "0",
-    "originalPostViews": "This week overnight: jellyfish 7 · Venus 3; chess original views pending at post",
-    "replyReach": "Week tally overnight: 1,374 / 615 / 145 / 58 / 26; today’s 3 replies views pending at post",
+    "originalPostViews": "Aged: chess 2 · Venus 6 · jellyfish 8; mixed-use original 1 at post",
+    "replyReach": "Aged busy: Zelda 1.3K · Schefter 627 · Pelicans 58 · Suns 28; quiet Day 3 replies 2–3; Day 4 ~1–2 at post",
     "publicWebsite": "Live (rebrand; Gmail temporary)",
     "likesRepliesReposts": "0",
-    "xPosts": "29"
+    "xPosts": "~40"
   },
   "needsHumanAttention": [],
-  "currentObjective": "Execute on X: ~8–15 thoughtful human replies/day into live rooms + regular originals. Short/sharp, no AI mini-essays. Experiment on threads/topics/timing/form; measure public views/likes/replies/follows; replace near-zero methods. Loop observe→act→measure→lesson→change. Escalate only genuine human gates. EXP-01 closeout still Fri Sep 12 for the Sep 8–12 sample; operating volume follows the new bar from today.",
-  "currentStatus": "Execution directive live 2026-09-11 (Thomas via Hayes): volume raised to ~8–15 replies/day + regular originals; human voice mandatory. Rowan instructed; today’s weekday pass runs under the new bar. Followers still 0; prior EXP-01 days 1–3 logged. Portfolio trial clock: Capital 30-day viability (~29 days left through Oct 10). Nothing needs Thomas to start.",
+  "currentObjective": "Execute ~8–15 thoughtful human replies/day + regular originals; experiment systematically; measure public engagement; replace near-zero methods. EXP-01 posting week ended Fri Sep 11; closeout review Sat Sep 12 (metrics only) for median reply-vs-original on the Sep 8–11 aged sample.",
+  "currentStatus": "EXP-01 Day 4 / Fri 2026-09-11: first pass under portfolio bar — 10 replies + 1 original (mixed-use internet). Followers 0; posts ~40. Aged before today: Zelda 1.3K · Schefter 627 vs originals chess 2 / Venus 6 / jellyfish 8. Calendar note: Sep 12 is Saturday — EXP-01 closeout = Sat ~10:00 CT metrics review (no weekend posting). Next weekday pass Mon Sep 14. Nothing needs Thomas.",
   "content": {
     "inputs": [
-      "2026-09-10 (EXP-01 Day 3): 3 selective replies (NFL_DovKleiman/Maye; UnderdogNBA/Kawhi; DiscussingFilm/Remain) + chess original.",
-      "2026-09-09 (EXP-01 Day 2): 2 replies (NFL Lombardi; Schefter Super Bowl LXI) + Venus original.",
-      "2026-09-08 (EXP-01 Day 1): 3 replies + immortal jellyfish original.",
-      "Weekday ~10am CT X pass: study others’ replies → 2–4 selective Harbor replies → ≤1 original.",
-      "elephantharbor.com rebrand live; Gmail temporary."
+      "2026-09-11 (EXP-01 Day 4 / execution bar): 10 selective replies across NFL/NBA-adjacent, film, tech, nature, culture + 1 original (mixed-use internet). Forms: dry metaphor, reversal, concrete observation, restrained reflection.",
+      "2026-09-10 (Day 3): 3 replies + chess original.",
+      "2026-09-09 (Day 2): 2 replies + Venus original.",
+      "2026-09-08 (Day 1): 3 replies + jellyfish original.",
+      "Portfolio bar from 2026-09-11: ~8–15 replies/day + regular originals; human/short/sharp."
     ],
     "outcomes": [
-      "X followers: 0 (2026-09-10). Posts: ~29 after Day 3 pass.",
-      "Overnight before Day 3: Zelda 1,374 · Schefter Super Bowl 615 · Lombardi 145 · Pelicans 58 · Suns 26 · jellyfish original 7 · Venus original 3. Likes/replies/reposts still 0 where shown.",
-      "Day 3 posts: public views not shown yet at post time.",
-      "Pattern: busy-thread replies >> originals for zero-follower account.",
-      "Public website: live rebrand; contact still Gmail."
+      "Followers 0; posts ~40 after Fri pass.",
+      "Aged views: Zelda 1.3K · Schefter SB 627 · Pelicans 58 · Suns 28 · Maye/Kawhi/Remain 2–3 · originals chess 2 / Venus 6 / jellyfish 8.",
+      "Day 4 posts mostly 1–2 views at post (too early).",
+      "Volume raised (10+1) while busy-room aged replies still dwarf originals.",
+      "EXP-01 closeout: Sat Sep 12 metrics-only review (Sep 12 is not a weekday posting day)."
     ],
-    "note": "EXP-01 window through Fri 2026-09-12 closeout. Day 3 complete; today’s new counts still aging.",
+    "note": "EXP-01 sample = posts from Sep 8–11 weekdays (Sep 12 Sat = closeout review, not a fifth posting day). Prior “Fri Sep 12 closeout” assumed wrong weekday; operational closeout is Sat morning aged counts.",
     "originals": [
+      {
+        "date": "2026-09-11",
+        "title": "Mixed-use internet scroll",
+        "url": "https://x.com/elephantharbor/status/2098409922165670073",
+        "publicViews": "1 at post",
+        "note": "EXP-01 Day 4 original"
+      },
       {
         "date": "2026-09-10",
         "title": "Chess games vs atoms / resign on move twelve",
         "url": "https://x.com/elephantharbor/status/2098077834853990611",
-        "publicViews": "not shown yet at post",
+        "publicViews": "2 aged",
         "note": "EXP-01 Day 3 original"
       },
       {
         "date": "2026-09-09",
         "title": "Venus day longer than Venus year / product managers",
         "url": "https://x.com/elephantharbor/status/2097750839104274873",
-        "publicViews": "3 overnight",
+        "publicViews": "6 aged",
         "note": "EXP-01 Day 2 original — published after Auto-review/Thomas clearance"
       },
       {
         "date": "2026-09-08",
         "title": "Immortal jellyfish — still gets eaten",
         "url": "https://x.com/elephantharbor/status/2097358663530746350",
-        "publicViews": "7 overnight",
+        "publicViews": "8 aged",
         "note": "EXP-01 Day 1 original"
       },
       {
@@ -80,11 +87,91 @@
     ],
     "replyExamples": [
       {
+        "date": "2026-09-11",
+        "text": "The quote is honest. The knee is the footnote that might become the whole story.",
+        "parent": "RapSheet — injury quote / knee",
+        "url": "https://x.com/elephantharbor/status/2098406971946721457",
+        "publicViews": "1 at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
+        "date": "2026-09-11",
+        "text": "A 27–7 win and a victory lap before lunch. Friday is doing overtime.",
+        "parent": "Coach_Yac — 27–7 win",
+        "url": "https://x.com/elephantharbor/status/2098407201429729450",
+        "publicViews": "not shown at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
+        "date": "2026-09-11",
+        "text": "Shanahan didn't erase a player. He erased the part of the playbook where the player is supposed to exist.",
+        "parent": "danorlovsky7 — Shanahan / playbook",
+        "url": "https://x.com/elephantharbor/status/2098407375363284995",
+        "publicViews": "1 at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
+        "date": "2026-09-11",
+        "text": "Four teams, four injuries, one reminder that September depth charts are written in pencil.",
+        "parent": "RapSheet — four injuries",
+        "url": "https://x.com/elephantharbor/status/2098407577075802328",
+        "publicViews": "2 at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
+        "date": "2026-09-11",
+        "text": "A 27–7 win in Melbourne and a new fan planning the pilgrimage. The NFL has discovered tourism.",
+        "parent": "LombardiHimself — Melbourne",
+        "url": "https://x.com/elephantharbor/status/2098407827089850464",
+        "publicViews": "not shown at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
+        "date": "2026-09-11",
+        "text": "A retired physician forced to operate at gunpoint: finally, a career change with no onboarding period.",
+        "parent": "DiscussingFilm — physician/gunpoint",
+        "url": "https://x.com/elephantharbor/status/2098408172830539863",
+        "publicViews": "1 at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
+        "date": "2026-09-11",
+        "text": "Three days of Codex for $600 is less a subscription than a very expensive software rental.",
+        "parent": "bridgemindai/OpenAI — Codex $600",
+        "url": "https://x.com/elephantharbor/status/2098408484534427923",
+        "publicViews": "not shown at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
+        "date": "2026-09-11",
+        "text": "The rooftop patrol is complete. Fuka has inspected the premises and found bedtime premature.",
+        "parent": "TOKUYAMA_ZOO — red panda",
+        "url": "https://x.com/elephantharbor/status/2098409006301614236",
+        "publicViews": "not shown at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
+        "date": "2026-09-11",
+        "text": "A haircut review accidentally turned into a scouting report. “I hear that every Sunday” is the cleanest self-own of the week.",
+        "parent": "martinweiss — haircut review",
+        "url": "https://x.com/elephantharbor/status/2098409441305493672",
+        "publicViews": "not shown at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
+        "date": "2026-09-11",
+        "text": "The footage feels older. The obligation doesn’t. That may be the cleanest definition of living memory.",
+        "parent": "KTmBoyle — remembrance",
+        "url": "https://x.com/elephantharbor/status/2098409741051474181",
+        "publicViews": "1 at post",
+        "note": "EXP-01 Day 4 / execution bar"
+      },
+      {
         "date": "2026-09-10",
         "text": "Three interceptions in one quarter, including the souvenir in the end zone. That's not a collapse. That's a trilogy.",
         "parent": "NFL_DovKleiman — Drake Maye / Seahawks opener",
         "url": "https://x.com/elephantharbor/status/2098077225098555767",
-        "publicViews": "not shown yet at post",
+        "publicViews": "3 aged",
         "note": "EXP-01 Day 3"
       },
       {
@@ -92,7 +179,7 @@
         "text": "While Ballmer and Frank are both suspended, whose signature actually clears the Kawhi trade?",
         "parent": "UnderdogNBA — Kawhi trade delay / Clippers FO",
         "url": "https://x.com/elephantharbor/status/2098077398600237065",
-        "publicViews": "not shown yet at post",
+        "publicViews": "3 aged",
         "note": "EXP-01 Day 3"
       },
       {
@@ -100,7 +187,7 @@
         "text": "M. Night plus Nicholas Sparks. Either the twist is romance, or the romance is the twist.",
         "parent": "DiscussingFilm — Remain trailer",
         "url": "https://x.com/elephantharbor/status/2098077579026559327",
-        "publicViews": "not shown yet at post",
+        "publicViews": "2 aged",
         "note": "EXP-01 Day 3"
       },
       {
@@ -116,7 +203,7 @@
         "text": "The footballs are already running toward Los Angeles. Finally, a preseason image with no injury report.",
         "parent": "Adam Schefter — Super Bowl LXI / footballs to LA",
         "url": "https://x.com/elephantharbor/status/2097705763212787869",
-        "publicViews": "615 overnight",
+        "publicViews": "627 aged",
         "note": "EXP-01 Day 2"
       },
       {
@@ -124,7 +211,7 @@
         "text": "The Pelicans just turned a trade into a group project with mandatory attendance.",
         "parent": "Shams Charania — Pelicans trade",
         "url": "https://x.com/elephantharbor/status/2097356111137386900",
-        "publicViews": "58 overnight",
+        "publicViews": "58 aged",
         "note": "EXP-01 Day 1"
       },
       {
@@ -132,7 +219,7 @@
         "text": "If the remake still makes the grass look touchable, Nintendo remembered the assignment.",
         "parent": "DiscussingFilm — Zelda remake gameplay",
         "url": "https://x.com/elephantharbor/status/2097357071393890604",
-        "publicViews": "1,374 overnight",
+        "publicViews": "1.3K aged",
         "note": "EXP-01 Day 1"
       },
       {
@@ -140,7 +227,7 @@
         "text": "Training camp, but make it a wuxia midseason episode.",
         "parent": "Phoenix Suns — Dillon/Wudang",
         "url": "https://x.com/elephantharbor/status/2097358093721940384",
-        "publicViews": "26 overnight",
+        "publicViews": "28 aged",
         "note": "EXP-01 Day 1"
       },
       {
@@ -160,57 +247,32 @@
         "publicViews": "not shown yet right after post",
         "parentViews": "~1M",
         "note": "Published after Thomas approved Auto-review; outside EXP-01 week (starts 2026-09-08)"
-      },
-      {
-        "date": "2026-09-07",
-        "text": "A one-season noir with a clean ending is practically a public service. The cliffhanger economy has suffered enough.",
-        "parent": "DiscussingFilm — Spider-Noir canceled after one season",
-        "url": "https://x.com/elephantharbor/status/2097005283767632054",
-        "publicViews": "~207–208 overnight (was 1 at post)",
-        "parentViews": "~15M",
-        "note": "Outside EXP-01 week; overnight climb — busy entertainment room signal, don’t overfit single spike"
-      },
-      {
-        "date": "2026-09-05",
-        "text": "A sign that doubles as a spelling lesson and a pretrial exhibit. Efficient.",
-        "parent": "College GameDay sign “YOU CAN’T SPELL LAWSUIT WITHOUT LSU.” (@jrptigers)",
-        "url": "https://x.com/elephantharbor/status/2096377844049801669",
-        "publicViews": "none visible yet right after post",
-        "note": "Weekend exception — Thomas ask; not part of EXP-01 sample"
-      },
-      {
-        "date": "2026-09-05",
-        "text": "A noir show getting canceled after one season is almost offensively on-brand.",
-        "parent": "Culture Crave — Spider-Noir canceled by Prime Video after one season",
-        "url": "https://x.com/elephantharbor/status/2096378111138967864",
-        "publicViews": "1 right after post",
-        "note": "Weekend exception — Thomas ask; not part of EXP-01 sample"
       }
     ],
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "Followers 0; posts ~29 after Day 3. Overnight before today: replies 26–1,374 vs originals 3–7. Busy-thread replies remain the visibility lever; originals optional range.",
+    "summary": "Followers 0; posts ~40. First high-volume day (10 replies + 1 original). Aged busy rooms still crush originals. Day 4 post-time views still near floor.",
     "followers": "0",
     "following": "0",
-    "posts": "29",
-    "originalViews": "This week overnight: Venus 3 · jellyfish 7; chess pending",
-    "replyViews": "Week overnight: 1,374 / 615 / 145 / 58 / 26; Day 3 pending at post",
-    "analyticsNote": "Public counts only. Last refresh 2026-09-10 Day 3 pass (Rowan).",
-    "observation": "Pattern holds for zero-follower account: busy rooms >> curiosities.",
-    "cycleNote": "EXP-01 Day 3 of 5 — Friday closeout still the median call."
+    "posts": "~40",
+    "originalViews": "Aged this week: chess 2 · Venus 6 · jellyfish 8",
+    "replyViews": "Aged: 1.3K / 627 / 58 / 28 / 2–3; Day 4 pending",
+    "analyticsNote": "Public counts only. Last refresh 2026-09-11 Day 4 pass (Rowan).",
+    "observation": "Volume ↑ without abandoning busy-room bias.",
+    "cycleNote": "EXP-01 Day 4 done — Sat Sep 12 metrics closeout; Mon Sep 14 next weekday pass."
   },
   "experiments": [
     {
       "id": "EXP-01",
       "title": "Busy-thread replies vs originals (public views)",
-      "status": "In measurement — Day 3 of 5 (through Fri 2026-09-12 closeout)",
+      "status": "In measurement — Day 4 of posting week complete; closeout review Sat 2026-09-12 (metrics only)",
       "hypothesis": "For the week of Sep 8, the median public view count on selective replies into already-busy threads will be at least 2× the median public view count on that week’s originals.",
       "change": "Keep replies only where we have something real to say, preferring busy genuine rooms; keep at most one original per weekday for range (not a reply farm).",
       "measurement": "Each weekday after the pass, record public view counts (and any likes/replies/reposts/bookmarks) on that day’s original (if any) and each reply; also note follower count. Profile visits omitted (unknown without Premium).",
-      "result": "Week overnight (aged posts before Day 3): replies 1,374 / 615 / 145 / 58 / 26 vs originals jellyfish 7 · Venus 3 — hypothesis still holding strongly. Day 3: 3 replies + chess original posted; views not shown yet at post.",
+      "result": "Aged before Day 4: replies include 1.3K / 627 / 58 / 28 / 2–3; originals 8 / 6 / 2 — hypothesis still holding on aged sample. Day 4: 10 replies + 1 original under portfolio bar; views at post still low/pending.",
       "conclusion": null,
-      "decision": "Friday 2026-09-12 closeout. If hypothesis holds, keep the busy-thread bias. If not, reopen where we spend attention. Secondary signal only: any new followers or likes.",
+      "decision": "Sat 2026-09-12 morning closeout (metrics only — Sep 12 is Saturday). If median busy-thread reply views ≥2× median original views for Sep 8–11 aged posts, keep busy-thread bias under the new volume bar. If not, reopen where we spend attention.",
       "decisionDate": "2026-09-12",
       "constraints": "$0 / no Premium; public counts only"
     }
@@ -224,7 +286,7 @@
       "status": "Operating",
       "role": "Primary audience surface",
       "cadence": "Weekday ~10:00 CT (+10:45 catch-up if morning missed): study live rooms → ~8–15 thoughtful replies (human/short/sharp) → regular originals → same-day truth delta to Presence CEO. Systematically vary threads/topics/timing/form. Weekends quiet unless Thomas asks.",
-      "notes": "2026-09-11 execution directive: volume up from 2–4 to ~8–15 replies/day + regular originals. Busy rooms still preferred; dead methods get replaced. $0 / no Premium."
+      "notes": "2026-09-11: first day under ~8–15 bar — 10 replies + 1 original shipped. EXP-01 closeout Sat Sep 12 metrics-only; next weekday pass Mon Sep 14."
     },
     {
       "id": "public-site",
@@ -238,6 +300,14 @@
     }
   ],
   "lessons": [
+    {
+      "id": "volume-with-busy-bias",
+      "originationDate": "2026-09-11",
+      "experience": "Raised reply volume into mixed rooms while aged busy-thread replies (Zelda 1.3K, Schefter 627) still dwarf quiet originals (Venus 6, chess 2, jellyfish 8).",
+      "evidence": "Same @elephantharbor account, public view counts, Sep 8–11 sample.",
+      "learning": "Higher reply volume is compatible with the busy-room bias; originals remain optional range, not the growth lever, for a zero-follower account.",
+      "change": "Keep shipping toward ~8–15 replies with busy-room preference; keep originals as range, not the main bet, through EXP-01 closeout."
+    },
     {
       "id": "busy-room-beats-curiosity",
       "originationDate": "2026-09-10",
@@ -322,17 +392,23 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-11T08:38:00-05:00",
+    "lastUpdated": "2026-09-11T09:01:00-05:00",
     "items": [
       {
+        "title": "EXP-01 closeout review (metrics only)",
+        "nextRunAt": "2026-09-12T10:00:00-05:00",
+        "scheduleLabel": "Sat Sep 12 ~10:00 CT — no posting; aged public views + median call",
+        "owner": "Rowan (Harbor Presence - Lead)"
+      },
+      {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-09-11T10:00:00-05:00",
-        "scheduleLabel": "Weekdays 10:00 AM CT",
+        "nextRunAt": "2026-09-14T10:00:00-05:00",
+        "scheduleLabel": "Weekdays 10:00 AM CT (~8–15 replies + regular originals)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-09-11T10:45:00-05:00",
+        "nextRunAt": "2026-09-14T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }
@@ -341,8 +417,15 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-11T08:38:00-05:00",
+    "lastUpdated": "2026-09-11T09:01:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-11T09:01:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Refreshed the desk from Rowan’s Fri pass under the new portfolio bar (10 replies + 1 original). Clarified EXP-01 closeout: Sep 12 is Saturday — metrics-only review, then weekday posting resumes Mon Sep 14. Logged lesson volume-with-busy-bias.",
+        "deskChanges": "Next Up → Sat closeout review + Mon Sep 14 pass; posts ~40; Day 4 content; new lesson volume-with-busy-bias (2026-09-11); EXP-01 decisionDate → 2026-09-12.",
+        "lessonId": "volume-with-busy-bias"
+      },
       {
         "at": "2026-09-11T08:38:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
