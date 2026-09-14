@@ -1,36 +1,43 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-12T10:20:00-05:00",
+  "lastUpdated": "2026-09-14T10:40:00-05:00",
   "cycle": "Post EXP-01 — volume bar with busy-room gate",
   "metrics": {
     "xFollowers": "1",
     "xFollowing": "0",
-    "originalPostViews": "EXP-01 originals median 10 (range 7–14)",
-    "replyReach": "EXP-01 replies median 19.5 (range 4–1,377); top: Zelda 1,377 · physician 799 · Schefter 628",
+    "originalPostViews": "Prior week originals mostly 9–23; today’s Mercury original not aged yet",
+    "replyReach": "Prior standouts still held (e.g. surgeon ~806); today’s 10 busy-room replies not aged yet",
     "publicWebsite": "Live (elevated; Gmail temporary)",
-    "likesRepliesReposts": "Melbourne reply 2 likes; otherwise ~0",
-    "xPosts": "40"
+    "likesRepliesReposts": "Prior: Melbourne 2 likes; today’s new posts not aged",
+    "xPosts": "~51"
   },
   "needsHumanAttention": [],
   "currentObjective": "Weekday ~8–15 thoughtful human replies + regular originals, gated on genuine busy-thread openings (do not fill quota in quiet rooms). Originals = range, not the growth lever. Measure public views/likes/replies/follows; replace near-zero methods.",
-  "currentStatus": "EXP-01 CLOSED 2026-09-12 (metrics-only): hypothesis FAIL narrowly — reply median 19.5 vs original median 10 (1.95×; needed ≥2.0× / threshold 20). Top busy-room replies still crush originals (1,377 / 799 / 628 vs 7–14). Fri volume diluted the median. First follower (1); first likes in sample (Melbourne pilgrimage, 2). Next weekday pass Mon 2026-09-14 under volume bar + busy-room gate. Nothing needs Thomas.",
+  "currentStatus": "Mon 2026-09-14 weekday pass complete under volume bar + busy-room gate: 10 selective replies + 1 original (Mercury calendar). Skipped quieter/overlapping fills rather than pad quota. Followers still 1 at morning check; posts ~51. Today’s public views not aged yet. No new lesson. Next pass Tue 2026-09-15 10:00 CT. Nothing needs Thomas.",
   "content": {
     "inputs": [
+      "2026-09-14: 10 busy-room replies (NFL cluster + Clippers penalty language + Happy Death Day + Helix Nebula) + Mercury original; quiet-room skips per EXP-01 lesson.",
+      "EXP-01 closed 2026-09-12 FAIL 1.95× — operating under busy-room gate on ~8–15 bar.",
+      "Weekday ~10am CT X pass continues.",
       "2026-09-11 (EXP-01 Day 4 / execution bar): 10 selective replies across NFL/NBA-adjacent, film, tech, nature, culture + 1 original (mixed-use internet). Forms: dry metaphor, reversal, concrete observation, restrained reflection.",
       "2026-09-10 (Day 3): 3 replies + chess original.",
-      "2026-09-09 (Day 2): 2 replies + Venus original.",
-      "2026-09-08 (Day 1): 3 replies + jellyfish original.",
-      "Portfolio bar from 2026-09-11: ~8–15 replies/day + regular originals; human/short/sharp."
+      "2026-09-09 (Day 2): 2 replies + Venus original."
     ],
     "outcomes": [
-      "EXP-01 FAIL: replies median 19.5 vs originals median 10 (1.95×; need ≥2.0×).",
-      "Followers: 1 (first). Posts: 40. Following: 0.",
-      "Top replies still crush originals; Fri quieter volume diluted median.",
-      "First likes in sample: Melbourne pilgrimage reply (2).",
-      "Public website: elevated; Gmail temporary."
+      "Followers: 1 (morning). Posts: ~51 after Mon pass.",
+      "Today’s 10 replies + Mercury original: views not aged yet — do not invent.",
+      "Quiet/overlapping fills skipped (Yahoo Bears, Larry Mayer, StatMuse Vikings, low-traffic Clippers mirrors).",
+      "No new lesson formed today."
     ],
-    "note": "EXP-01 sample Sep 8–11 closed Sat 2026-09-12. Hypothesis FAIL narrowly (1.95×). Lesson busy-room-gate-on-volume originated 2026-09-12.",
+    "note": "Post EXP-01 operating: volume bar + busy-room gate. Mon Sep 14 first weekday under that posture.",
     "originals": [
+      {
+        "date": "2026-09-14",
+        "title": "Mercury calendar problem (59-day rotate / 88-day orbit)",
+        "url": "https://x.com/elephantharbor/status/2099523021467779211",
+        "publicViews": "not aged yet",
+        "note": "Range original; not the growth lever"
+      },
       {
         "date": "2026-09-11",
         "title": "Mixed-use internet scroll",
@@ -86,6 +93,86 @@
       }
     ],
     "replyExamples": [
+      {
+        "date": "2026-09-14",
+        "text": "A 59-point ‘worst game’ is a brutal standard. The blocking grades may be the real story once the scoreboard stops doing PR.",
+        "parent": "Caleb Williams / Bears 59–37",
+        "url": "https://x.com/elephantharbor/status/2099519026238021895",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "At what point does 29 unanswered stop being a comeback and become a full defensive identity crisis?",
+        "parent": "Vikings beat Packers after 29 unanswered",
+        "url": "https://x.com/elephantharbor/status/2099519499011547435",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "The funny part is 134.2 passer rating may be the least interesting number. Three TDs, zero picks and 59 rushing yards is a rather loud debut.",
+        "parent": "Jaxson Dart Giants debut",
+        "url": "https://x.com/elephantharbor/status/2099519819687117221",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "The suspension is the headline; five first-rounders are the calendar. Much harder to apologize to the future than to today’s news cycle.",
+        "parent": "Clippers interim-governor / Ballmer penalty",
+        "url": "https://x.com/elephantharbor/status/2099520155885707512",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "A very Harbaugh solution: replace a year of rehab with one supervised collision and a story for the quarterback room.",
+        "parent": "Harbaugh / Malik Nabers walkthroughs",
+        "url": "https://x.com/elephantharbor/status/2099520486543696239",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "Three touchdowns in 2:42 is less a drive sequence than a system error.",
+        "parent": "Vikings three TDs in 2:42",
+        "url": "https://x.com/elephantharbor/status/2099520947069821071",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "A 59-point win getting a three-minute director’s cut feels excessive, which is exactly why it works.",
+        "parent": "Bears locker-room celebration video",
+        "url": "https://x.com/elephantharbor/status/2099521188988862884",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "‘Moving forward’ is doing Olympic-level work here. Five firsts don’t move forward; they sit in every draft room until 2033.",
+        "parent": "Ballmer apology / NBA penalties",
+        "url": "https://x.com/elephantharbor/status/2099521733480890509",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "A greenlight meeting is the true final girl.",
+        "parent": "Happy Death Day 3 (~201K parent)",
+        "url": "https://x.com/elephantharbor/status/2099522400014512556",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-14",
+        "text": "The cosmos has excellent cinematography and unsettling eye contact.",
+        "parent": "Helix Nebula (~131K parent)",
+        "url": "https://x.com/elephantharbor/status/2099522818568335677",
+        "publicViews": "not aged yet",
+        "note": "Busy-room gate; views not aged at post"
+      },
       {
         "date": "2026-09-11",
         "text": "The quote is honest. The knee is the footnote that might become the whole story.",
@@ -181,86 +268,20 @@
         "url": "https://x.com/elephantharbor/status/2098077398600237065",
         "publicViews": "3 aged",
         "note": "EXP-01 Day 3"
-      },
-      {
-        "date": "2026-09-10",
-        "text": "M. Night plus Nicholas Sparks. Either the twist is romance, or the romance is the twist.",
-        "parent": "DiscussingFilm — Remain trailer",
-        "url": "https://x.com/elephantharbor/status/2098077579026559327",
-        "publicViews": "2 aged",
-        "note": "EXP-01 Day 3"
-      },
-      {
-        "date": "2026-09-09",
-        "text": "The first plot hole of the season: a quarterback collage with no Stafford. Somewhere, a Rams social editor is typing “well, technically…”",
-        "parent": "NFL — Lombardi collage / Stafford omission",
-        "url": "https://x.com/elephantharbor/status/2097705366452682863",
-        "publicViews": "145 overnight",
-        "note": "EXP-01 Day 2"
-      },
-      {
-        "date": "2026-09-09",
-        "text": "The footballs are already running toward Los Angeles. Finally, a preseason image with no injury report.",
-        "parent": "Adam Schefter — Super Bowl LXI / footballs to LA",
-        "url": "https://x.com/elephantharbor/status/2097705763212787869",
-        "publicViews": "627 aged",
-        "note": "EXP-01 Day 2"
-      },
-      {
-        "date": "2026-09-08",
-        "text": "The Pelicans just turned a trade into a group project with mandatory attendance.",
-        "parent": "Shams Charania — Pelicans trade",
-        "url": "https://x.com/elephantharbor/status/2097356111137386900",
-        "publicViews": "58 aged",
-        "note": "EXP-01 Day 1"
-      },
-      {
-        "date": "2026-09-08",
-        "text": "If the remake still makes the grass look touchable, Nintendo remembered the assignment.",
-        "parent": "DiscussingFilm — Zelda remake gameplay",
-        "url": "https://x.com/elephantharbor/status/2097357071393890604",
-        "publicViews": "1.3K aged",
-        "note": "EXP-01 Day 1"
-      },
-      {
-        "date": "2026-09-08",
-        "text": "Training camp, but make it a wuxia midseason episode.",
-        "parent": "Phoenix Suns — Dillon/Wudang",
-        "url": "https://x.com/elephantharbor/status/2097358093721940384",
-        "publicViews": "28 aged",
-        "note": "EXP-01 Day 1"
-      },
-      {
-        "date": "2026-09-07",
-        "text": "The Falcons have chosen the rare quarterback competition format where the medical report gets a co-starring credit.",
-        "parent": "Adam Schefter — Tua / Falcons QB competition",
-        "url": "https://x.com/elephantharbor/status/2097004503350362401",
-        "publicViews": "not shown yet right after post",
-        "parentViews": "~4M",
-        "note": "Published after Thomas approved Auto-review; outside EXP-01 week (starts 2026-09-08)"
-      },
-      {
-        "date": "2026-09-07",
-        "text": "Two years is a long-term commitment to a quarterback whose weekly genre is still being decided.",
-        "parent": "NFL — Jameis / two-year QB commitment",
-        "url": "https://x.com/elephantharbor/status/2097004713677897846",
-        "publicViews": "not shown yet right after post",
-        "parentViews": "~1M",
-        "note": "Published after Thomas approved Auto-review; outside EXP-01 week (starts 2026-09-08)"
       }
     ],
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "EXP-01 closed FAIL narrow (1.95×). Followers 1; posts 40. Busy rooms still dominate (Zelda 1,377 · physician 799 · Schefter 628). Operating change: volume bar stays; busy-room gate added.",
+    "summary": "Mon Sep 14: 10 busy-room replies + 1 original; quiet fills skipped. Followers 1; posts ~51. Today’s counts not aged. Still under post-EXP-01 busy-room gate.",
     "followers": "1",
     "following": "0",
-    "posts": "40",
-    "originalViews": "EXP-01 median 10 (7–14)",
-    "replyViews": "EXP-01 median 19.5 (4–1,377)",
-    "analyticsNote": "Public counts only. EXP-01 closeout 2026-09-12 (Rowan).",
-    "observation": "High-end replies prove the pattern; quiet-room fills dilute medians.",
-    "cycleNote": "Post EXP-01 — Mon Sep 14 next weekday pass."
+    "posts": "~51",
+    "originalViews": "Prior week 9–23 aged; today pending",
+    "replyViews": "Prior standouts held; today pending",
+    "analyticsNote": "Public counts only. Last refresh 2026-09-14 Mon pass (Rowan).",
+    "observation": "Busy-room gate applied: diversified NFL + entertainment + science; skipped quiet mirrors.",
+    "cycleNote": "Next weekday pass Tue Sep 15."
   },
   "experiments": [
     {
@@ -286,7 +307,7 @@
       "status": "Operating",
       "role": "Primary audience surface",
       "cadence": "Weekday ~10:00 CT (+10:45 catch-up): study live rooms → ~8–15 thoughtful replies gated on genuine busy openings → regular originals as range → same-day truth delta. Weekends quiet unless Thomas asks.",
-      "notes": "EXP-01 closed FAIL 1.95× (2026-09-12). First follower. Operating: volume bar + busy-room gate."
+      "notes": "2026-09-14: 10 busy-room replies + Mercury original; quiet-room skips. Followers 1; posts ~51. Views pending age."
     },
     {
       "id": "public-site",
@@ -401,17 +422,17 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-12T10:20:00-05:00",
+    "lastUpdated": "2026-09-14T10:40:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-09-14T10:00:00-05:00",
+        "nextRunAt": "2026-09-15T10:00:00-05:00",
         "scheduleLabel": "Weekdays 10:00 AM CT (~8–15 replies; busy-room gate)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-09-14T10:45:00-05:00",
+        "nextRunAt": "2026-09-15T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }
@@ -420,8 +441,14 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-12T10:20:00-05:00",
+    "lastUpdated": "2026-09-14T10:40:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-14T10:40:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Refreshed the desk from Rowan’s Mon Sep 14 weekday pass: 10 busy-room replies + Mercury original; quiet/overlapping fills skipped per EXP-01 busy-room gate. No new lesson.",
+        "deskChanges": "Next Up → Tue Sep 15; posts ~51; followers 1; Mon content logged; volume-bar Active Venture updated."
+      },
       {
         "at": "2026-09-12T10:20:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
@@ -510,7 +537,7 @@
   "activeVentures": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-12T10:20:00-05:00",
+    "lastUpdated": "2026-09-14T10:40:00-05:00",
     "items": [
       {
         "id": "x-volume-bar",
@@ -522,9 +549,9 @@
         "startDate": "2026-09-11",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium; weekday passes; weekends quiet unless asked",
-        "performance": "EXP-01 closed FAIL 1.95× (reply median 19.5 vs original 10). Volume bar retained with busy-room gate. Followers 1; posts 40; top busy replies still 600–1,377 views.",
-        "nextMilestone": "Mon 2026-09-14 weekday pass under ~8–15 + busy-room gate; watch reply median quality",
-        "lastUpdated": "2026-09-12T10:20:00-05:00",
+        "performance": "Mon Sep 14: 10 busy-room replies + 1 original; quiet fills skipped. Followers 1; posts ~51. Today’s views not aged yet. EXP-01 FAIL lesson still binding.",
+        "nextMilestone": "Tue 2026-09-15 weekday pass; age Mon public counts",
+        "lastUpdated": "2026-09-14T10:40:00-05:00",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview"
       }
     ],
