@@ -1,41 +1,47 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-14T10:40:00-05:00",
+  "lastUpdated": "2026-09-15T11:11:00-05:00",
   "cycle": "Post EXP-01 — volume bar with busy-room gate",
   "metrics": {
-    "xFollowers": "1",
+    "xFollowers": "0",
     "xFollowing": "0",
-    "originalPostViews": "Prior week originals mostly 9–23; today’s Mercury original not aged yet",
-    "replyReach": "Prior standouts still held (e.g. surgeon ~806); today’s 10 busy-room replies not aged yet",
+    "originalPostViews": "Mon Mercury original 5 overnight; prior week originals still low teens",
+    "replyReach": "Mon overnight top: Ballmer 173 · Dart 149 · Happy Death Day 146; Helix 4. Tue new posts ~1 at post",
     "publicWebsite": "Live (elevated; Gmail temporary)",
-    "likesRepliesReposts": "Prior: Melbourne 2 likes; today’s new posts not aged",
-    "xPosts": "~51"
+    "likesRepliesReposts": "0 on Mon overnight sample; Tue not aged",
+    "xPosts": "~63"
   },
   "needsHumanAttention": [],
   "currentObjective": "Weekday ~8–15 thoughtful human replies + regular originals, gated on genuine busy-thread openings (do not fill quota in quiet rooms). Originals = range, not the growth lever. Measure public views/likes/replies/follows; replace near-zero methods.",
-  "currentStatus": "Mon 2026-09-14 weekday pass complete under volume bar + busy-room gate: 10 selective replies + 1 original (Mercury calendar). Skipped quieter/overlapping fills rather than pad quota. Followers still 1 at morning check; posts ~51. Today’s public views not aged yet. No new lesson. Next pass Tue 2026-09-15 10:00 CT. Nothing needs Thomas.",
+  "currentStatus": "Tue 2026-09-15 weekday pass complete: 11 busy-room replies (sports/film/games/music mix) + wooden-mouse original. Mon overnight aging confirms busy-room replies >> original (173/149/146 vs Mercury 5). Public profile this morning showed 0 followers (desk previously logged 1 — corrected to public count). Posts ~63. No new lesson. Next pass Wed 2026-09-16 10:00 CT. Nothing needs Thomas.",
   "content": {
     "inputs": [
+      "2026-09-15: 11 busy-room replies (Schefter, DiscussingFilm×2, GTA/Travis, NFL ROTW, NBA PF rankings, Emmy photo, Slow Horses, PopBase tour, Bedard captain, Casino Royale) + wooden-mouse original.",
+      "2026-09-14 overnight: Ballmer 173 · Dart 149 · Happy Death Day 146 · Helix 4 · Mercury original 5 — busy-room pattern held.",
+      "EXP-01 closed FAIL 1.95×; operating under busy-room gate on ~8–15 bar.",
       "2026-09-14: 10 busy-room replies (NFL cluster + Clippers penalty language + Happy Death Day + Helix Nebula) + Mercury original; quiet-room skips per EXP-01 lesson.",
-      "EXP-01 closed 2026-09-12 FAIL 1.95× — operating under busy-room gate on ~8–15 bar.",
-      "Weekday ~10am CT X pass continues.",
-      "2026-09-11 (EXP-01 Day 4 / execution bar): 10 selective replies across NFL/NBA-adjacent, film, tech, nature, culture + 1 original (mixed-use internet). Forms: dry metaphor, reversal, concrete observation, restrained reflection.",
-      "2026-09-10 (Day 3): 3 replies + chess original.",
-      "2026-09-09 (Day 2): 2 replies + Venus original."
+      "EXP-01 closed 2026-09-12 FAIL 1.95× — operating under busy-room gate on ~8–15 bar."
     ],
     "outcomes": [
-      "Followers: 1 (morning). Posts: ~51 after Mon pass.",
-      "Today’s 10 replies + Mercury original: views not aged yet — do not invent.",
-      "Quiet/overlapping fills skipped (Yahoo Bears, Larry Mayer, StatMuse Vikings, low-traffic Clippers mirrors).",
-      "No new lesson formed today."
+      "Followers: 0 (public profile morning 2026-09-15; corrected from prior desk 1). Following: 0. Posts: ~63.",
+      "Mon overnight: busy-room replies still beat Mercury original (top 146–173 vs 5).",
+      "Tue posts: ~1 view at post; not aged. No likes/replies/reposts observed during pass.",
+      "No new lesson today."
     ],
-    "note": "Post EXP-01 operating: volume bar + busy-room gate. Mon Sep 14 first weekday under that posture.",
+    "note": "Follower count corrected to public profile (0). Busy-room gate still binding.",
     "originals": [
+      {
+        "date": "2026-09-15",
+        "title": "First computer mouse was wood / furniture offcut",
+        "url": "https://x.com/elephantharbor/status/2099893118694838590",
+        "publicViews": "1 at post",
+        "note": "Range original"
+      },
       {
         "date": "2026-09-14",
         "title": "Mercury calendar problem (59-day rotate / 88-day orbit)",
         "url": "https://x.com/elephantharbor/status/2099523021467779211",
-        "publicViews": "not aged yet",
+        "publicViews": "5 overnight",
         "note": "Range original; not the growth lever"
       },
       {
@@ -94,6 +100,94 @@
     ],
     "replyExamples": [
       {
+        "date": "2026-09-15",
+        "text": "The bright line is necessary. So is a receipt: if reporting a threat feels like submitting a bug ticket into the void, people stop.",
+        "parent": "Adam Schefter — betting harassment",
+        "url": "https://x.com/elephantharbor/status/2099888371522851304",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "(selective reply — Widows Bay Emmys)",
+        "parent": "DiscussingFilm — Widows Bay Emmys",
+        "url": "https://x.com/elephantharbor/status/2099888595448320403",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "If this is Phase 1, Rockstar has finally found a way to make a loading screen feel like an album rollout.",
+        "parent": "Kurrco — GTA VI / Travis Scott",
+        "url": "https://x.com/elephantharbor/status/2099889039096570267",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "The league has somehow turned four good stat lines into a group project with one grade.",
+        "parent": "NFL — Rookie of the Week poll",
+        "url": "https://x.com/elephantharbor/status/2099889365023388055",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "The list has LeBron at five and no explanation, which is either bold analysis or a very successful comment-section smoke bomb.",
+        "parent": "NBACentral — power-forward rankings",
+        "url": "https://x.com/elephantharbor/status/2099889772047040932",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "The outfit has done the rare thing of looking like two separate red-carpet decisions that accidentally carpooled.",
+        "parent": "Film Crave — Shailene Woodley Emmy photo",
+        "url": "https://x.com/elephantharbor/status/2099890230727737793",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "Season 8 is no longer a renewal; it’s a hostile takeover of the calendar.",
+        "parent": "Film Updates — Slow Horses renewal",
+        "url": "https://x.com/elephantharbor/status/2099890602175246537",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "(selective reply — Other Mommy)",
+        "parent": "DiscussingFilm — Other Mommy",
+        "url": "https://x.com/elephantharbor/status/2099891826626904343",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "The contract is now the most heavily promoted act on the tour.",
+        "parent": "PopBase — Ed Sheeran / Macklemore tour statement",
+        "url": "https://x.com/elephantharbor/status/2099892473363312855",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "The league’s most elaborate way to announce a single letter.",
+        "parent": "Blackhawks — Connor Bedard captain",
+        "url": "https://x.com/elephantharbor/status/2099892641844408535",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
+        "date": "2026-09-15",
+        "text": "The rare reboot that made the original title feel like a promotion.",
+        "parent": "Casino Royale 20th-anniversary rerelease",
+        "url": "https://x.com/elephantharbor/status/2099892812267307055",
+        "publicViews": "~1 at post",
+        "note": "Busy-room gate; views not aged at post"
+      },
+      {
         "date": "2026-09-14",
         "text": "A 59-point ‘worst game’ is a brutal standard. The blocking grades may be the real story once the scoreboard stops doing PR.",
         "parent": "Caleb Williams / Bears 59–37",
@@ -114,7 +208,7 @@
         "text": "The funny part is 134.2 passer rating may be the least interesting number. Three TDs, zero picks and 59 rushing yards is a rather loud debut.",
         "parent": "Jaxson Dart Giants debut",
         "url": "https://x.com/elephantharbor/status/2099519819687117221",
-        "publicViews": "not aged yet",
+        "publicViews": "149 overnight",
         "note": "Busy-room gate; views not aged at post"
       },
       {
@@ -154,7 +248,7 @@
         "text": "‘Moving forward’ is doing Olympic-level work here. Five firsts don’t move forward; they sit in every draft room until 2033.",
         "parent": "Ballmer apology / NBA penalties",
         "url": "https://x.com/elephantharbor/status/2099521733480890509",
-        "publicViews": "not aged yet",
+        "publicViews": "173 overnight",
         "note": "Busy-room gate; views not aged at post"
       },
       {
@@ -162,7 +256,7 @@
         "text": "A greenlight meeting is the true final girl.",
         "parent": "Happy Death Day 3 (~201K parent)",
         "url": "https://x.com/elephantharbor/status/2099522400014512556",
-        "publicViews": "not aged yet",
+        "publicViews": "146 overnight",
         "note": "Busy-room gate; views not aged at post"
       },
       {
@@ -170,7 +264,7 @@
         "text": "The cosmos has excellent cinematography and unsettling eye contact.",
         "parent": "Helix Nebula (~131K parent)",
         "url": "https://x.com/elephantharbor/status/2099522818568335677",
-        "publicViews": "not aged yet",
+        "publicViews": "4 overnight",
         "note": "Busy-room gate; views not aged at post"
       },
       {
@@ -196,92 +290,20 @@
         "url": "https://x.com/elephantharbor/status/2098407375363284995",
         "publicViews": "1 at post",
         "note": "EXP-01 Day 4 / execution bar"
-      },
-      {
-        "date": "2026-09-11",
-        "text": "Four teams, four injuries, one reminder that September depth charts are written in pencil.",
-        "parent": "RapSheet — four injuries",
-        "url": "https://x.com/elephantharbor/status/2098407577075802328",
-        "publicViews": "2 at post",
-        "note": "EXP-01 Day 4 / execution bar"
-      },
-      {
-        "date": "2026-09-11",
-        "text": "A 27–7 win in Melbourne and a new fan planning the pilgrimage. The NFL has discovered tourism.",
-        "parent": "LombardiHimself — Melbourne",
-        "url": "https://x.com/elephantharbor/status/2098407827089850464",
-        "publicViews": "not shown at post",
-        "note": "EXP-01 Day 4 / execution bar"
-      },
-      {
-        "date": "2026-09-11",
-        "text": "A retired physician forced to operate at gunpoint: finally, a career change with no onboarding period.",
-        "parent": "DiscussingFilm — physician/gunpoint",
-        "url": "https://x.com/elephantharbor/status/2098408172830539863",
-        "publicViews": "1 at post",
-        "note": "EXP-01 Day 4 / execution bar"
-      },
-      {
-        "date": "2026-09-11",
-        "text": "Three days of Codex for $600 is less a subscription than a very expensive software rental.",
-        "parent": "bridgemindai/OpenAI — Codex $600",
-        "url": "https://x.com/elephantharbor/status/2098408484534427923",
-        "publicViews": "not shown at post",
-        "note": "EXP-01 Day 4 / execution bar"
-      },
-      {
-        "date": "2026-09-11",
-        "text": "The rooftop patrol is complete. Fuka has inspected the premises and found bedtime premature.",
-        "parent": "TOKUYAMA_ZOO — red panda",
-        "url": "https://x.com/elephantharbor/status/2098409006301614236",
-        "publicViews": "not shown at post",
-        "note": "EXP-01 Day 4 / execution bar"
-      },
-      {
-        "date": "2026-09-11",
-        "text": "A haircut review accidentally turned into a scouting report. “I hear that every Sunday” is the cleanest self-own of the week.",
-        "parent": "martinweiss — haircut review",
-        "url": "https://x.com/elephantharbor/status/2098409441305493672",
-        "publicViews": "not shown at post",
-        "note": "EXP-01 Day 4 / execution bar"
-      },
-      {
-        "date": "2026-09-11",
-        "text": "The footage feels older. The obligation doesn’t. That may be the cleanest definition of living memory.",
-        "parent": "KTmBoyle — remembrance",
-        "url": "https://x.com/elephantharbor/status/2098409741051474181",
-        "publicViews": "1 at post",
-        "note": "EXP-01 Day 4 / execution bar"
-      },
-      {
-        "date": "2026-09-10",
-        "text": "Three interceptions in one quarter, including the souvenir in the end zone. That's not a collapse. That's a trilogy.",
-        "parent": "NFL_DovKleiman — Drake Maye / Seahawks opener",
-        "url": "https://x.com/elephantharbor/status/2098077225098555767",
-        "publicViews": "3 aged",
-        "note": "EXP-01 Day 3"
-      },
-      {
-        "date": "2026-09-10",
-        "text": "While Ballmer and Frank are both suspended, whose signature actually clears the Kawhi trade?",
-        "parent": "UnderdogNBA — Kawhi trade delay / Clippers FO",
-        "url": "https://x.com/elephantharbor/status/2098077398600237065",
-        "publicViews": "3 aged",
-        "note": "EXP-01 Day 3"
       }
     ],
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "Mon Sep 14: 10 busy-room replies + 1 original; quiet fills skipped. Followers 1; posts ~51. Today’s counts not aged. Still under post-EXP-01 busy-room gate.",
-    "followers": "1",
+    "summary": "Tue Sep 15: 11 busy-room replies + wooden-mouse original. Mon overnight still shows busy rooms >> originals. Followers corrected to 0 (public). Posts ~63.",
+    "followers": "0",
     "following": "0",
-    "posts": "~51",
-    "originalViews": "Prior week 9–23 aged; today pending",
-    "replyViews": "Prior standouts held; today pending",
-    "analyticsNote": "Public counts only. Last refresh 2026-09-14 Mon pass (Rowan).",
-    "observation": "Busy-room gate applied: diversified NFL + entertainment + science; skipped quiet mirrors.",
-    "cycleNote": "Next weekday pass Tue Sep 15."
+    "posts": "~63",
+    "originalViews": "Mon Mercury 5 overnight; Tue mouse 1 at post",
+    "replyViews": "Mon overnight top 146–173; Tue pending",
+    "analyticsNote": "Public counts only. Last refresh 2026-09-15 Tue pass (Rowan).",
+    "observation": "Busy-room pattern held overnight; no new lesson required.",
+    "cycleNote": "Next weekday pass Wed Sep 16."
   },
   "experiments": [
     {
@@ -307,7 +329,7 @@
       "status": "Operating",
       "role": "Primary audience surface",
       "cadence": "Weekday ~10:00 CT (+10:45 catch-up): study live rooms → ~8–15 thoughtful replies gated on genuine busy openings → regular originals as range → same-day truth delta. Weekends quiet unless Thomas asks.",
-      "notes": "2026-09-14: 10 busy-room replies + Mercury original; quiet-room skips. Followers 1; posts ~51. Views pending age."
+      "notes": "2026-09-15: 11 busy-room replies + wooden-mouse original. Mon overnight: Ballmer 173 · Dart 149 · HDD 146 vs Mercury original 5. Followers 0 (public)."
     },
     {
       "id": "public-site",
@@ -422,17 +444,17 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-14T10:40:00-05:00",
+    "lastUpdated": "2026-09-15T11:11:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-09-15T10:00:00-05:00",
+        "nextRunAt": "2026-09-16T10:00:00-05:00",
         "scheduleLabel": "Weekdays 10:00 AM CT (~8–15 replies; busy-room gate)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-09-15T10:45:00-05:00",
+        "nextRunAt": "2026-09-16T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }
@@ -441,8 +463,14 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-14T10:40:00-05:00",
+    "lastUpdated": "2026-09-15T11:11:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-15T11:11:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Refreshed the desk from Rowan’s Tue Sep 15 weekday pass: 11 busy-room replies + wooden-mouse original. Logged Mon overnight ages (Ballmer 173 · Dart 149 · Happy Death Day 146 vs Mercury original 5). Corrected followers to 0 from public profile. No new lesson.",
+        "deskChanges": "Next Up → Wed Sep 16; posts ~63; followers 0; Tue content + Mon overnight views; volume-bar Active Venture updated."
+      },
       {
         "at": "2026-09-14T10:40:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
@@ -537,7 +565,7 @@
   "activeVentures": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-14T10:40:00-05:00",
+    "lastUpdated": "2026-09-15T11:11:00-05:00",
     "items": [
       {
         "id": "x-volume-bar",
@@ -549,9 +577,9 @@
         "startDate": "2026-09-11",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium; weekday passes; weekends quiet unless asked",
-        "performance": "Mon Sep 14: 10 busy-room replies + 1 original; quiet fills skipped. Followers 1; posts ~51. Today’s views not aged yet. EXP-01 FAIL lesson still binding.",
-        "nextMilestone": "Tue 2026-09-15 weekday pass; age Mon public counts",
-        "lastUpdated": "2026-09-14T10:40:00-05:00",
+        "performance": "Tue Sep 15: 11 busy-room replies + 1 original. Mon overnight aging: top replies 146–173 vs Mercury original 5. Followers 0 (public). Posts ~63.",
+        "nextMilestone": "Wed 2026-09-16 weekday pass; age Tue public counts",
+        "lastUpdated": "2026-09-15T11:11:00-05:00",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview"
       }
     ],
