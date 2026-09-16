@@ -1,7 +1,7 @@
 {
   "areaId": "presence",
   "areaName": "Harbor Presence",
-  "lastUpdated": "2026-09-16T17:15:00-05:00",
+  "lastUpdated": "2026-09-16T17:29:00-05:00",
   "items": [
     {
       "id": "exp-02-voice-shift",
@@ -13,10 +13,10 @@
       "startDate": "2026-09-16",
       "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
       "exposure": "$0 / no Premium; ≤5 weekday passes or 30 replies",
-      "performance": "Just opened. Prior state: near-zero engagement under observational default; EXP-01 FAIL 1.95×.",
-      "nextMilestone": "Thu 2026-09-17 weekday pass under EXP-02 mix; first mix tally in truth delta",
+      "performance": "Day 1: 9 replies — questions 6 / disagreements 3 / observational 0. Cumulative 9/30. No likes/replies/follows during pass. Next pass: prefer threads with 20+ replies.",
+      "nextMilestone": "Thu 2026-09-17 weekday pass; continue mix tally toward 30",
       "detailLink": "https://elephantharbor.github.io/harbor-presence/#experiments",
-      "lastUpdated": "2026-09-16T17:15:00-05:00"
+      "lastUpdated": "2026-09-16T17:29:00-05:00"
     },
     {
       "id": "x-volume-bar",
@@ -28,10 +28,10 @@
       "startDate": "2026-09-11",
       "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
       "exposure": "$0 / no Premium",
-      "performance": "Tue Sep 15 last logged pass (11 replies + 1 original). Wed Sep 16 delta not yet received — AV refreshed for OS v2/EXP-02 same day.",
-      "nextMilestone": "Next material pass: apply EXP-02; refresh this AV same day",
+      "performance": "Wed late catch-up: 9 replies (posts 72). Subordinated to EXP-02 mix.",
+      "nextMilestone": "Thu 2026-09-17 under EXP-02",
       "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-      "lastUpdated": "2026-09-16T17:15:00-05:00"
+      "lastUpdated": "2026-09-16T17:29:00-05:00"
     }
   ],
   "emptyReason": null

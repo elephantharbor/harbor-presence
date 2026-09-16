@@ -4,24 +4,24 @@
   "description": "Audience and public presence.",
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
   "status": "Operating",
-  "statusDetail": "OS v2 EXP-02 Testing: next 30 replies shift to questions/disagreement; AV refreshed; next pass Thu Sep 17.",
+  "statusDetail": "EXP-02 day 1: 9 replies Q6/D3/obs0 (9/30); posts 72; next Thu Sep 17 prefer 20+ reply threads.",
   "owner": "Maren (Harbor Presence - CEO)",
-  "lastUpdated": "2026-09-16T17:15:00-05:00",
+  "lastUpdated": "2026-09-16T17:29:00-05:00",
   "headlineMetrics": [
     {
       "label": "X followers",
       "value": "0",
-      "hint": "Public profile as of last desk refresh"
+      "hint": "After Wed late pass"
     },
     {
-      "label": "Active experiment",
-      "value": "EXP-02 Testing",
-      "hint": "Voice/form shift — next 30 replies"
+      "label": "X posts",
+      "value": "72",
+      "hint": "63 → 72 after EXP-02 day 1"
     },
     {
-      "label": "EXP-01 result",
-      "value": "FAIL 1.95×",
-      "hint": "Closed; informed busy-room gate + now voice adaptation"
+      "label": "EXP-02 progress",
+      "value": "9/30",
+      "hint": "Q6 · D3 · obs0 — on track for ≥15 Q+D"
     },
     {
       "label": "Public website",
@@ -29,8 +29,8 @@
       "hint": "Gmail temporary"
     }
   ],
-  "currentObjective": "Keep weekday ~8–15 busy-room replies, but change voice: EXP-02 requires ≥15/30 questions or explicit disagreements; ≤10/30 dry observational one-liners; ban AI cadences. Link each pass’s outcomes to the next behavior. Measure likes/replies/follows + median views.",
-  "currentStatusBrief": "Adapting voice after near-zero engagement — EXP-02 mix rules for next 30 replies. Not repeating observational one-liner default. Next pass Thu 10:00 CT. Nothing needs Thomas.",
+  "currentObjective": "EXP-02 Testing: next 30 replies ≥15 questions/disagreements; ≤10 observational metaphors; ban AI cadences; busy-room gate + ~8–15/day. Link outcomes → next behavior each pass.",
+  "currentStatusBrief": "Late Wed EXP-02: mix compliant (0 observational). Still no engagement events at post. Next: busier threads (20+ replies). Thu 10:00 CT. Nothing needs Thomas.",
   "latestLesson": {
     "experience": "Near-zero likes/follows persisted after EXP-01 and continued observational busy-room replies.",
     "evidence": "EXP-01 FAIL 1.95×; Mon–Tue tops ~146–173 views with ~0 engagement events; followers 0 public.",
@@ -84,13 +84,13 @@
       "id": "exp-02-voice-shift",
       "title": "EXP-02 — Voice/form shift (questions & disagreement)",
       "status": "Active — Testing",
-      "nextMilestone": "Thu 2026-09-17 weekday pass under EXP-02 mix; first mix tally in truth delta"
+      "nextMilestone": "Thu 2026-09-17 weekday pass; continue mix tally toward 30"
     },
     {
       "id": "x-volume-bar",
       "title": "X volume bar — ~8–15 replies/day with busy-room gate",
       "status": "Active",
-      "nextMilestone": "Next material pass: apply EXP-02; refresh this AV same day"
+      "nextMilestone": "Thu 2026-09-17 under EXP-02"
     }
   ]
 }
