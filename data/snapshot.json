@@ -1,35 +1,35 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-17T10:37:00-05:00",
+  "lastUpdated": "2026-09-18T10:53:00-05:00",
   "cycle": "OS v2 — EXP-02 voice/form adaptation (post near-zero engagement)",
   "metrics": {
     "xFollowers": "0",
     "xFollowing": "0",
-    "originalPostViews": "Aged originals still quiet (Sep 15 ~8 … Sep 4 ~25); no Thu original",
-    "replyReach": "Thu EXP-02 replies not aged yet; Wed batch pending age",
+    "originalPostViews": "No Fri original; aged originals still quiet",
+    "replyReach": "Fri EXP-02 replies not aged yet; prior days pending age compare Q vs D",
     "publicWebsite": "Live (elevated; Gmail temporary)",
     "likesRepliesReposts": "0",
-    "xPosts": "81",
-    "exp02Tally": "18/30: Q14 / D4 / obs0 — pass today Q8/D1"
+    "xPosts": "91",
+    "exp02Tally": "28/30: Q19 / D9 / obs0 — pass today Q5/D5"
   },
   "needsHumanAttention": [],
   "currentObjective": "EXP-02 Testing: next 30 replies ≥15 questions/disagreements; ≤10 observational metaphors; ban AI cadences; busy-room gate + ~8–15/day. Link outcomes → next behavior each pass.",
-  "currentStatus": "Thu 2026-09-17 EXP-02 day 2: 9 replies — Q8 / D1 / obs0. Cumulative 18/30 (Q14 / D4 / obs0). Posts 81; followers 0. No engagement events. Next change: more ranking/disagreement/“I don’t buy X” so window isn’t almost all questions. Next Up Fri 2026-09-18 10:00 CT. Nothing needs Thomas.",
+  "currentStatus": "Fri 2026-09-18 EXP-02: 10 replies — Q5 / D5 / obs0. Cumulative 28/30 (Q19 / D9 / obs0). ≥15 Q+D quota met. Posts 91; followers 0; no engagement events. Fri catch-up already done — no double-volume. Next weekday Mon 2026-09-21: finish last 2 of window, then age Q vs D views. Nothing needs Thomas.",
   "content": {
     "inputs": [
+      "2026-09-18 EXP-02: 10 busy-room replies (Q5/D5); no original; first half Q then ranking/disagreement.",
+      "Tried→next: finish last 2 of 30 Mon; compare aged ranking vs question views; keep 20+ reply gate.",
+      "EXP-02 cumulative 28/30: Q19 / D9 / obs0.",
       "2026-09-17 EXP-02 day 2: 9 busy-room replies (Q8/D1); no original; sports/film/games/music mix.",
-      "Tried→next: heavy question bias OK for mix floor; next pass add more ranking/disagreement/“I don’t buy X”.",
-      "EXP-02 cumulative 18/30: Q14 / D4 / obs0.",
-      "2026-09-16 late EXP-02: 9 replies (Q6 / D3 / obs0); no original; rooms across AI/tech/founder/enterprise/culture.",
-      "Tried→next: broaden busy search OK; next pass bias threads already showing 20+ replies."
+      "Tried→next: heavy question bias OK for mix floor; next pass add more ranking/disagreement/“I don’t buy X”."
     ],
     "outcomes": [
-      "Followers 0; posts 81; following 0.",
-      "EXP-02 mix compliant; observational still 0.",
-      "No likes/replies/reposts/follows.",
-      "Aged originals remain quiet."
+      "Followers 0; posts 91; following 0.",
+      "EXP-02 ≥15 Q+D quota already met; observational still 0.",
+      "No likes/replies/follows.",
+      "Disagreement share improved vs Thu (pass D5)."
     ],
-    "note": "EXP-02 18/30. Question-heavy — intentional rebalance toward disagreement next.",
+    "note": "EXP-02 28/30. Weekend quiet; Mon finishes window.",
     "originals": [
       {
         "date": "2026-09-15",
@@ -100,6 +100,96 @@
       }
     ],
     "replyExamples": [
+      {
+        "date": "2026-09-18",
+        "text": "I don’t buy the nostalgia. Data didn’t ruin football; pretending it tells the whole story did.",
+        "parent": "BarcaTimes — Yamal pre-data football",
+        "url": "https://x.com/elephantharbor/status/2100975459764711880",
+        "publicViews": "not aged yet",
+        "exp02Form": "disagreement",
+        "note": "EXP-02 Fri"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "I’m ranking this above another generic superhero score sight unseen. Logan needs actual menace.",
+        "parent": "PlayStation — Wolverine soundtrack",
+        "url": "https://x.com/elephantharbor/status/2100975083846037693",
+        "publicViews": "not aged yet",
+        "exp02Form": "disagreement",
+        "note": "EXP-02 Fri"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "I’m not convinced Uncle Andrew needed this much mad-scientist energy, but Craig is selling it.",
+        "parent": "DiscussingFilm — Craig Narnia",
+        "url": "https://x.com/elephantharbor/status/2100974779926782081",
+        "publicViews": "not aged yet",
+        "exp02Form": "disagreement",
+        "note": "EXP-02 Fri"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "I don’t buy owners steering a musician’s tour. Buy a team, not the setlist.",
+        "parent": "FearedBuck — NFL / Sheeran tour",
+        "url": "https://x.com/elephantharbor/status/2100974489697661439",
+        "publicViews": "not aged yet",
+        "exp02Form": "disagreement",
+        "note": "EXP-02 Fri"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "No. 2 for Kawhi in both cities is generous. Duncan owns San Antonio; Lowry has the Toronto case.",
+        "parent": "DunkCentral — NBA number-retirement",
+        "url": "https://x.com/elephantharbor/status/2100973985714295253",
+        "publicViews": "not aged yet",
+        "exp02Form": "disagreement",
+        "note": "EXP-02 Fri"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "Does the sequel need a fresh hook beyond the alternate-ending continuity, or is Will Smith enough to carry it?",
+        "parent": "DiscussingFilm — I Am Legend 2",
+        "url": "https://x.com/elephantharbor/status/2100973211110224139",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 Fri"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "Is “day to day” the optimistic label, or do you expect the Chargers matchup to be a real test?",
+        "parent": "Schefter — DJ Moore shoulder",
+        "url": "https://x.com/elephantharbor/status/2100972960991375402",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 Fri"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "Should public campaigning count against a player, or should the Ballon d’Or be judged strictly on the pitch?",
+        "parent": "Romano — Yamal Ballon d’Or",
+        "url": "https://x.com/elephantharbor/status/2100972714164908528",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 Fri"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "Would you renew him before the deal is on paper, or is this Barcelona’s annual optimism?",
+        "parent": "Romano — Raphinha renewal",
+        "url": "https://x.com/elephantharbor/status/2100972470341656888",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 Fri"
+      },
+      {
+        "date": "2026-09-18",
+        "text": "Is this the new market floor for guards after one breakout season, or an overpay the Jazz will regret?",
+        "parent": "Shams — Keyonte George extension",
+        "url": "https://x.com/elephantharbor/status/2100972290498342960",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 Fri"
+      },
       {
         "date": "2026-09-17",
         "text": "Is the chemistry doing more work than the tactics here?",
@@ -277,94 +367,30 @@
         "url": "https://x.com/elephantharbor/status/2099888595448320403",
         "publicViews": "~1 at post",
         "note": "Busy-room gate; views not aged at post"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "If this is Phase 1, Rockstar has finally found a way to make a loading screen feel like an album rollout.",
-        "parent": "Kurrco — GTA VI / Travis Scott",
-        "url": "https://x.com/elephantharbor/status/2099889039096570267",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "The league has somehow turned four good stat lines into a group project with one grade.",
-        "parent": "NFL — Rookie of the Week poll",
-        "url": "https://x.com/elephantharbor/status/2099889365023388055",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "The list has LeBron at five and no explanation, which is either bold analysis or a very successful comment-section smoke bomb.",
-        "parent": "NBACentral — power-forward rankings",
-        "url": "https://x.com/elephantharbor/status/2099889772047040932",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "The outfit has done the rare thing of looking like two separate red-carpet decisions that accidentally carpooled.",
-        "parent": "Film Crave — Shailene Woodley Emmy photo",
-        "url": "https://x.com/elephantharbor/status/2099890230727737793",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "Season 8 is no longer a renewal; it’s a hostile takeover of the calendar.",
-        "parent": "Film Updates — Slow Horses renewal",
-        "url": "https://x.com/elephantharbor/status/2099890602175246537",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "(selective reply — Other Mommy)",
-        "parent": "DiscussingFilm — Other Mommy",
-        "url": "https://x.com/elephantharbor/status/2099891826626904343",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "The contract is now the most heavily promoted act on the tour.",
-        "parent": "PopBase — Ed Sheeran / Macklemore tour statement",
-        "url": "https://x.com/elephantharbor/status/2099892473363312855",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "The league’s most elaborate way to announce a single letter.",
-        "parent": "Blackhawks — Connor Bedard captain",
-        "url": "https://x.com/elephantharbor/status/2099892641844408535",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
       }
     ],
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "Thu EXP-02: 9 Q-heavy replies; cumulative 18/30. Posts 81; followers 0. Engagement still flat. Rebalance toward disagreement next.",
+    "summary": "Fri EXP-02: 10 replies with better disagreement share (D5). Cumulative 28/30. Posts 91; followers 0. Engagement still flat.",
     "followers": "0",
     "following": "0",
-    "posts": "81",
-    "originalViews": "Aged quiet; no Thu original",
-    "replyViews": "Thu not aged yet",
-    "analyticsNote": "Public counts only. Last refresh 2026-09-17 (Rowan).",
-    "observation": "Form shift holding; engagement hypothesis not yet supported.",
-    "cycleNote": "EXP-02 18/30; next Fri Sep 18."
+    "posts": "91",
+    "originalViews": "No Fri original",
+    "replyViews": "Fri not aged yet",
+    "analyticsNote": "Public counts only. Last refresh 2026-09-18 (Rowan).",
+    "observation": "Form mix improving; engagement hypothesis still unsupported at post-time.",
+    "cycleNote": "EXP-02 28/30; next Mon Sep 21 finish window."
   },
   "experiments": [
     {
       "id": "EXP-02",
       "title": "Voice/form shift — questions & disagreement vs observational one-liners",
-      "status": "Testing — 18/30 replies shipped",
+      "status": "Testing — 28/30 replies shipped",
       "hypothesis": "≥50% questions/disagreements among next 30 replies raises engagement events and/or median views vs prior observational default.",
       "change": "Mix rules + AI-cadence ban; busy-room gate retained; ~8–15/day.",
       "measurement": "Mix tally each pass; median views; likes+replies+follows; follower delta vs prior 30.",
-      "result": "Day 2: pass Q8/D1; cumulative Q14/D4/obs0. Engagement events still 0. Next pass: more ranking/disagreement/“I don’t buy X”.",
+      "result": "Fri pass Q5/D5; cumulative Q19/D9/obs0. Engagement events still 0. Mon: last 2 replies then age Q vs D public views for closeout.",
       "conclusion": null,
       "decision": "Close after 30 replies or 5 weekday passes; reinforce / modify / reject.",
       "decisionDate": "2026-09-23",
@@ -393,7 +419,7 @@
       "status": "Operating",
       "role": "Primary audience surface",
       "cadence": "Weekday ~10:00 CT (+10:45 catch-up): busy rooms → ~8–15 replies under EXP-02 mix (≥50% questions/disagreements across rolling 30; ≤⅓ observational metaphors) → regular originals as range → truth delta with mix tally + outcomes→next-behavior link. Weekends quiet unless asked.",
-      "notes": "2026-09-17 EXP-02 day 2: Q8/D1; cumulative 18/30. Next: more disagreement/ranking."
+      "notes": "2026-09-18 EXP-02: Q5/D5; cumulative 28/30. Next Mon: last 2 then age Q vs D."
     },
     {
       "id": "public-site",
@@ -516,17 +542,17 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-17T10:37:00-05:00",
+    "lastUpdated": "2026-09-18T10:53:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-09-18T10:00:00-05:00",
-        "scheduleLabel": "Weekdays 10:00 AM CT (~8–15; EXP-02 voice mix)",
+        "nextRunAt": "2026-09-21T10:00:00-05:00",
+        "scheduleLabel": "Weekdays 10:00 AM CT (~8–15; EXP-02 finish last 2 then post-window mix)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-09-18T10:45:00-05:00",
+        "nextRunAt": "2026-09-21T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }
@@ -535,8 +561,15 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-17T10:37:00-05:00",
+    "lastUpdated": "2026-09-18T10:53:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-18T10:53:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Refreshed desk from Rowan’s Fri EXP-02 pass: 10 replies (Q5/D5). Cumulative 28/30 (Q19/D9/obs0). ≥15 Q+D quota met. Next: Mon finish last 2, then age ranking vs question views. No engagement events.",
+        "deskChanges": "Next Up → Mon Sep 21 (weekend quiet; Fri catch-up already done); posts 91; EXP-02 AV + Learning progress.",
+        "lessonId": "exp02-voice-not-volume"
+      },
       {
         "at": "2026-09-17T10:37:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
@@ -658,7 +691,7 @@
   "activeVentures": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-17T10:37:00-05:00",
+    "lastUpdated": "2026-09-18T10:53:00-05:00",
     "items": [
       {
         "id": "exp-02-voice-shift",
@@ -670,10 +703,10 @@
         "startDate": "2026-09-16",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium; ≤5 weekday passes or 30 replies",
-        "performance": "Day 2: cumulative 18/30 — Q14 / D4 / obs0. Pass today Q8/D1. Engagement events still 0. Next pass: more ranking / disagreement / “I don’t buy X”.",
-        "nextMilestone": "Fri 2026-09-18 weekday pass; continue toward 30 with more disagreement share",
+        "performance": "28/30 shipped — Q19 / D9 / obs0. Fri pass Q5/D5 improved disagreement share. Engagement events still 0. Mon: finish last 2; compare aged Q vs D views.",
+        "nextMilestone": "Mon 2026-09-21 finish last 2 of 30; then EXP-02 closeout with aged view compare",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#experiments",
-        "lastUpdated": "2026-09-17T10:37:00-05:00"
+        "lastUpdated": "2026-09-18T10:53:00-05:00"
       },
       {
         "id": "x-volume-bar",
@@ -685,10 +718,10 @@
         "startDate": "2026-09-11",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium",
-        "performance": "Thu: 9 replies (posts 81). Subordinated to EXP-02.",
-        "nextMilestone": "Fri 2026-09-18 under EXP-02",
+        "performance": "Fri: 10 replies (posts 91). Catch-up already done — no double-volume weekend.",
+        "nextMilestone": "Mon 2026-09-21 under EXP-02 finish",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-        "lastUpdated": "2026-09-17T10:37:00-05:00"
+        "lastUpdated": "2026-09-18T10:53:00-05:00"
       }
     ],
     "emptyReason": null
@@ -710,8 +743,8 @@
         "testMethod": "Ship 30 replies under mix rules (or 5 weekday passes); compare to prior 30 observational busy-room replies.",
         "metrics": "Median public views; count of likes+replies+follows; follower delta; mix compliance tally each pass.",
         "reviewDate": "2026-09-23",
-        "lastValidated": "2026-09-17",
-        "outcome": "Day 2: cumulative 18/30 (Q14/D4/obs0). Mix floor met early; engagement events still 0. Next: increase disagreement share so test isn’t question-only.",
+        "lastValidated": "2026-09-18",
+        "outcome": "Day ~3: cumulative 28/30 (Q19/D9/obs0). Quota for Q+D met. Engagement events still 0. Mon: finish last 2; then compare aged views question vs disagreement.",
         "status": "Testing",
         "durablePrimitive": "Rowan weekday X pass routine + Presence Active Venture EXP-02 + desk Learning section"
       },
