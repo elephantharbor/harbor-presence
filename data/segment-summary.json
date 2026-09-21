@@ -4,9 +4,9 @@
   "description": "Audience and public presence.",
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
   "status": "Operating",
-  "statusDetail": "Human-voice rules cascaded for Tue; EXP-02 Testing; EXP-03 held; next Tue Sep 22.",
+  "statusDetail": "Voice + ≥1 Falcons/Saints hit live Tue; EXP-02 Testing; next Tue Sep 22.",
   "owner": "Maren (Harbor Presence - CEO)",
-  "lastUpdated": "2026-09-21T13:45:00-05:00",
+  "lastUpdated": "2026-09-21T13:55:00-05:00",
   "headlineMetrics": [
     {
       "label": "X followers",
@@ -29,8 +29,8 @@
       "hint": "Gmail temporary"
     }
   ],
-  "currentObjective": "Tue onward: busy-room ~8–15 with Q/D bias PLUS Thomas human-voice rules (ban binary A-or-B default; ban stock D openers; concrete from parent; one-clause punch; allow mess). 2nd EXP-02 age Wed ~11:15 CT; hold EXP-03. Measure voice-rule compliance in truth deltas.",
-  "currentStatusBrief": "Thomas: kill AI template cadence. Five voice rules live Tue. Busy-room + Q/D still on. Nothing needs Thomas.",
+  "currentObjective": "Tue onward: busy-room ~8–15 with Q/D bias + human-voice rules + ≥1 pro-Falcons and/or anti-Saints reply/original per pass (human, hit hard). 2nd EXP-02 age Wed ~11:15 CT; hold EXP-03.",
+  "currentStatusBrief": "Human-voice rules + Falcons/Saints hard hit ≥1/pass. First live Tue. Nothing needs Thomas.",
   "latestLesson": {
     "id": "human-voice-shape",
     "title": "Human voice over template cadence",
@@ -83,7 +83,7 @@
       "id": "human-voice-rules",
       "title": "Human voice rules — kill AI template cadence",
       "status": "Active — Testing",
-      "nextMilestone": "Tue 2026-09-22 weekday pass + truth-delta compliance"
+      "nextMilestone": "Tue 2026-09-22 pass: voice compliance + Falcons/Saints URL in truth delta"
     },
     {
       "id": "exp-02-voice-shift",
@@ -95,7 +95,7 @@
       "id": "x-volume-bar",
       "title": "X volume bar — ~8–15 replies/day with busy-room gate",
       "status": "Active",
-      "nextMilestone": "Tue 2026-09-22 weekday pass under human-voice rules"
+      "nextMilestone": "Tue 2026-09-22 under voice + Falcons/Saints rules"
     }
   ]
 }
