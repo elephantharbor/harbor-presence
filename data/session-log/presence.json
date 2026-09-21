@@ -1,8 +1,15 @@
 {
   "areaId": "presence",
   "areaName": "Harbor Presence",
-  "lastUpdated": "2026-09-21T13:55:00-05:00",
+  "lastUpdated": "2026-09-21T14:06:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-21T14:06:00-05:00",
+      "actor": "Maren (Harbor Presence - CEO)",
+      "summary": "Thomas approved Falcons/Saints NOW ship tone; go-hard elevated to core @elephantharbor X persona. Cascaded to Rowan. Logged original + 3-34 reply URLs; posts 101.",
+      "deskChanges": "Persona on channel; Learning/AV human-voice → go-hard; replyExamples; Next Up label.",
+      "lessonId": "go-hard-persona"
+    },
     {
       "at": "2026-09-21T13:55:00-05:00",
       "actor": "Maren (Harbor Presence - CEO)",

@@ -4,9 +4,9 @@
   "description": "Audience and public presence.",
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
   "status": "Operating",
-  "statusDetail": "Voice + ≥1 Falcons/Saints hit live Tue; EXP-02 Testing; next Tue Sep 22.",
+  "statusDetail": "Go-hard persona locked; posts 101; next Tue Sep 22 full pass.",
   "owner": "Maren (Harbor Presence - CEO)",
-  "lastUpdated": "2026-09-21T13:55:00-05:00",
+  "lastUpdated": "2026-09-21T14:06:00-05:00",
   "headlineMetrics": [
     {
       "label": "X followers",
@@ -15,13 +15,13 @@
     },
     {
       "label": "X posts",
-      "value": "99",
-      "hint": "After Mon pass"
+      "value": "101",
+      "hint": "After Falcons/Saints NOW ship"
     },
     {
-      "label": "EXP-02 aged",
-      "value": "Q med 17 · D med 13.5",
-      "hint": "Testing — form→engagement weakened"
+      "label": "Persona",
+      "value": "Go hard",
+      "hint": "Thomas-approved 2026-09-21"
     },
     {
       "label": "Public website",
@@ -29,13 +29,13 @@
       "hint": "Gmail temporary"
     }
   ],
-  "currentObjective": "Tue onward: busy-room ~8–15 with Q/D bias + human-voice rules + ≥1 pro-Falcons and/or anti-Saints reply/original per pass (human, hit hard). 2nd EXP-02 age Wed ~11:15 CT; hold EXP-03.",
-  "currentStatusBrief": "Human-voice rules + Falcons/Saints hard hit ≥1/pass. First live Tue. Nothing needs Thomas.",
+  "currentObjective": "Go-hard is core @elephantharbor X persona. Weekday ~8–15 busy-room + voice 5 + ≥1 pro-Falcons/anti-Saints hard hit. Hard, human, one punch — no soft both-sides. 2nd EXP-02 age Wed ~11:15; hold EXP-03.",
+  "currentStatusBrief": "Thomas locked go-hard as core X voice. Falcons/Saints NOW ship was the tone target. Tue full pass next. Nothing needs Thomas.",
   "latestLesson": {
-    "id": "human-voice-shape",
-    "title": "Human voice over template cadence",
+    "id": "go-hard-persona",
+    "title": "Go hard is core X persona",
     "originationDate": "2026-09-21",
-    "oneLiner": "Form mix ≠ human voice — five hard voice rules live Tue."
+    "oneLiner": "Hard, human, side-taking — not polite commentary or AI templates."
   },
   "needsHumanAction": false,
   "humanAction": null,
@@ -81,9 +81,9 @@
   "activeVentures": [
     {
       "id": "human-voice-rules",
-      "title": "Human voice rules — kill AI template cadence",
+      "title": "Go-hard persona + human voice rules",
       "status": "Active — Testing",
-      "nextMilestone": "Tue 2026-09-22 pass: voice compliance + Falcons/Saints URL in truth delta"
+      "nextMilestone": "Tue 2026-09-22 full pass under go-hard persona"
     },
     {
       "id": "exp-02-voice-shift",
@@ -95,7 +95,7 @@
       "id": "x-volume-bar",
       "title": "X volume bar — ~8–15 replies/day with busy-room gate",
       "status": "Active",
-      "nextMilestone": "Tue 2026-09-22 under voice + Falcons/Saints rules"
+      "nextMilestone": "Tue 2026-09-22 go-hard pass"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-21T13:55:00-05:00",
+  "lastUpdated": "2026-09-21T14:06:00-05:00",
   "cycle": "Human voice rules live Tue — post EXP-02 Testing",
   "metrics": {
     "xFollowers": "0",
@@ -9,19 +9,20 @@
     "replyReach": "EXP-02 aged: Q median 17 (n=19); D/ranking median 13.5 (n=10). Tops: D NFL/Sheeran 1,028; Q Keyonte 622.",
     "publicWebsite": "Live (elevated; Gmail temporary)",
     "likesRepliesReposts": "Near-zero: Craig Narnia D 1 like; Keyonte Q 1 reply; else ~0",
-    "xPosts": "99",
+    "xPosts": "101",
     "exp02Tally": "Pass tags Q21/D9/obs0; scrape retag Q20/D10 (MW4 trailer → D)"
   },
   "needsHumanAttention": [],
-  "currentObjective": "Tue onward: busy-room ~8–15 with Q/D bias + human-voice rules + ≥1 pro-Falcons and/or anti-Saints reply/original per pass (human, hit hard). 2nd EXP-02 age Wed ~11:15 CT; hold EXP-03.",
-  "currentStatus": "2026-09-21 PM: Thomas added standing Falcons/Saints hit rule (≥1/pass, hard + human). Cascaded to Rowan for Tue. Next Up Tue 10:00 / 10:45. Nothing needs Thomas.",
+  "currentObjective": "Go-hard is core @elephantharbor X persona. Weekday ~8–15 busy-room + voice 5 + ≥1 pro-Falcons/anti-Saints hard hit. Hard, human, one punch — no soft both-sides. 2nd EXP-02 age Wed ~11:15; hold EXP-03.",
+  "currentStatus": "2026-09-21 ~2pm: Falcons/Saints NOW ship live (original + Falcons 3-34 reply). Thomas approved tone — go-hard locked as core persona. Posts 101; followers 0. Next Up Tue 10:00 / 10:45. Nothing needs Thomas.",
   "content": {
     "inputs": [
+      "2026-09-21 Thomas: loves Falcons/Saints tone — make go-hard core to X persona.",
+      "NOW ship: original https://x.com/elephantharbor/status/2102110182247432536 ; reply https://x.com/elephantharbor/status/2102110390364619037 (parent Falcons 3-34).",
       "2026-09-21 Thomas: ≥1 reply/post per weekday pass must be pro-Atlanta Falcons and/or anti-New Orleans Saints — very human, hit hard.",
       "2026-09-21 Thomas: recent replies feel AI/mechanical; cascade 5 human-voice rules to Rowan starting Tue.",
       "Rules: max 1 binary A-or-B/pass; ban I don’t buy / I’m ranking / I’m not convinced; name a concrete from parent; one clause; allow mess / kill abstract polish.",
-      "2026-09-21 metrics-only: aged EXP-02 public views — Q median 17 (n=19); D median 13.5 (n=10). Lisa DualSense Q excluded (views not shown).",
-      "Retag note: Sep 17 MW4 trailer 2100609255376068635 → D (scrape Q20/D10 vs pass tags Q21/D9)."
+      "2026-09-21 metrics-only: aged EXP-02 public views — Q median 17 (n=19); D median 13.5 (n=10). Lisa DualSense Q excluded (views not shown)."
     ],
     "outcomes": [
       "Followers 0; posts 99.",
@@ -29,7 +30,7 @@
       "Q median slightly above D; both low absolute; distribution skewed by busy-room outliers.",
       "Hypothesis half (engagement events from Q/D mix): not supported yet — weaken confidence; stay Testing."
     ],
-    "note": "Voice shape is now a first-class ops constraint alongside busy-room + Q/D mix. Near-zero engagement → change language, not only form tally.",
+    "note": "Go-hard persona locked. Voice 5 + Falcons/Saints ≥1/pass + busy-room bar.",
     "originals": [
       {
         "date": "2026-09-15",
@@ -100,6 +101,24 @@
       }
     ],
     "replyExamples": [
+      {
+        "date": "2026-09-21",
+        "text": "saints fans talking about “the process” like they didn’t draft a whole new personality after drew left atlanta already cooked that franchise once and y’all still doing victory laps over a .500 ceiling",
+        "parent": "original",
+        "url": "https://x.com/elephantharbor/status/2102110182247432536",
+        "publicViews": "not aged yet",
+        "exp02Form": "go-hard-original",
+        "note": "Falcons/Saints NOW ship; Thomas approved tone"
+      },
+      {
+        "date": "2026-09-21",
+        "text": "even after a 3-34 final, falcons still the only nfc south team that makes me nervous on purpose",
+        "parent": "Atlanta Falcons — 3-34 final",
+        "url": "https://x.com/elephantharbor/status/2102110390364619037",
+        "publicViews": "not aged yet",
+        "exp02Form": "go-hard-reply",
+        "note": "Parent https://x.com/AtlantaFalcons/status/2101765069444981085"
+      },
       {
         "date": "2026-09-21",
         "text": "Is the Lisa hardware actually limited, or just the patience of everyone trying to buy one?",
@@ -392,10 +411,10 @@
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "EXP-02 aged: Q med 17 / D med 13.5; engagement ~flat. Confidence weakened; ops mix continues. Posts 99; followers 0.",
+    "summary": "Go-hard persona locked after Thomas-approved Falcons/Saints NOW ship. Posts 101; followers 0. Engagement test continues under new voice.",
     "followers": "0",
     "following": "0",
-    "posts": "99",
+    "posts": "101",
     "originalViews": "No Mon original",
     "replyViews": "Aged EXP-02: Q median 17; D median 13.5 (public only)",
     "analyticsNote": "Public counts only. Age scrape 2026-09-21 ~11:10 CT (Rowan). Lisa DualSense Q excluded (views not shown).",
@@ -438,8 +457,9 @@
       "url": "https://x.com/elephantharbor",
       "status": "Operating",
       "role": "Primary audience surface",
-      "cadence": "Weekday ~10:00 CT (+10:45 catch-up): busy rooms → ~8–15 under human-voice rules + Q/D bias + ≥1 Falcons/Saints hard hit → originals as range → truth delta (voice compliance + Falcons URL). 2nd EXP-02 age Wed ~11:15 CT; hold EXP-03.",
-      "notes": "Human-voice rules + Falcons/Saints ≥1/pass live Tue."
+      "cadence": "Weekday ~10:00 CT (+10:45): busy rooms → ~8–15 go-hard + voice 5 + Q/D bias + ≥1 Falcons/Saints hard hit → originals as range → truth delta. 2nd EXP-02 age Wed ~11:15; hold EXP-03.",
+      "notes": "Go-hard = core persona (Thomas 2026-09-21). Posts 101.",
+      "persona": "Go hard: sharp, opinionated, side-taking, human mess OK; never soft both-sides or AI template."
     },
     {
       "id": "public-site",
@@ -453,6 +473,15 @@
     }
   ],
   "lessons": [
+    {
+      "id": "go-hard-persona",
+      "title": "Go hard is core X persona",
+      "originationDate": "2026-09-21",
+      "experience": "Thomas loved Falcons/Saints NOW ship tone vs prior mechanical replies.",
+      "evidence": "Original + 3-34 Falcons reply; Thomas explicit: make go-hard core.",
+      "learning": "Hard, human, side-taking voice is the brand on X — not polite commentary or template Q/D.",
+      "change": "Persona default = go hard; voice 5 + Falcons/Saints ≥1 remain; soft both-sides out."
+    },
     {
       "id": "human-voice-shape",
       "title": "Human voice over template cadence",
@@ -571,12 +600,12 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-21T13:55:00-05:00",
+    "lastUpdated": "2026-09-21T14:06:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
         "nextRunAt": "2026-09-22T10:00:00-05:00",
-        "scheduleLabel": "Weekdays 10:00 AM CT (~8–15; human voice; ≥1 Falcons/Saints hit)",
+        "scheduleLabel": "Weekdays 10:00 AM CT (~8–15; go-hard persona; voice 5; ≥1 Falcons/Saints)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
@@ -590,8 +619,15 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-21T13:55:00-05:00",
+    "lastUpdated": "2026-09-21T14:06:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-21T14:06:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Thomas approved Falcons/Saints NOW ship tone; go-hard elevated to core @elephantharbor X persona. Cascaded to Rowan. Logged original + 3-34 reply URLs; posts 101.",
+        "deskChanges": "Persona on channel; Learning/AV human-voice → go-hard; replyExamples; Next Up label.",
+        "lessonId": "go-hard-persona"
+      },
       {
         "at": "2026-09-21T13:55:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
@@ -748,22 +784,22 @@
   "activeVentures": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-21T13:55:00-05:00",
+    "lastUpdated": "2026-09-21T14:06:00-05:00",
     "items": [
       {
         "id": "human-voice-rules",
-        "title": "Human voice rules — kill AI template cadence",
+        "title": "Go-hard persona + human voice rules",
         "segment": "presence",
         "submarket": null,
-        "description": "Five voice rules + ≥1 pro-Falcons and/or anti-Saints hard human hit per weekday pass. Overlays EXP-02 Q/D bias.",
+        "description": "Core X persona = go hard. Five voice rules + ≥1 Falcons/Saints hard hit/pass. No soft both-sides. Overlays busy-room bar.",
         "status": "Active — Testing",
         "startDate": "2026-09-22",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium",
-        "performance": "Voice rules + Falcons/Saints rule cascaded 2026-09-21; first live pass Tue.",
-        "nextMilestone": "Tue 2026-09-22 pass: voice compliance + Falcons/Saints URL in truth delta",
+        "performance": "NOW ship live; Thomas approved tone 2026-09-21. First full pass under persona Tue.",
+        "nextMilestone": "Tue 2026-09-22 full pass under go-hard persona",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-        "lastUpdated": "2026-09-21T13:55:00-05:00"
+        "lastUpdated": "2026-09-21T14:06:00-05:00"
       },
       {
         "id": "exp-02-voice-shift",
@@ -791,9 +827,9 @@
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium",
         "performance": "Bar continues post-EXP-02; Q+D bias retained. Posts 99.",
-        "nextMilestone": "Tue 2026-09-22 under voice + Falcons/Saints rules",
+        "nextMilestone": "Tue 2026-09-22 go-hard pass",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-        "lastUpdated": "2026-09-21T13:55:00-05:00"
+        "lastUpdated": "2026-09-21T14:06:00-05:00"
       }
     ],
     "emptyReason": null
@@ -810,13 +846,13 @@
         "scope": "contextual/temporal — X reply voice/structure for near-zero-follower account",
         "hypothesis": "Breaking template cadence (binary Q / stock D openers / abstract polish) and requiring parent-concrete + messier one-clause replies will reduce AI-tell and may improve engagement events vs templated EXP-02 voice.",
         "confidence": "Medium on AI-tell diagnosis; low–medium on engagement lift — cheap behavioral test.",
-        "requiredBehavioralChange": "Five voice rules from Tue 2026-09-22 + ≥1 pro-Falcons and/or anti-Saints hit per weekday pass (human, hard; same voice rules). Max 1 binary A-or-B; ban stock D openers; parent-concrete; one clause; allow mess.",
+        "requiredBehavioralChange": "Go-hard core persona + five voice rules + ≥1 Falcons/Saints hard hit/pass. Sharp side-taking; no soft both-sides; concrete; one punch; allow mess.",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "testMethod": "Ship weekday passes under rules; truth-delta compliance counts; watch likes/replies/follows + follower delta vs prior week.",
         "metrics": "Binary-Q count/pass; banned-opener count; engagement events; follower delta; subjective AI-tell (Thomas spot-check).",
         "reviewDate": "2026-09-26",
         "lastValidated": "2026-09-21",
-        "outcome": "Rules cascaded; not yet tested in live passes.",
+        "outcome": "2026-09-21 NOW ship approved by Thomas as tone target. Go-hard elevated from Falcons add-on to core X persona. Still Testing on engagement.",
         "status": "Testing",
         "durablePrimitive": "Rowan weekday X pass routine + Presence desk Learning + voice checklist"
       },
