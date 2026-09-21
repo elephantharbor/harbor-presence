@@ -1,8 +1,23 @@
 {
   "areaId": "presence",
   "areaName": "Harbor Presence",
-  "lastUpdated": "2026-09-21T11:12:00-05:00",
+  "lastUpdated": "2026-09-21T13:45:00-05:00",
   "items": [
+    {
+      "id": "human-voice-rules",
+      "title": "Human voice rules — kill AI template cadence",
+      "segment": "presence",
+      "submarket": null,
+      "description": "Five rules live Tue 2026-09-22: max 1 binary A-or-B/pass; ban stock D openers; parent-concrete; one-clause punch; allow mess / kill abstract polish. Overlays EXP-02 Q/D bias.",
+      "status": "Active — Testing",
+      "startDate": "2026-09-22",
+      "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
+      "exposure": "$0 / no Premium",
+      "performance": "Rules cascaded 2026-09-21; first live pass Tue.",
+      "nextMilestone": "Tue 2026-09-22 weekday pass + truth-delta compliance",
+      "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
+      "lastUpdated": "2026-09-21T13:45:00-05:00"
+    },
     {
       "id": "exp-02-voice-shift",
       "title": "EXP-02 — Voice/form shift (questions & disagreement)",
@@ -14,24 +29,24 @@
       "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
       "exposure": "$0 / no Premium; ≤5 weekday passes or 30 replies",
       "performance": "Aged 2026-09-21: Q median 17 (n=19) / D 13.5 (n=10). Pass tags Q21/D9; scrape Q20/D10. Engagement ~2 events. Hold EXP-03 for 2nd age mid/late week.",
-      "nextMilestone": "Tue 2026-09-22 pass; 2nd age pass ~Wed–Fri Sep 24–25 before EXP-03",
+      "nextMilestone": "Wed 2026-09-24 ~11:15 CT 2nd age pass; human-voice overlay live Tue",
       "detailLink": "https://elephantharbor.github.io/harbor-presence/#experiments",
-      "lastUpdated": "2026-09-21T11:12:00-05:00"
+      "lastUpdated": "2026-09-21T13:45:00-05:00"
     },
     {
       "id": "x-volume-bar",
       "title": "X volume bar — ~8–15 replies/day with busy-room gate",
       "segment": "presence",
       "submarket": null,
-      "description": "Weekday volume with busy-thread gate; now subordinated to EXP-02 voice mix (quality of form, not just room).",
+      "description": "Weekday volume with busy-thread gate; subordinated to Q/D bias + human-voice rules.",
       "status": "Active",
       "startDate": "2026-09-11",
       "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
       "exposure": "$0 / no Premium",
       "performance": "Bar continues post-EXP-02; Q+D bias retained. Posts 99.",
-      "nextMilestone": "Tue 2026-09-22 weekday pass",
+      "nextMilestone": "Tue 2026-09-22 weekday pass under human-voice rules",
       "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-      "lastUpdated": "2026-09-21T11:12:00-05:00"
+      "lastUpdated": "2026-09-21T13:45:00-05:00"
     }
   ],
   "emptyReason": null
