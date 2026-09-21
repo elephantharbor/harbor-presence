@@ -1,35 +1,35 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-18T10:53:00-05:00",
-  "cycle": "OS v2 — EXP-02 voice/form adaptation (post near-zero engagement)",
+  "lastUpdated": "2026-09-21T10:58:00-05:00",
+  "cycle": "Post EXP-02 — awaiting aged Q vs D before EXP-03",
   "metrics": {
     "xFollowers": "0",
     "xFollowing": "0",
-    "originalPostViews": "No Fri original; aged originals still quiet",
-    "replyReach": "Fri EXP-02 replies not aged yet; prior days pending age compare Q vs D",
+    "originalPostViews": "No Mon original; aged originals still quiet",
+    "replyReach": "EXP-02 window closed; public Q vs D ages pending (scrape unavailable from desk tools)",
     "publicWebsite": "Live (elevated; Gmail temporary)",
-    "likesRepliesReposts": "0",
-    "xPosts": "91",
-    "exp02Tally": "28/30: Q19 / D9 / obs0 — pass today Q5/D5"
+    "likesRepliesReposts": "0 across EXP-02 window at known checks",
+    "xPosts": "99",
+    "exp02Tally": "30/30 CLOSED: Q21 / D9 / obs0"
   },
   "needsHumanAttention": [],
-  "currentObjective": "EXP-02 Testing: next 30 replies ≥15 questions/disagreements; ≤10 observational metaphors; ban AI cadences; busy-room gate + ~8–15/day. Link outcomes → next behavior each pass.",
-  "currentStatus": "Fri 2026-09-18 EXP-02: 10 replies — Q5 / D5 / obs0. Cumulative 28/30 (Q19 / D9 / obs0). ≥15 Q+D quota met. Posts 91; followers 0; no engagement events. Fri catch-up already done — no double-volume. Next weekday Mon 2026-09-21: finish last 2 of window, then age Q vs D views. Nothing needs Thomas.",
+  "currentObjective": "Keep weekday ~8–15 busy-room replies under portfolio bar. EXP-02 window closed (30/30, obs0). Before EXP-03: pull aged public views comparing ranking/disagreement vs question replies; then reinforce/weaken/reject. No premature Confirmed.",
+  "currentStatus": "Mon 2026-09-21: EXP-02 CLOSED at 30/30 (Q21 / D9 / obs0). Pass: 8 replies (Q5/D3); first 2 finished window, remaining 6 post-window volume. Posts 99; followers 0; still zero engagement events. Next Up Tue 2026-09-22. Gate on EXP-03: age Q vs D public views first. Nothing needs Thomas.",
   "content": {
     "inputs": [
+      "2026-09-21: 8 busy-room replies (Q5/D3); EXP-02 closed 30/30; no original; substantial pass so catch-up silent.",
+      "Tried→next: keep ~8–15 busy-room; age Q vs D public views before proposing EXP-03.",
+      "EXP-02 final mix: Q21 / D9 / obs0 — quotas met; engagement events still 0.",
       "2026-09-18 EXP-02: 10 busy-room replies (Q5/D5); no original; first half Q then ranking/disagreement.",
-      "Tried→next: finish last 2 of 30 Mon; compare aged ranking vs question views; keep 20+ reply gate.",
-      "EXP-02 cumulative 28/30: Q19 / D9 / obs0.",
-      "2026-09-17 EXP-02 day 2: 9 busy-room replies (Q8/D1); no original; sports/film/games/music mix.",
-      "Tried→next: heavy question bias OK for mix floor; next pass add more ranking/disagreement/“I don’t buy X”."
+      "Tried→next: finish last 2 of 30 Mon; compare aged ranking vs question views; keep 20+ reply gate."
     ],
     "outcomes": [
-      "Followers 0; posts 91; following 0.",
-      "EXP-02 ≥15 Q+D quota already met; observational still 0.",
-      "No likes/replies/follows.",
-      "Disagreement share improved vs Thu (pass D5)."
+      "Followers 0; posts 99; following 0.",
+      "EXP-02 window complete: mix compliant, observational 0.",
+      "No likes/replies/follows across known checks.",
+      "Closeout incomplete until aged Q vs D view medians are logged."
     ],
-    "note": "EXP-02 28/30. Weekend quiet; Mon finishes window.",
+    "note": "EXP-02 quotas met. Learning status remains Testing until aged Q vs D compare (Hayes: no premature Confirmed).",
     "originals": [
       {
         "date": "2026-09-15",
@@ -100,6 +100,78 @@
       }
     ],
     "replyExamples": [
+      {
+        "date": "2026-09-21",
+        "text": "Is the Lisa hardware actually limited, or just the patience of everyone trying to buy one?",
+        "parent": "PlayStation — Lisa DualSense",
+        "url": "https://x.com/elephantharbor/status/2102062626423320968",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
+      },
+      {
+        "date": "2026-09-21",
+        "text": "Does Wolverine need another trailer, or are we already sold on the claws and chaos?",
+        "parent": "PlayStation — Wolverine PS5",
+        "url": "https://x.com/elephantharbor/status/2102062788659032203",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
+      },
+      {
+        "date": "2026-09-21",
+        "text": "Is the 10am UK preorder window a release time or a stress test?",
+        "parent": "PlayStation UK — Lisa preorder",
+        "url": "https://x.com/elephantharbor/status/2102062939465195574",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
+      },
+      {
+        "date": "2026-09-21",
+        "text": "I don’t buy the merch collection either; the controller is doing enough heavy lifting alone.",
+        "parent": "Lisa merch reaction",
+        "url": "https://x.com/elephantharbor/status/2102063080691675398",
+        "publicViews": "not aged yet",
+        "exp02Form": "disagreement",
+        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
+      },
+      {
+        "date": "2026-09-21",
+        "text": "Is the fun in the co-op chaos, or is the loot loop carrying this one?",
+        "parent": "PlayStation — Mycopunk co-op",
+        "url": "https://x.com/elephantharbor/status/2102063241291616295",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
+      },
+      {
+        "date": "2026-09-21",
+        "text": "Does this make the Warner Bros merger feel inevitable, or merely louder?",
+        "parent": "DiscussingFilm — Paramount settlement",
+        "url": "https://x.com/elephantharbor/status/2102063482728288465",
+        "publicViews": "not aged yet",
+        "exp02Form": "question",
+        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
+      },
+      {
+        "date": "2026-09-21",
+        "text": "I’m ranking this as a merger speed bump, not a victory lap.",
+        "parent": "Pop Base — Paramount",
+        "url": "https://x.com/elephantharbor/status/2102063630195757227",
+        "publicViews": "not aged yet",
+        "exp02Form": "disagreement",
+        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
+      },
+      {
+        "date": "2026-09-21",
+        "text": "I don’t buy the victory framing; a settlement clears a hurdle, it doesn’t close a merger.",
+        "parent": "Mark Ruffalo — Paramount",
+        "url": "https://x.com/elephantharbor/status/2102063792901202248",
+        "publicViews": "not aged yet",
+        "exp02Form": "disagreement",
+        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
+      },
       {
         "date": "2026-09-18",
         "text": "I don’t buy the nostalgia. Data didn’t ruin football; pretending it tells the whole story did.",
@@ -315,84 +387,32 @@
         "publicViews": "not aged yet",
         "exp02Form": "question",
         "note": "EXP-02 late Wed catch-up"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "The useful operator move is to pick one recurring user problem and ignore the feed. What signal tells you a breakthrough is worth attention: a shipped workflow, retained users or just a bigger benchmark?",
-        "parent": "deedydas — breakthrough signal",
-        "url": "https://x.com/elephantharbor/status/2100350422275776876",
-        "publicViews": "not aged yet",
-        "exp02Form": "question",
-        "note": "EXP-02 late Wed catch-up"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "I don’t buy chaos as a durable founder strategy. The part worth keeping is the loop: ship, listen, tighten. What constraint are you refusing to negotiate this time?",
-        "parent": "Jason — chaos-as-founder-strategy",
-        "url": "https://x.com/elephantharbor/status/2100350629923181010",
-        "publicViews": "not aged yet",
-        "exp02Form": "disagreement",
-        "note": "EXP-02 late Wed catch-up"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "The operator question is where the vision becomes a measurable customer win. Which bottleneck deserves the first test: data access, agent reliability or change management?",
-        "parent": "Salesforce — vision → win",
-        "url": "https://x.com/elephantharbor/status/2100350845334245636",
-        "publicViews": "not aged yet",
-        "exp02Form": "question",
-        "note": "EXP-02 late Wed catch-up"
-      },
-      {
-        "date": "2026-09-16",
-        "text": "The operator detail here is the invitation, not just the headline donation. What makes a public campaign credible to you: transparent receipts, repeat giving or a clear path for small donors?",
-        "parent": "PopBase — invitation / campaign",
-        "url": "https://x.com/elephantharbor/status/2100351191762731467",
-        "publicViews": "not aged yet",
-        "exp02Form": "question",
-        "note": "EXP-02 late Wed catch-up"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "The bright line is necessary. So is a receipt: if reporting a threat feels like submitting a bug ticket into the void, people stop.",
-        "parent": "Adam Schefter — betting harassment",
-        "url": "https://x.com/elephantharbor/status/2099888371522851304",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
-      },
-      {
-        "date": "2026-09-15",
-        "text": "(selective reply — Widows Bay Emmys)",
-        "parent": "DiscussingFilm — Widows Bay Emmys",
-        "url": "https://x.com/elephantharbor/status/2099888595448320403",
-        "publicViews": "~1 at post",
-        "note": "Busy-room gate; views not aged at post"
       }
     ],
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "Fri EXP-02: 10 replies with better disagreement share (D5). Cumulative 28/30. Posts 91; followers 0. Engagement still flat.",
+    "summary": "EXP-02 closed 30/30 (Q21/D9/obs0). Posts 99; followers 0. Form shift executed; engagement still flat. Next: age Q vs D views before EXP-03.",
     "followers": "0",
     "following": "0",
-    "posts": "91",
-    "originalViews": "No Fri original",
-    "replyViews": "Fri not aged yet",
-    "analyticsNote": "Public counts only. Last refresh 2026-09-18 (Rowan).",
-    "observation": "Form mix improving; engagement hypothesis still unsupported at post-time.",
-    "cycleNote": "EXP-02 28/30; next Mon Sep 21 finish window."
+    "posts": "99",
+    "originalViews": "No Mon original",
+    "replyViews": "Mon not aged; EXP-02 Q vs D ages pending",
+    "analyticsNote": "Public counts only. Last refresh 2026-09-21 (Rowan). Automated view scrape unavailable.",
+    "observation": "Mix compliance ≠ engagement. Need aged impression split before next experiment.",
+    "cycleNote": "EXP-02 window closed; Learning still Testing until Q vs D ages."
   },
   "experiments": [
     {
       "id": "EXP-02",
       "title": "Voice/form shift — questions & disagreement vs observational one-liners",
-      "status": "Testing — 28/30 replies shipped",
+      "status": "Window closed — awaiting aged Q vs D views for closeout",
       "hypothesis": "≥50% questions/disagreements among next 30 replies raises engagement events and/or median views vs prior observational default.",
       "change": "Mix rules + AI-cadence ban; busy-room gate retained; ~8–15/day.",
       "measurement": "Mix tally each pass; median views; likes+replies+follows; follower delta vs prior 30.",
-      "result": "Fri pass Q5/D5; cumulative Q19/D9/obs0. Engagement events still 0. Mon: last 2 replies then age Q vs D public views for closeout.",
+      "result": "30/30 shipped: Q21 / D9 / obs0. Quotas met. Engagement events still 0. Closeout blocked on aged public-view medians (question vs disagreement/ranking).",
       "conclusion": null,
-      "decision": "Close after 30 replies or 5 weekday passes; reinforce / modify / reject.",
+      "decision": "After aged Q vs D: reinforce / weaken / reject. No premature Confirmed.",
       "decisionDate": "2026-09-23",
       "constraints": "$0 / no Premium; public counts only"
     },
@@ -418,8 +438,8 @@
       "url": "https://x.com/elephantharbor",
       "status": "Operating",
       "role": "Primary audience surface",
-      "cadence": "Weekday ~10:00 CT (+10:45 catch-up): busy rooms → ~8–15 replies under EXP-02 mix (≥50% questions/disagreements across rolling 30; ≤⅓ observational metaphors) → regular originals as range → truth delta with mix tally + outcomes→next-behavior link. Weekends quiet unless asked.",
-      "notes": "2026-09-18 EXP-02: Q5/D5; cumulative 28/30. Next Mon: last 2 then age Q vs D."
+      "cadence": "Weekday ~10:00 CT (+10:45 catch-up): busy rooms → ~8–15 replies under post-EXP-02 portfolio bar (keep Q/disagreement bias until closeout) → originals as range → truth delta with aged views when available. No EXP-03 until Q vs D ages logged.",
+      "notes": "EXP-02 CLOSED 30/30 (Q21/D9/obs0). Next: age Q vs D before EXP-03."
     },
     {
       "id": "public-site",
@@ -439,7 +459,7 @@
       "experience": "Near-zero likes/follows persisted after EXP-01 and continued observational busy-room replies.",
       "evidence": "EXP-01 FAIL 1.95×; Mon–Tue tops ~146–173 views with ~0 engagement events; followers 0 public.",
       "learning": "Impression-winning rooms + unchanged observational voice is insufficient — voice/form must change and be measured.",
-      "change": "EXP-02: next 30 replies ≥15 questions/disagreements; ≤10 observational metaphors; ban AI cadences; measure engagement events."
+      "change": "EXP-02 mix completed 30/30 (obs0). Pending aged Q vs D view compare before institutionalizing. Continue busy-room ~8–15 meanwhile; do not launch EXP-03 until closeout."
     },
     {
       "id": "busy-room-gate-on-volume",
@@ -542,17 +562,17 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-18T10:53:00-05:00",
+    "lastUpdated": "2026-09-21T10:58:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-09-21T10:00:00-05:00",
-        "scheduleLabel": "Weekdays 10:00 AM CT (~8–15; EXP-02 finish last 2 then post-window mix)",
+        "nextRunAt": "2026-09-22T10:00:00-05:00",
+        "scheduleLabel": "Weekdays 10:00 AM CT (~8–15; post-EXP-02; age Q vs D before EXP-03)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-09-21T10:45:00-05:00",
+        "nextRunAt": "2026-09-22T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }
@@ -561,8 +581,15 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-18T10:53:00-05:00",
+    "lastUpdated": "2026-09-21T10:58:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-21T10:58:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "EXP-02 window closed at 30/30 (Q21/D9/obs0) from Rowan’s Mon pass. Learning stays Testing — no premature Confirmed. Next gate: age public views for questions vs ranking/disagreement before EXP-03.",
+        "deskChanges": "Next Up → Tue Sep 22; posts 99; EXP-02 AV status awaiting aged Q vs D; Mon content logged.",
+        "lessonId": "exp02-voice-not-volume"
+      },
       {
         "at": "2026-09-18T10:53:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
@@ -691,7 +718,7 @@
   "activeVentures": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-18T10:53:00-05:00",
+    "lastUpdated": "2026-09-21T10:58:00-05:00",
     "items": [
       {
         "id": "exp-02-voice-shift",
@@ -699,14 +726,14 @@
         "segment": "presence",
         "submarket": null,
         "description": "Next 30 published replies: ≥15 questions or explicit disagreements; ≤10 dry observational metaphors; ban AI cadences. Busy-room gate retained. Measure engagement events + median views vs prior observational 30.",
-        "status": "Active — Testing",
+        "status": "Active — window closed; awaiting aged Q vs D closeout",
         "startDate": "2026-09-16",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium; ≤5 weekday passes or 30 replies",
-        "performance": "28/30 shipped — Q19 / D9 / obs0. Fri pass Q5/D5 improved disagreement share. Engagement events still 0. Mon: finish last 2; compare aged Q vs D views.",
-        "nextMilestone": "Mon 2026-09-21 finish last 2 of 30; then EXP-02 closeout with aged view compare",
+        "performance": "30/30 complete: Q21 / D9 / obs0. Engagement events still 0. Block EXP-03 until aged public views compare questions vs ranking/disagreement.",
+        "nextMilestone": "Tue 2026-09-22 pass + pull aged Q vs D view medians for reinforce/weaken/reject",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#experiments",
-        "lastUpdated": "2026-09-18T10:53:00-05:00"
+        "lastUpdated": "2026-09-21T10:58:00-05:00"
       },
       {
         "id": "x-volume-bar",
@@ -718,10 +745,10 @@
         "startDate": "2026-09-11",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium",
-        "performance": "Fri: 10 replies (posts 91). Catch-up already done — no double-volume weekend.",
-        "nextMilestone": "Mon 2026-09-21 under EXP-02 finish",
+        "performance": "Mon: 8 replies (posts 99). Portfolio bar continues; EXP-02 window closed.",
+        "nextMilestone": "Tue 2026-09-22 weekday pass",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-        "lastUpdated": "2026-09-18T10:53:00-05:00"
+        "lastUpdated": "2026-09-21T10:58:00-05:00"
       }
     ],
     "emptyReason": null
@@ -743,8 +770,8 @@
         "testMethod": "Ship 30 replies under mix rules (or 5 weekday passes); compare to prior 30 observational busy-room replies.",
         "metrics": "Median public views; count of likes+replies+follows; follower delta; mix compliance tally each pass.",
         "reviewDate": "2026-09-23",
-        "lastValidated": "2026-09-18",
-        "outcome": "Day ~3: cumulative 28/30 (Q19/D9/obs0). Quota for Q+D met. Engagement events still 0. Mon: finish last 2; then compare aged views question vs disagreement.",
+        "lastValidated": "2026-09-21",
+        "outcome": "Window CLOSED 30/30 (Q21/D9/obs0). Mix rules executed; engagement events still 0 at known checks. Awaiting aged public-view compare (questions vs ranking/disagreement) before reinforce/weaken/reject. Do NOT mark Confirmed yet.",
         "status": "Testing",
         "durablePrimitive": "Rowan weekday X pass routine + Presence Active Venture EXP-02 + desk Learning section"
       },

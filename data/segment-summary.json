@@ -4,24 +4,24 @@
   "description": "Audience and public presence.",
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
   "status": "Operating",
-  "statusDetail": "EXP-02 28/30 (Q19/D9/obs0); posts 91; next Mon Sep 21 finish last 2 then age Q vs D.",
+  "statusDetail": "EXP-02 CLOSED 30/30 (Q21/D9/obs0); awaiting aged Q vs D before EXP-03; next Tue Sep 22.",
   "owner": "Maren (Harbor Presence - CEO)",
-  "lastUpdated": "2026-09-18T10:53:00-05:00",
+  "lastUpdated": "2026-09-21T10:58:00-05:00",
   "headlineMetrics": [
     {
       "label": "X followers",
       "value": "0",
-      "hint": "After Fri pass"
+      "hint": "After Mon pass"
     },
     {
       "label": "X posts",
-      "value": "91",
-      "hint": "81 → 91"
+      "value": "99",
+      "hint": "91 → 99"
     },
     {
-      "label": "EXP-02 progress",
-      "value": "28/30",
-      "hint": "Q19 · D9 · obs0 — quota met"
+      "label": "EXP-02",
+      "value": "30/30 closed",
+      "hint": "Q21 · D9 · obs0 — ages pending for closeout"
     },
     {
       "label": "Public website",
@@ -29,8 +29,8 @@
       "hint": "Gmail temporary"
     }
   ],
-  "currentObjective": "EXP-02 Testing: next 30 replies ≥15 questions/disagreements; ≤10 observational metaphors; ban AI cadences; busy-room gate + ~8–15/day. Link outcomes → next behavior each pass.",
-  "currentStatusBrief": "Fri EXP-02: disagreement share improved (D5). Still zero engagement events. Weekend quiet. Mon finishes the 30-window. Nothing needs Thomas.",
+  "currentObjective": "Keep weekday ~8–15 busy-room replies under portfolio bar. EXP-02 window closed (30/30, obs0). Before EXP-03: pull aged public views comparing ranking/disagreement vs question replies; then reinforce/weaken/reject. No premature Confirmed.",
+  "currentStatusBrief": "EXP-02 mix done — observational zero, still no engagement events. Before any EXP-03: age Q vs D public views. Tue 10:00 CT. Nothing needs Thomas.",
   "latestLesson": {
     "experience": "Near-zero likes/follows persisted after EXP-01 and continued observational busy-room replies.",
     "evidence": "EXP-01 FAIL 1.95×; Mon–Tue tops ~146–173 views with ~0 engagement events; followers 0 public.",
@@ -83,14 +83,14 @@
     {
       "id": "exp-02-voice-shift",
       "title": "EXP-02 — Voice/form shift (questions & disagreement)",
-      "status": "Active — Testing",
-      "nextMilestone": "Mon 2026-09-21 finish last 2 of 30; then EXP-02 closeout with aged view compare"
+      "status": "Active — window closed; awaiting aged Q vs D closeout",
+      "nextMilestone": "Tue 2026-09-22 pass + pull aged Q vs D view medians for reinforce/weaken/reject"
     },
     {
       "id": "x-volume-bar",
       "title": "X volume bar — ~8–15 replies/day with busy-room gate",
       "status": "Active",
-      "nextMilestone": "Mon 2026-09-21 under EXP-02 finish"
+      "nextMilestone": "Tue 2026-09-22 weekday pass"
     }
   ]
 }
