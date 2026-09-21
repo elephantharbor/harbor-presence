@@ -1,35 +1,35 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-21T10:58:00-05:00",
-  "cycle": "Post EXP-02 — awaiting aged Q vs D before EXP-03",
+  "lastUpdated": "2026-09-21T11:12:00-05:00",
+  "cycle": "Post EXP-02 — Testing; 2nd age pass mid/late week before EXP-03",
   "metrics": {
     "xFollowers": "0",
     "xFollowing": "0",
     "originalPostViews": "No Mon original; aged originals still quiet",
-    "replyReach": "EXP-02 window closed; public Q vs D ages pending (scrape unavailable from desk tools)",
+    "replyReach": "EXP-02 aged: Q median 17 (n=19); D/ranking median 13.5 (n=10). Tops: D NFL/Sheeran 1,028; Q Keyonte 622.",
     "publicWebsite": "Live (elevated; Gmail temporary)",
-    "likesRepliesReposts": "0 across EXP-02 window at known checks",
+    "likesRepliesReposts": "Near-zero: Craig Narnia D 1 like; Keyonte Q 1 reply; else ~0",
     "xPosts": "99",
-    "exp02Tally": "30/30 CLOSED: Q21 / D9 / obs0"
+    "exp02Tally": "Pass tags Q21/D9/obs0; scrape retag Q20/D10 (MW4 trailer → D)"
   },
   "needsHumanAttention": [],
-  "currentObjective": "Keep weekday ~8–15 busy-room replies under portfolio bar. EXP-02 window closed (30/30, obs0). Before EXP-03: pull aged public views comparing ranking/disagreement vs question replies; then reinforce/weaken/reject. No premature Confirmed.",
-  "currentStatus": "Mon 2026-09-21: EXP-02 CLOSED at 30/30 (Q21 / D9 / obs0). Pass: 8 replies (Q5/D3); first 2 finished window, remaining 6 post-window volume. Posts 99; followers 0; still zero engagement events. Next Up Tue 2026-09-22. Gate on EXP-03: age Q vs D public views first. Nothing needs Thomas.",
+  "currentObjective": "Keep weekday ~8–15 busy-room replies with Q + ranking/disagreement bias (no observational default). EXP-02 Learning stays Testing. Hold EXP-03 until a second aged-view pass mid/late week; then reinforce/weaken/reject with clearer sample.",
+  "currentStatus": "2026-09-21 ~11:10 CT metrics-only: EXP-02 aged Q vs D logged. Q median 17 (n=19) vs D/ranking median 13.5 (n=10). Engagement still near-zero. Do not treat Q>D as a rule. Confidence on “form alone drives engagement” weakened; ops mix still in force. Next Up unchanged Tue 2026-09-22. Nothing needs Thomas.",
   "content": {
     "inputs": [
+      "2026-09-21 metrics-only: aged EXP-02 public views — Q median 17 (n=19); D median 13.5 (n=10). Lisa DualSense Q excluded (views not shown).",
+      "Retag note: Sep 17 MW4 trailer 2100609255376068635 → D (scrape Q20/D10 vs pass tags Q21/D9).",
+      "Tried→next: hold EXP-03; another age mid/late week; keep ~8–15 busy-room Q+D mix.",
       "2026-09-21: 8 busy-room replies (Q5/D3); EXP-02 closed 30/30; no original; substantial pass so catch-up silent.",
-      "Tried→next: keep ~8–15 busy-room; age Q vs D public views before proposing EXP-03.",
-      "EXP-02 final mix: Q21 / D9 / obs0 — quotas met; engagement events still 0.",
-      "2026-09-18 EXP-02: 10 busy-room replies (Q5/D5); no original; first half Q then ranking/disagreement.",
-      "Tried→next: finish last 2 of 30 Mon; compare aged ranking vs question views; keep 20+ reply gate."
+      "Tried→next: keep ~8–15 busy-room; age Q vs D public views before proposing EXP-03."
     ],
     "outcomes": [
-      "Followers 0; posts 99; following 0.",
-      "EXP-02 window complete: mix compliant, observational 0.",
-      "No likes/replies/follows across known checks.",
-      "Closeout incomplete until aged Q vs D view medians are logged."
+      "Followers 0; posts 99.",
+      "Engagement events across aged sample: 2 total (1 like, 1 reply).",
+      "Q median slightly above D; both low absolute; distribution skewed by busy-room outliers.",
+      "Hypothesis half (engagement events from Q/D mix): not supported yet — weaken confidence; stay Testing."
     ],
-    "note": "EXP-02 quotas met. Learning status remains Testing until aged Q vs D compare (Hayes: no premature Confirmed).",
+    "note": "EXP-02 closeout provisional. Learning Testing — no Confirmed. Ops: keep busy-room + Q/D bias. Second age pass before EXP-03.",
     "originals": [
       {
         "date": "2026-09-15",
@@ -392,28 +392,28 @@
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "EXP-02 closed 30/30 (Q21/D9/obs0). Posts 99; followers 0. Form shift executed; engagement still flat. Next: age Q vs D views before EXP-03.",
+    "summary": "EXP-02 aged: Q med 17 / D med 13.5; engagement ~flat. Confidence weakened; ops mix continues. Posts 99; followers 0.",
     "followers": "0",
     "following": "0",
     "posts": "99",
     "originalViews": "No Mon original",
-    "replyViews": "Mon not aged; EXP-02 Q vs D ages pending",
-    "analyticsNote": "Public counts only. Last refresh 2026-09-21 (Rowan). Automated view scrape unavailable.",
-    "observation": "Mix compliance ≠ engagement. Need aged impression split before next experiment.",
-    "cycleNote": "EXP-02 window closed; Learning still Testing until Q vs D ages."
+    "replyViews": "Aged EXP-02: Q median 17; D median 13.5 (public only)",
+    "analyticsNote": "Public counts only. Age scrape 2026-09-21 ~11:10 CT (Rowan). Lisa DualSense Q excluded (views not shown).",
+    "observation": "Mix compliance ≠ engagement. Slight Q>D median is noise-prone; wait for 2nd age.",
+    "cycleNote": "EXP-02 provisional closeout; Learning Testing; EXP-03 held."
   },
   "experiments": [
     {
       "id": "EXP-02",
       "title": "Voice/form shift — questions & disagreement vs observational one-liners",
-      "status": "Window closed — awaiting aged Q vs D views for closeout",
+      "status": "Closed — provisional (Testing / confidence weakened)",
       "hypothesis": "≥50% questions/disagreements among next 30 replies raises engagement events and/or median views vs prior observational default.",
       "change": "Mix rules + AI-cadence ban; busy-room gate retained; ~8–15/day.",
       "measurement": "Mix tally each pass; median views; likes+replies+follows; follower delta vs prior 30.",
-      "result": "30/30 shipped: Q21 / D9 / obs0. Quotas met. Engagement events still 0. Closeout blocked on aged public-view medians (question vs disagreement/ranking).",
-      "conclusion": null,
-      "decision": "After aged Q vs D: reinforce / weaken / reject. No premature Confirmed.",
-      "decisionDate": "2026-09-23",
+      "result": "30/30 mix: pass tags Q21/D9/obs0; scrape retag Q20/D10 (MW4→D). Aged public views 2026-09-21: Q median 17 (n=19); D/ranking median 13.5 (n=10). Tops: D NFL/Sheeran tour 1,028; Craig Narnia 423 (1 like); Q Keyonte 622 (1 reply); NFL Prime Time 541. Engagement still near-zero overall.",
+      "conclusion": "Mix rules executable; observational zero achieved. Primary engagement-events hypothesis not supported on this sample. Q>D median is slight and not actionable as a confirmed rule.",
+      "decision": "Weaken confidence on form→engagement; keep ops mix (busy-room + Q/D bias). 2nd age pass mid/late week before EXP-03 or reinforce/weaken/reject final.",
+      "decisionDate": "2026-09-21",
       "constraints": "$0 / no Premium; public counts only"
     },
     {
@@ -438,8 +438,8 @@
       "url": "https://x.com/elephantharbor",
       "status": "Operating",
       "role": "Primary audience surface",
-      "cadence": "Weekday ~10:00 CT (+10:45 catch-up): busy rooms → ~8–15 replies under post-EXP-02 portfolio bar (keep Q/disagreement bias until closeout) → originals as range → truth delta with aged views when available. No EXP-03 until Q vs D ages logged.",
-      "notes": "EXP-02 CLOSED 30/30 (Q21/D9/obs0). Next: age Q vs D before EXP-03."
+      "cadence": "Weekday ~10:00 CT (+10:45 catch-up): busy rooms → ~8–15 replies with Q + ranking/disagreement bias (no observational default) → originals as range → truth delta. 2nd EXP-02 age mid/late week before EXP-03.",
+      "notes": "EXP-02 aged Q17 / D13.5; Learning Testing; confidence on form→engagement weakened."
     },
     {
       "id": "public-site",
@@ -457,9 +457,9 @@
       "id": "exp02-voice-not-volume",
       "originationDate": "2026-09-16",
       "experience": "Near-zero likes/follows persisted after EXP-01 and continued observational busy-room replies.",
-      "evidence": "EXP-01 FAIL 1.95×; Mon–Tue tops ~146–173 views with ~0 engagement events; followers 0 public.",
+      "evidence": "EXP-02 aged 2026-09-21: Q median 17 (n=19) vs D 13.5 (n=10); ~2 engagement events; followers 0.",
       "learning": "Impression-winning rooms + unchanged observational voice is insufficient — voice/form must change and be measured.",
-      "change": "EXP-02 mix completed 30/30 (obs0). Pending aged Q vs D view compare before institutionalizing. Continue busy-room ~8–15 meanwhile; do not launch EXP-03 until closeout."
+      "change": "Keep ~8–15 busy-room with Q + ranking/disagreement bias; no observational default. Do not treat Q>D as a rule. Hold EXP-03 until 2nd age mid/late week. Confidence on form→engagement weakened."
     },
     {
       "id": "busy-room-gate-on-volume",
@@ -562,7 +562,7 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-21T10:58:00-05:00",
+    "lastUpdated": "2026-09-21T11:12:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
@@ -581,8 +581,15 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-21T10:58:00-05:00",
+    "lastUpdated": "2026-09-21T11:12:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-21T11:12:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "EXP-02 first age pass logged: Q median 17 (n=19) vs D 13.5 (n=10). Weaken confidence on form→engagement; Learning stays Testing; hold EXP-03 for 2nd age mid/late week. Scrape retag flagged (MW4→D → Q20/D10).",
+        "deskChanges": "EXP-02 result + Learning outcome updated; Next Up unchanged Tue Sep 22; AV performance refreshed.",
+        "lessonId": "exp02-voice-not-volume"
+      },
       {
         "at": "2026-09-21T10:58:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
@@ -718,7 +725,7 @@
   "activeVentures": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-21T10:58:00-05:00",
+    "lastUpdated": "2026-09-21T11:12:00-05:00",
     "items": [
       {
         "id": "exp-02-voice-shift",
@@ -726,14 +733,14 @@
         "segment": "presence",
         "submarket": null,
         "description": "Next 30 published replies: ≥15 questions or explicit disagreements; ≤10 dry observational metaphors; ban AI cadences. Busy-room gate retained. Measure engagement events + median views vs prior observational 30.",
-        "status": "Active — window closed; awaiting aged Q vs D closeout",
+        "status": "Active — provisional closeout; Testing / confidence weakened",
         "startDate": "2026-09-16",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium; ≤5 weekday passes or 30 replies",
-        "performance": "30/30 complete: Q21 / D9 / obs0. Engagement events still 0. Block EXP-03 until aged public views compare questions vs ranking/disagreement.",
-        "nextMilestone": "Tue 2026-09-22 pass + pull aged Q vs D view medians for reinforce/weaken/reject",
+        "performance": "Aged 2026-09-21: Q median 17 (n=19) / D 13.5 (n=10). Pass tags Q21/D9; scrape Q20/D10. Engagement ~2 events. Hold EXP-03 for 2nd age mid/late week.",
+        "nextMilestone": "Tue 2026-09-22 pass; 2nd age pass ~Wed–Fri Sep 24–25 before EXP-03",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#experiments",
-        "lastUpdated": "2026-09-21T10:58:00-05:00"
+        "lastUpdated": "2026-09-21T11:12:00-05:00"
       },
       {
         "id": "x-volume-bar",
@@ -745,10 +752,10 @@
         "startDate": "2026-09-11",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium",
-        "performance": "Mon: 8 replies (posts 99). Portfolio bar continues; EXP-02 window closed.",
+        "performance": "Bar continues post-EXP-02; Q+D bias retained. Posts 99.",
         "nextMilestone": "Tue 2026-09-22 weekday pass",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-        "lastUpdated": "2026-09-21T10:58:00-05:00"
+        "lastUpdated": "2026-09-21T11:12:00-05:00"
       }
     ],
     "emptyReason": null
@@ -760,18 +767,18 @@
         "id": "ls-exp02-voice-shift",
         "observation": "Busy-room observational one-liners earn views at the high end but near-zero likes/replies/follows; EXP-01 median reply-vs-original test FAILED 1.95×; continuing the same voice is documenting failure.",
         "supportingEvidence": "EXP-01 closeout 2026-09-12: reply median 19.5 vs original 10; engagement essentially 0 across sample except rare likes. Mon–Tue Sep 14–15 overnight tops ~146–173 views still 0 likes on most posts. Followers 0 public.",
-        "contradictingEvidence": "High-view busy rooms still outperform quiet originals for impressions — room selection remains useful; voice/form is the suspected bottleneck for engagement events.",
+        "contradictingEvidence": "High-view busy rooms still outperform quiet originals for impressions — room selection remains useful; voice/form is the suspected bottleneck for engagement events. Aged EXP-02: near-zero likes/replies despite mix compliance; Q median only slightly above D.",
         "dateWindow": "2026-09-08 through 2026-09-15",
         "scope": "contextual/temporal — X engagement style for near-zero-follower account",
         "hypothesis": "Shifting ≥50% of the next 30 replies into questions or explicit disagreements (and capping dry observational metaphors) will produce more engagement events and/or higher median views than the prior observational default.",
-        "confidence": "Low–medium; thin engagement sample; high enough to run a cheap test (OS v2).",
+        "confidence": "Low. Mix compliance high; engagement-events half of hypothesis unsupported on this sample (~2 events across 30). Q vs D medians close (17 vs 13.5) — not a confirmed form rule. Contextual/temporal; thin + skewed.",
         "requiredBehavioralChange": "EXP-02 mix rules for next 30 replies; ban listed AI cadences; keep busy-room gate.",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "testMethod": "Ship 30 replies under mix rules (or 5 weekday passes); compare to prior 30 observational busy-room replies.",
-        "metrics": "Median public views; count of likes+replies+follows; follower delta; mix compliance tally each pass.",
-        "reviewDate": "2026-09-23",
+        "metrics": "Mix compliance 30/30 obs0; aged Q median 17 (n=19); D median 13.5 (n=10); engagement events ~2; followers 0.",
+        "reviewDate": "2026-09-25",
         "lastValidated": "2026-09-21",
-        "outcome": "Window CLOSED 30/30 (Q21/D9/obs0). Mix rules executed; engagement events still 0 at known checks. Awaiting aged public-view compare (questions vs ranking/disagreement) before reinforce/weaken/reject. Do NOT mark Confirmed yet.",
+        "outcome": "Window closed + first age pass 2026-09-21. Pass tags Q21/D9/obs0 (scrape retag Q20/D10). Aged medians: Q 17 (n=19) / D 13.5 (n=10). Engagement near-zero. DECISION: weaken confidence that Q/D form alone produces engagement events; MODIFY behavior = keep busy-room + Q/D bias (no observational return) while gathering a 2nd age pass mid/late week. Do NOT Confirmed. Do NOT Reject the ops mix yet. Hold EXP-03.",
         "status": "Testing",
         "durablePrimitive": "Rowan weekday X pass routine + Presence Active Venture EXP-02 + desk Learning section"
       },
