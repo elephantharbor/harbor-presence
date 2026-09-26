@@ -1,36 +1,39 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-09-21T14:06:00-05:00",
-  "cycle": "Human voice rules live Tue — post EXP-02 Testing",
+  "lastUpdated": "2026-09-26T10:30:00-05:00",
+  "cycle": "External Validation — go-hard week live; EXP-02 Testing (2nd age done); hold EXP-03",
   "metrics": {
-    "xFollowers": "0",
+    "xFollowers": "2",
     "xFollowing": "0",
-    "originalPostViews": "No Mon original; aged originals still quiet",
-    "replyReach": "EXP-02 aged: Q median 17 (n=19); D/ranking median 13.5 (n=10). Tops: D NFL/Sheeran 1,028; Q Keyonte 622.",
+    "originalPostViews": "Originals sparse this week (volume = replies); Mon NOW ship not re-aged",
+    "replyReach": "EXP-02 2nd age Q med 18 (n=20) / D med 14.5 (n=10); go-hard week posts not yet aged as a set",
     "publicWebsite": "Live (elevated; Gmail temporary)",
-    "likesRepliesReposts": "Near-zero: Craig Narnia D 1 like; Keyonte Q 1 reply; else ~0",
-    "xPosts": "101",
-    "exp02Tally": "Pass tags Q21/D9/obs0; scrape retag Q20/D10 (MW4 trailer → D)"
+    "likesRepliesReposts": "EXP-02 window still ~2 events; go-hard week engagement not fully aged",
+    "xPosts": "133",
+    "exp02Tally": "CLOSED 30/30; 2nd age 2026-09-23: Q18 / D14.5 — hold EXP-03",
+    "voiceComplianceWeek": "Tue–Fri: binary A-or-B = 0; banned openers = 0 across passes"
   },
   "needsHumanAttention": [],
-  "currentObjective": "Go-hard is core @elephantharbor X persona. Weekday ~8–15 busy-room + voice 5 + ≥1 pro-Falcons/anti-Saints hard hit. Hard, human, one punch — no soft both-sides. 2nd EXP-02 age Wed ~11:15; hold EXP-03.",
-  "currentStatus": "2026-09-21 ~2pm: Falcons/Saints NOW ship live (original + Falcons 3-34 reply). Thomas approved tone — go-hard locked as core persona. Posts 101; followers 0. Next Up Tue 10:00 / 10:45. Nothing needs Thomas.",
+  "currentObjective": "Keep weekday ~8–15 busy-room under go-hard persona + voice 5 + ≥1 Falcons/Saints. EXP-02 Learning stays Testing (2nd age: Q18 vs D14.5; engagement half unsupported). Hold EXP-03. MVO: no new agents/routines without evidence. Desk freshness is a standing operating requirement.",
+  "currentStatus": "CATCH-UP 2026-09-26 (Hayes maturity baseline — desk was stale since Sep 21; fixed same-turn). Weekday passes Tue–Fri shipped under go-hard: posts 101→133; followers 0→2. Voice compliance clean (0 binary Q / 0 banned openers). EXP-02 2nd age logged (Q18/D14.5). Next Up Mon 2026-09-28 10:00 / 10:45 CT. Nothing needs Thomas.",
   "content": {
     "inputs": [
+      "2026-09-26: Hayes maturity — External Validation; desk freshness incident closed (catch-up Tue–Fri + 2nd age).",
+      "Fri 2026-09-25: 8 replies; posts 125→133; followers 2; F/S primary Saints Dome.",
+      "Thu 2026-09-24: 8 replies; posts 117→125; F/S primary Saints Dome / Atlanta free one.",
+      "Wed 2026-09-23: 8 replies; posts 109→117; EXP-02 2nd age Q18/D14.5.",
+      "Tue 2026-09-22: 8 replies; posts 101→109; first full go-hard weekday; F/S Saints at 19.",
       "2026-09-21 Thomas: loves Falcons/Saints tone — make go-hard core to X persona.",
       "NOW ship: original https://x.com/elephantharbor/status/2102110182247432536 ; reply https://x.com/elephantharbor/status/2102110390364619037 (parent Falcons 3-34).",
-      "2026-09-21 Thomas: ≥1 reply/post per weekday pass must be pro-Atlanta Falcons and/or anti-New Orleans Saints — very human, hit hard.",
-      "2026-09-21 Thomas: recent replies feel AI/mechanical; cascade 5 human-voice rules to Rowan starting Tue.",
-      "Rules: max 1 binary A-or-B/pass; ban I don’t buy / I’m ranking / I’m not convinced; name a concrete from parent; one clause; allow mess / kill abstract polish.",
-      "2026-09-21 metrics-only: aged EXP-02 public views — Q median 17 (n=19); D median 13.5 (n=10). Lisa DualSense Q excluded (views not shown)."
+      "2026-09-21 Thomas: ≥1 reply/post per weekday pass must be pro-Atlanta Falcons and/or anti-New Orleans Saints — very human, hit hard."
     ],
     "outcomes": [
-      "Followers 0; posts 99.",
-      "Engagement events across aged sample: 2 total (1 like, 1 reply).",
-      "Q median slightly above D; both low absolute; distribution skewed by busy-room outliers.",
-      "Hypothesis half (engagement events from Q/D mix): not supported yet — weaken confidence; stay Testing."
+      "Followers 2 (up from 0); posts 133; following 0.",
+      "Go-hard + voice 5 held Tue–Fri with clean compliance.",
+      "EXP-02 2nd age: Q median 18 / D 14.5 — slight gap unchanged; not a form rule; engagement still ~2 events.",
+      "Hold EXP-03; keep ops mix + go-hard."
     ],
-    "note": "Go-hard persona locked. Voice 5 + Falcons/Saints ≥1/pass + busy-room bar.",
+    "note": "Desk freshness restored 2026-09-26 after ~5d lag (operating incident). Go-hard persona live; EXP-02 Testing; no Confirmed.",
     "originals": [
       {
         "date": "2026-09-15",
@@ -102,6 +105,69 @@
     ],
     "replyExamples": [
       {
+        "date": "2026-09-25",
+        "text": "three straight in the Dome and New Orleans still hasn't earned a home-field argument.",
+        "parent": "Saints — Dome stretch",
+        "url": "https://x.com/elephantharbor/status/2103506355806142667",
+        "publicViews": "not aged",
+        "exp02Form": "disagreement",
+        "note": "F/S primary Fri; go-hard"
+      },
+      {
+        "date": "2026-09-25",
+        "text": "Penix 18/25 and two guys at 194. Atlanta stopped asking permission.",
+        "parent": "NFL — Penix TNF",
+        "url": "https://x.com/elephantharbor/status/2103506795310580198",
+        "publicViews": "not aged",
+        "exp02Form": "disagreement",
+        "note": "F/S"
+      },
+      {
+        "date": "2026-09-25",
+        "text": "putting Penix next to Shough in that QB graphic is charity. New Orleans isn't in this conversation.",
+        "parent": "theblockspot — Penix vs Shough",
+        "url": "https://x.com/elephantharbor/status/2103507492575531455",
+        "publicViews": "not aged",
+        "exp02Form": "disagreement",
+        "note": "F/S"
+      },
+      {
+        "date": "2026-09-24",
+        "text": "Three games in the Dome and y’all still pretending Atlanta gets a free one.",
+        "parent": "Saints — next 3 in the Dome",
+        "url": "https://x.com/elephantharbor/status/2103146327094006102",
+        "publicViews": "not aged",
+        "exp02Form": "disagreement",
+        "note": "F/S primary Thu"
+      },
+      {
+        "date": "2026-09-23",
+        "text": "(Falcons 0–2 / Lambeau hard take — F/S primary Wed)",
+        "parent": "Falcons 0–2 / Lambeau",
+        "url": "https://x.com/elephantharbor/status/2102785783530668526",
+        "publicViews": "not aged",
+        "exp02Form": "disagreement",
+        "note": "F/S primary Wed"
+      },
+      {
+        "date": "2026-09-22",
+        "text": "Saints at 19 is generous. New Orleans has earned the basement, not a playoff argument.",
+        "parent": "SleeperNFL / espn power rankings",
+        "url": "https://x.com/elephantharbor/status/2102424222568247629",
+        "publicViews": "not aged",
+        "exp02Form": "disagreement",
+        "note": "F/S primary Tue; first go-hard weekday"
+      },
+      {
+        "date": "2026-09-22",
+        "text": "Penix gets Green Bay at 8:15. time for Atlanta to stop asking permission.",
+        "parent": "Penix / Green Bay",
+        "url": "https://x.com/elephantharbor/status/2102422892881313999",
+        "publicViews": "not aged",
+        "exp02Form": "disagreement",
+        "note": "F/S"
+      },
+      {
         "date": "2026-09-21",
         "text": "saints fans talking about “the process” like they didn’t draft a whole new personality after drew left atlanta already cooked that franchise once and y’all still doing victory laps over a .500 ceiling",
         "parent": "original",
@@ -118,78 +184,6 @@
         "publicViews": "not aged yet",
         "exp02Form": "go-hard-reply",
         "note": "Parent https://x.com/AtlantaFalcons/status/2101765069444981085"
-      },
-      {
-        "date": "2026-09-21",
-        "text": "Is the Lisa hardware actually limited, or just the patience of everyone trying to buy one?",
-        "parent": "PlayStation — Lisa DualSense",
-        "url": "https://x.com/elephantharbor/status/2102062626423320968",
-        "publicViews": "not aged yet",
-        "exp02Form": "question",
-        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
-      },
-      {
-        "date": "2026-09-21",
-        "text": "Does Wolverine need another trailer, or are we already sold on the claws and chaos?",
-        "parent": "PlayStation — Wolverine PS5",
-        "url": "https://x.com/elephantharbor/status/2102062788659032203",
-        "publicViews": "not aged yet",
-        "exp02Form": "question",
-        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
-      },
-      {
-        "date": "2026-09-21",
-        "text": "Is the 10am UK preorder window a release time or a stress test?",
-        "parent": "PlayStation UK — Lisa preorder",
-        "url": "https://x.com/elephantharbor/status/2102062939465195574",
-        "publicViews": "not aged yet",
-        "exp02Form": "question",
-        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
-      },
-      {
-        "date": "2026-09-21",
-        "text": "I don’t buy the merch collection either; the controller is doing enough heavy lifting alone.",
-        "parent": "Lisa merch reaction",
-        "url": "https://x.com/elephantharbor/status/2102063080691675398",
-        "publicViews": "not aged yet",
-        "exp02Form": "disagreement",
-        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
-      },
-      {
-        "date": "2026-09-21",
-        "text": "Is the fun in the co-op chaos, or is the loot loop carrying this one?",
-        "parent": "PlayStation — Mycopunk co-op",
-        "url": "https://x.com/elephantharbor/status/2102063241291616295",
-        "publicViews": "not aged yet",
-        "exp02Form": "question",
-        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
-      },
-      {
-        "date": "2026-09-21",
-        "text": "Does this make the Warner Bros merger feel inevitable, or merely louder?",
-        "parent": "DiscussingFilm — Paramount settlement",
-        "url": "https://x.com/elephantharbor/status/2102063482728288465",
-        "publicViews": "not aged yet",
-        "exp02Form": "question",
-        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
-      },
-      {
-        "date": "2026-09-21",
-        "text": "I’m ranking this as a merger speed bump, not a victory lap.",
-        "parent": "Pop Base — Paramount",
-        "url": "https://x.com/elephantharbor/status/2102063630195757227",
-        "publicViews": "not aged yet",
-        "exp02Form": "disagreement",
-        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
-      },
-      {
-        "date": "2026-09-21",
-        "text": "I don’t buy the victory framing; a settlement clears a hurdle, it doesn’t close a merger.",
-        "parent": "Mark Ruffalo — Paramount",
-        "url": "https://x.com/elephantharbor/status/2102063792901202248",
-        "publicViews": "not aged yet",
-        "exp02Form": "disagreement",
-        "note": "EXP-02 close day (first 2 in-window; rest post-window)"
       },
       {
         "date": "2026-09-18",
@@ -411,28 +405,28 @@
     "cadence": "Weekday ~10:00 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) 2–4 selective quality replies; (3) ≤1 original if worth saying; (4) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "Go-hard persona locked after Thomas-approved Falcons/Saints NOW ship. Posts 101; followers 0. Engagement test continues under new voice.",
-    "followers": "0",
+    "summary": "Go-hard week Tue–Fri: posts 101→133; followers 0→2. EXP-02 2nd age: Q18/D14.5; hold EXP-03.",
+    "followers": "2",
     "following": "0",
-    "posts": "101",
-    "originalViews": "No Mon original",
-    "replyViews": "Aged EXP-02: Q median 17; D median 13.5 (public only)",
-    "analyticsNote": "Public counts only. Age scrape 2026-09-21 ~11:10 CT (Rowan). Lisa DualSense Q excluded (views not shown).",
-    "observation": "Mix compliance ≠ engagement. Slight Q>D median is noise-prone; wait for 2nd age.",
-    "cycleNote": "EXP-02 provisional closeout; Learning Testing; EXP-03 held."
+    "posts": "133",
+    "originalViews": "Sparse originals this week",
+    "replyViews": "EXP-02 aged Q18/D14.5; go-hard week ages pending",
+    "analyticsNote": "Public counts. Desk catch-up 2026-09-26 from Rowan Tue–Fri deltas + 2nd age.",
+    "observation": "First follower movement coincided with go-hard week — do not over-claim causation yet.",
+    "cycleNote": "External Validation; desk freshness restored; MVO — no new agents/routines without evidence."
   },
   "experiments": [
     {
       "id": "EXP-02",
       "title": "Voice/form shift — questions & disagreement vs observational one-liners",
-      "status": "Closed — provisional (Testing / confidence weakened)",
+      "status": "Closed — Testing / confidence weakened (2nd age done)",
       "hypothesis": "≥50% questions/disagreements among next 30 replies raises engagement events and/or median views vs prior observational default.",
       "change": "Mix rules + AI-cadence ban; busy-room gate retained; ~8–15/day.",
       "measurement": "Mix tally each pass; median views; likes+replies+follows; follower delta vs prior 30.",
-      "result": "30/30 mix: pass tags Q21/D9/obs0; scrape retag Q20/D10 (MW4→D). Aged public views 2026-09-21: Q median 17 (n=19); D/ranking median 13.5 (n=10). Tops: D NFL/Sheeran tour 1,028; Craig Narnia 423 (1 like); Q Keyonte 622 (1 reply); NFL Prime Time 541. Engagement still near-zero overall.",
-      "conclusion": "Mix rules executable; observational zero achieved. Primary engagement-events hypothesis not supported on this sample. Q>D median is slight and not actionable as a confirmed rule.",
-      "decision": "Weaken confidence on form→engagement; keep ops mix (busy-room + Q/D bias). 2nd age pass mid/late week before EXP-03 or reinforce/weaken/reject final.",
-      "decisionDate": "2026-09-21",
+      "result": "30/30 mix + 2nd age 2026-09-23: Q median 18 (n=20) / D 14.5 (n=10). Engagement ~2 events. Gap vs first age unchanged in substance.",
+      "conclusion": "Form mix executable; Q>D slight and not actionable; engagement hypothesis unsupported on this sample.",
+      "decision": "Hold EXP-03. Keep ops (busy-room + Q/D bias + go-hard). No Confirmed.",
+      "decisionDate": "2026-09-23",
       "constraints": "$0 / no Premium; public counts only"
     },
     {
@@ -457,8 +451,8 @@
       "url": "https://x.com/elephantharbor",
       "status": "Operating",
       "role": "Primary audience surface",
-      "cadence": "Weekday ~10:00 CT (+10:45): busy rooms → ~8–15 go-hard + voice 5 + Q/D bias + ≥1 Falcons/Saints hard hit → originals as range → truth delta. 2nd EXP-02 age Wed ~11:15; hold EXP-03.",
-      "notes": "Go-hard = core persona (Thomas 2026-09-21). Posts 101.",
+      "cadence": "Weekday ~10:00 CT (+10:45 catch-up): busy rooms → ~8–15 go-hard + voice 5 + Q/D bias + ≥1 Falcons/Saints → originals as range → truth delta. EXP-03 held.",
+      "notes": "Posts 133; followers 2. Go-hard week clean. EXP-02 2nd age done — hold EXP-03.",
       "persona": "Go hard: sharp, opinionated, side-taking, human mess OK; never soft both-sides or AI template."
     },
     {
@@ -600,17 +594,17 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-21T14:06:00-05:00",
+    "lastUpdated": "2026-09-26T10:30:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-09-22T10:00:00-05:00",
-        "scheduleLabel": "Weekdays 10:00 AM CT (~8–15; go-hard persona; voice 5; ≥1 Falcons/Saints)",
+        "nextRunAt": "2026-09-28T10:00:00-05:00",
+        "scheduleLabel": "Weekdays 10:00 AM CT (~8–15; go-hard; voice 5; ≥1 Falcons/Saints)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-09-22T10:45:00-05:00",
+        "nextRunAt": "2026-09-28T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }
@@ -619,8 +613,43 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-21T14:06:00-05:00",
+    "lastUpdated": "2026-09-26T10:30:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-26T10:30:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Hayes maturity baseline: External Validation; desk freshness incident — catch-up same-turn. Logged Tue–Fri go-hard passes (posts 101→133; followers 0→2) + EXP-02 2nd age (Q18/D14.5). Hold EXP-03; Next Up Mon Sep 28. MVO: no new agents/routines without evidence.",
+        "deskChanges": "snapshot/metrics/Learning/AV/Next Up/segment-summary + session log backlog.",
+        "lessonId": "go-hard-persona"
+      },
+      {
+        "at": "2026-09-25T10:50:00-05:00",
+        "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+        "summary": "Fri weekday pass: 8 replies; posts 125→133; followers 2; F/S primary Saints Dome; voice clean.",
+        "deskChanges": "Logged in 2026-09-26 catch-up.",
+        "lessonId": null
+      },
+      {
+        "at": "2026-09-24T10:55:00-05:00",
+        "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+        "summary": "Thu weekday pass: 8 replies; posts 117→125; F/S primary Saints Dome; voice clean.",
+        "deskChanges": "Logged in 2026-09-26 catch-up.",
+        "lessonId": null
+      },
+      {
+        "at": "2026-09-23T12:15:00-05:00",
+        "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+        "summary": "EXP-02 2nd age: Q median 18 (n=20) / D 14.5 (n=10). Weaken form→engagement further; hold EXP-03. Also Wed pass: posts 109→117.",
+        "deskChanges": "Logged in 2026-09-26 catch-up.",
+        "lessonId": "exp02-voice-not-volume"
+      },
+      {
+        "at": "2026-09-22T11:05:00-05:00",
+        "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+        "summary": "Tue first full go-hard weekday: 8 replies; posts 101→109; F/S Saints at 19; voice clean.",
+        "deskChanges": "Logged in 2026-09-26 catch-up.",
+        "lessonId": "go-hard-persona"
+      },
       {
         "at": "2026-09-21T14:06:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
@@ -784,7 +813,7 @@
   "activeVentures": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-09-21T14:06:00-05:00",
+    "lastUpdated": "2026-09-26T10:30:00-05:00",
     "items": [
       {
         "id": "human-voice-rules",
@@ -796,10 +825,10 @@
         "startDate": "2026-09-22",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium",
-        "performance": "NOW ship live; Thomas approved tone 2026-09-21. First full pass under persona Tue.",
-        "nextMilestone": "Tue 2026-09-22 full pass under go-hard persona",
+        "performance": "Tue–Fri Sep 22–25: 4 full passes; voice compliance clean; posts →133; followers 0→2. First follower movement under go-hard — age engagement before claiming win.",
+        "nextMilestone": "Mon 2026-09-28 pass; spot-check aged views on go-hard week replies",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-        "lastUpdated": "2026-09-21T14:06:00-05:00"
+        "lastUpdated": "2026-09-26T10:30:00-05:00"
       },
       {
         "id": "exp-02-voice-shift",
@@ -807,14 +836,14 @@
         "segment": "presence",
         "submarket": null,
         "description": "Next 30 published replies: ≥15 questions or explicit disagreements; ≤10 dry observational metaphors; ban AI cadences. Busy-room gate retained. Measure engagement events + median views vs prior observational 30.",
-        "status": "Active — provisional closeout; Testing / confidence weakened",
+        "status": "Closed — Testing (2nd age done; hold EXP-03)",
         "startDate": "2026-09-16",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium; ≤5 weekday passes or 30 replies",
-        "performance": "Aged 2026-09-21: Q median 17 (n=19) / D 13.5 (n=10). Pass tags Q21/D9; scrape Q20/D10. Engagement ~2 events. Hold EXP-03 for 2nd age mid/late week.",
-        "nextMilestone": "Wed 2026-09-24 ~11:15 CT 2nd age pass; human-voice overlay live Tue",
+        "performance": "2nd age Q18 / D14.5; engagement ~2. Confidence weakened; no Confirmed.",
+        "nextMilestone": "Review 2026-10-03; no EXP-03 until clearer success metric",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#experiments",
-        "lastUpdated": "2026-09-21T13:45:00-05:00"
+        "lastUpdated": "2026-09-26T10:30:00-05:00"
       },
       {
         "id": "x-volume-bar",
@@ -826,10 +855,10 @@
         "startDate": "2026-09-11",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium",
-        "performance": "Bar continues post-EXP-02; Q+D bias retained. Posts 99.",
-        "nextMilestone": "Tue 2026-09-22 go-hard pass",
+        "performance": "Tue–Fri: 8 replies/day; posts 101→133 under go-hard.",
+        "nextMilestone": "Mon 2026-09-28 weekday pass",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-        "lastUpdated": "2026-09-21T14:06:00-05:00"
+        "lastUpdated": "2026-09-26T10:30:00-05:00"
       }
     ],
     "emptyReason": null
@@ -850,9 +879,9 @@
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "testMethod": "Ship weekday passes under rules; truth-delta compliance counts; watch likes/replies/follows + follower delta vs prior week.",
         "metrics": "Binary-Q count/pass; banned-opener count; engagement events; follower delta; subjective AI-tell (Thomas spot-check).",
-        "reviewDate": "2026-09-26",
-        "lastValidated": "2026-09-21",
-        "outcome": "2026-09-21 NOW ship approved by Thomas as tone target. Go-hard elevated from Falcons add-on to core X persona. Still Testing on engagement.",
+        "reviewDate": "2026-09-30",
+        "lastValidated": "2026-09-25",
+        "outcome": "Go-hard + voice 5 live Tue–Fri Sep 22–25: clean compliance (0 binary / 0 banned openers); followers 0→2. Engagement events on new posts not fully aged. Still Testing.",
         "status": "Testing",
         "durablePrimitive": "Rowan weekday X pass routine + Presence desk Learning + voice checklist"
       },
@@ -864,14 +893,14 @@
         "dateWindow": "2026-09-08 through 2026-09-15",
         "scope": "contextual/temporal — X engagement style for near-zero-follower account",
         "hypothesis": "Shifting ≥50% of the next 30 replies into questions or explicit disagreements (and capping dry observational metaphors) will produce more engagement events and/or higher median views than the prior observational default.",
-        "confidence": "Low. Mix compliance high; engagement-events half of hypothesis unsupported on this sample (~2 events across 30). Q vs D medians close (17 vs 13.5) — not a confirmed form rule. Contextual/temporal; thin + skewed.",
+        "confidence": "Low. 2nd age confirms slight Q>D (18 vs 14.5) is stable noise, not a rule. Engagement-events half still unsupported (~2 events). Contextual/temporal.",
         "requiredBehavioralChange": "EXP-02 mix rules for next 30 replies; ban listed AI cadences; keep busy-room gate.",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "testMethod": "Ship 30 replies under mix rules (or 5 weekday passes); compare to prior 30 observational busy-room replies.",
-        "metrics": "Mix compliance 30/30 obs0; aged Q median 17 (n=19); D median 13.5 (n=10); engagement events ~2; followers 0.",
-        "reviewDate": "2026-09-25",
-        "lastValidated": "2026-09-21",
-        "outcome": "Window closed + first age pass 2026-09-21. Pass tags Q21/D9/obs0 (scrape retag Q20/D10). Aged medians: Q 17 (n=19) / D 13.5 (n=10). Engagement near-zero. DECISION: weaken confidence that Q/D form alone produces engagement events; MODIFY behavior = keep busy-room + Q/D bias (no observational return) while gathering a 2nd age pass mid/late week. Do NOT Confirmed. Do NOT Reject the ops mix yet. Hold EXP-03.",
+        "metrics": "2nd age Q18/D14.5; engagement ~2; followers now 2 (post go-hard week, not attributed to EXP-02 alone).",
+        "reviewDate": "2026-10-03",
+        "lastValidated": "2026-09-23",
+        "outcome": "2nd age 2026-09-23: Q median 18 (n=20) / D 14.5 (n=10) vs first age 17/13.5. DECISION: weaken further on form→engagement; do NOT Confirmed; hold EXP-03. Ops continue: busy-room + Q/D bias + go-hard/voice-5/Falcons-Saints (separate Testing track).",
         "status": "Testing",
         "durablePrimitive": "Rowan weekday X pass routine + Presence Active Venture EXP-02 + desk Learning section"
       },
