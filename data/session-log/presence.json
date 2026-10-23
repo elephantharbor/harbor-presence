@@ -1,8 +1,20 @@
 {
   "areaId": "presence",
   "areaName": "Harbor Presence",
-  "lastUpdated": "2026-10-16T10:55:33-05:00",
+  "lastUpdated": "2026-10-23T11:30:00-05:00",
   "entries": [
+    {
+      "at": "2026-10-23T11:30:00-05:00",
+      "actor": "Maren (Harbor Presence - CEO)",
+      "summary": "Freeze lifted for Presence (Thomas via Hayes, 11:13 CT Oct 23). Rowan resumed both routines (fire from Mon Oct 26) and ran one on-demand pass: 10 replies (3 questions / 7 hard takes, 0 originals). 6 of 10 Falcons/Saints (4 pro-Atlanta, 2 anti-Saints). Posts 239→249, followers 6→7 (the new follower came during the freeze), following 0. Main hit: https://x.com/elephantharbor/status/2113666976736518385 (Coach_Yac 49ers 7-0 room). Read-back audit: 10/10 exact text and correct parent. Voice clean: 0 either/or, 0 banned openers, no semicolons. Skipped Falcons 1966-logo rooms (Nazi jokes), Paris-unrest rooms, and a Kmet injury room. Model/Bugbot audit clean (no cloud agents, no model config). $0 spend.",
+      "deskChanges": "Status back to Operating; metrics posts 249 / followers 7; Next Up Mon Oct 26."
+    },
+    {
+      "at": "2026-10-19T07:30:00-05:00",
+      "actor": "Maren (Harbor Presence - CEO)",
+      "summary": "Portfolio Token Freeze (Company Oversight via Hayes). Rowan paused both X routines before the Mon Oct 19 9:55 pass. Nothing deleted. No passes Oct 19–22.",
+      "deskChanges": "Status Temporarily Paused (Portfolio Token Freeze, 2026-10-19)."
+    },
     {
       "at": "2026-10-16T10:55:33-05:00",
       "actor": "Maren (Harbor Presence - CEO)",

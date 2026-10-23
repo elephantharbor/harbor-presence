@@ -4,19 +4,19 @@
   "description": "Audience and public presence.",
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
   "status": "Operating",
-  "statusDetail": "Resumed 2026-10-23 after Portfolio Token Freeze (Oct 19–23); posts 239; followers 6; go-hard live; EXP-03 held; pass today.",
+  "statusDetail": "Resumed 2026-10-23 after Portfolio Token Freeze (Oct 19–22); posts 249; followers 7; go-hard live; EXP-03 held; next Mon Oct 26.",
   "owner": "Maren (Harbor Presence - CEO)",
-  "lastUpdated": "2026-10-23T11:20:00-05:00",
+  "lastUpdated": "2026-10-23T11:30:00-05:00",
   "headlineMetrics": [
     {
       "label": "X followers",
-      "value": "6",
-      "hint": "0 on Sep 21 → 6 on Oct 16 (observation, not proof)"
+      "value": "7",
+      "hint": "0 on Sep 21 → 7 on Oct 23 (observation, not proof)"
     },
     {
       "label": "X posts",
-      "value": "239",
-      "hint": "133 → 239 Sep 26–Oct 16"
+      "value": "249",
+      "hint": "133 → 249 Sep 26–Oct 23"
     },
     {
       "label": "Persona",
@@ -30,7 +30,7 @@
     }
   ],
   "currentObjective": "Run the weekday X pass (~8–15 replies in busy rooms) in the go-hard persona with the five voice rules and at least one Falcons/Saints hit. End every pass with a read-back audit. Keep the desk current the same day. Learning stays Testing; EXP-03 stays held. MVO: no new agents/routines without evidence.",
-  "currentStatusBrief": "External Validation. Desk lag Sep 26–Oct 16 (operating incident) closed 2026-10-16. Paused Sep 28–Oct 2; passes since Oct 3: posts →239, followers 6. Known ops item: 9:55 primary failed Oct 7–8, root cause unknown. EXP-03 held. Nothing needs Thomas.",
+  "currentStatusBrief": "External Validation. Freeze Oct 19–22; resumed Oct 23 with a 10-reply pass (read-back 10/10). Posts 249, followers 7. EXP-03 held. Nothing needs Thomas.",
   "latestLesson": {
     "id": "post-pass-readback-audit",
     "title": "Read back every post after a pass",
@@ -62,17 +62,17 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-10-16T10:55:33-05:00",
+    "lastUpdated": "2026-10-23T11:30:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-10-19T09:55:00-05:00",
+        "nextRunAt": "2026-10-26T09:55:00-05:00",
         "scheduleLabel": "Weekdays 9:55 AM CT (~8–15 replies; go-hard; voice 5; ≥1 Falcons/Saints; read-back audit)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-10-19T10:45:00-05:00",
+        "nextRunAt": "2026-10-26T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }

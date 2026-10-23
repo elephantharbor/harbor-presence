@@ -1,21 +1,21 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-10-16T10:55:33-05:00",
+  "lastUpdated": "2026-10-23T11:30:00-05:00",
   "cycle": "External Validation — go-hard persona live; Learning Testing; EXP-03 held",
   "metrics": {
-    "xFollowers": "6",
+    "xFollowers": "7",
     "xFollowing": "0",
     "originalPostViews": "One original since Sep 26 (Sat Oct 3 Falcons–Saints Monday preview); not aged on the desk",
     "replyReach": "October replies not aged as a set. Oct 6 audit snapshot: 3–48 views per reply at audit time. Last aged comparison is still EXP-02 2nd age (question median 18 / disagreement 14.5).",
     "publicWebsite": "Live (elevated; Gmail temporary)",
     "likesRepliesReposts": "Not counted in October pass records — unknown",
-    "xPosts": "239",
+    "xPosts": "249",
     "exp02Tally": "CLOSED 30/30; 2nd age 2026-09-23: Q18 / D14.5 — EXP-03 held by Maren's decision",
     "voiceComplianceWeek": "Every pass Oct 3–16: 0 either/or (binary) questions, 0 banned openers"
   },
   "needsHumanAttention": [],
   "currentObjective": "Run the weekday X pass (~8–15 replies in busy rooms) in the go-hard persona with the five voice rules and at least one Falcons/Saints hit. End every pass with a read-back audit. Keep the desk current the same day. Learning stays Testing; EXP-03 stays held. MVO: no new agents/routines without evidence.",
-  "currentStatus": "CATCH-UP 2026-10-16. The desk had been stale since Sep 26 while passes kept running. That lag is a Presence operating incident, closed by this update. Paused Sep 28–Oct 2 (portfolio token conservation); resumed Sat Oct 3. Passes Oct 3, 5, 6, 8, 12–16. Missed: Oct 7 and Oct 9 (no posts); the Oct 8 primary also failed but the catch-up covered it. Now: 239 posts, 6 followers, 0 following. Voice clean every pass. Known ops item: the weekday 9:55 CT primary failed Oct 7–8 and the root cause wasn't found. Next Up: Mon 2026-10-19, 9:55 / 10:45 CT. $0 spend. Nothing needs Thomas.",
+  "currentStatus": "RESUMED 2026-10-23 after the Portfolio Token Freeze (Oct 19–23, no passes). Fri Oct 23 on-demand pass: 10 replies, 6 Falcons/Saints, read-back 10/10. Now 249 posts, 7 followers, 0 following. Voice clean. Earlier desk lag Sep 26–Oct 16 closed. Known ops item: 9:55 primary failed Oct 7–8; catch-up now treats stale in-progress notes and missing records as failures. Next Up: Mon 2026-10-26, 9:55 / 10:45 CT. $0 spend. Nothing needs Thomas.",
   "content": {
     "inputs": [
       "2026-10-16: desk catch-up. Desk lag Sep 26–Oct 16 logged as an operating incident and closed.",
@@ -499,10 +499,10 @@
     "cadence": "Weekday ~9:55 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) ~8–15 go-hard replies in busy rooms, at least one Falcons/Saints; (3) ≤1 original if worth saying; (4) read-back audit of every post; (5) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "Sep 26–Oct 16: posts 133→239; followers 2→6 (0 on Sep 21). Paused Sep 28–Oct 2. EXP-03 held.",
-    "followers": "6",
+    "summary": "Sep 26–Oct 23: posts 133→249; followers 2→7 (0 on Sep 21). Paused Sep 28–Oct 2 and Oct 19–22. EXP-03 held.",
+    "followers": "7",
     "following": "0",
-    "posts": "239",
+    "posts": "249",
     "originalViews": "One original since Sep 26 (Oct 3); not aged",
     "replyViews": "October replies not aged as a set; last aged comparison EXP-02 Q18/D14.5",
     "analyticsNote": "Public counts from Rowan's pass records (start/end profile counts each pass). Desk catch-up 2026-10-16.",
@@ -697,17 +697,17 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-10-16T10:55:33-05:00",
+    "lastUpdated": "2026-10-23T11:30:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-10-19T09:55:00-05:00",
+        "nextRunAt": "2026-10-26T09:55:00-05:00",
         "scheduleLabel": "Weekdays 9:55 AM CT (~8–15 replies; go-hard; voice 5; ≥1 Falcons/Saints; read-back audit)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-10-19T10:45:00-05:00",
+        "nextRunAt": "2026-10-26T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }
@@ -716,8 +716,20 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-10-16T10:55:33-05:00",
+    "lastUpdated": "2026-10-23T11:30:00-05:00",
     "entries": [
+      {
+        "at": "2026-10-23T11:30:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Freeze lifted for Presence (Thomas via Hayes, 11:13 CT Oct 23). Rowan resumed both routines (fire from Mon Oct 26) and ran one on-demand pass: 10 replies (3 questions / 7 hard takes, 0 originals). 6 of 10 Falcons/Saints (4 pro-Atlanta, 2 anti-Saints). Posts 239→249, followers 6→7 (the new follower came during the freeze), following 0. Main hit: https://x.com/elephantharbor/status/2113666976736518385 (Coach_Yac 49ers 7-0 room). Read-back audit: 10/10 exact text and correct parent. Voice clean: 0 either/or, 0 banned openers, no semicolons. Skipped Falcons 1966-logo rooms (Nazi jokes), Paris-unrest rooms, and a Kmet injury room. Model/Bugbot audit clean (no cloud agents, no model config). $0 spend.",
+        "deskChanges": "Status back to Operating; metrics posts 249 / followers 7; Next Up Mon Oct 26."
+      },
+      {
+        "at": "2026-10-19T07:30:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Portfolio Token Freeze (Company Oversight via Hayes). Rowan paused both X routines before the Mon Oct 19 9:55 pass. Nothing deleted. No passes Oct 19–22.",
+        "deskChanges": "Status Temporarily Paused (Portfolio Token Freeze, 2026-10-19)."
+      },
       {
         "at": "2026-10-16T10:55:33-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
