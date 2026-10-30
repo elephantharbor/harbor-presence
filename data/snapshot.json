@@ -1,23 +1,29 @@
 {
   "mission": "Build Elephant Harbor's audience, reputation, reach, and public communication through deliberate experimentation and learning.",
-  "lastUpdated": "2026-10-23T11:30:00-05:00",
+  "lastUpdated": "2026-10-30T11:25:00-05:00",
   "cycle": "External Validation — go-hard persona live; Learning Testing; EXP-03 held",
   "metrics": {
-    "xFollowers": "7",
+    "xFollowers": "6",
     "xFollowing": "0",
     "originalPostViews": "One original since Sep 26 (Sat Oct 3 Falcons–Saints Monday preview); not aged on the desk",
     "replyReach": "October replies not aged as a set. Oct 6 audit snapshot: 3–48 views per reply at audit time. Last aged comparison is still EXP-02 2nd age (question median 18 / disagreement 14.5).",
     "publicWebsite": "Live (elevated; Gmail temporary)",
     "likesRepliesReposts": "Not counted in October pass records — unknown",
-    "xPosts": "249",
+    "xPosts": "288",
     "exp02Tally": "CLOSED 30/30; 2nd age 2026-09-23: Q18 / D14.5 — EXP-03 held by Maren's decision",
-    "voiceComplianceWeek": "Every pass Oct 3–16: 0 either/or (binary) questions, 0 banned openers"
+    "voiceComplianceWeek": "Every pass Oct 3–28: 0 either/or (binary) questions, 0 banned openers"
   },
   "needsHumanAttention": [],
   "currentObjective": "Run the weekday X pass (~8–15 replies in busy rooms) in the go-hard persona with the five voice rules and at least one Falcons/Saints hit. End every pass with a read-back audit. Keep the desk current the same day. Learning stays Testing; EXP-03 stays held. MVO: no new agents/routines without evidence.",
-  "currentStatus": "RESUMED 2026-10-23 after the Portfolio Token Freeze (Oct 19–23, no passes). Fri Oct 23 on-demand pass: 10 replies, 6 Falcons/Saints, read-back 10/10. Now 249 posts, 7 followers, 0 following. Voice clean. Earlier desk lag Sep 26–Oct 16 closed. Known ops item: 9:55 primary failed Oct 7–8; catch-up now treats stale in-progress notes and missing records as failures. Next Up: Mon 2026-10-26, 9:55 / 10:45 CT. $0 spend. Nothing needs Thomas.",
+  "currentStatus": "RESUMED 2026-10-30 11:15 AM CT after a token freeze (Thomas via Hayes, Thu Oct 29 9:18 AM CT). No pass ran Thu Oct 29 or Fri Oct 30. Passes before the freeze: Mon Oct 26, 14 replies (9 Falcons/Saints); Tue Oct 27, 13 (6); Wed Oct 28, 12 (6). Read-back was exact every day. Now 288 posts, 6 followers, 0 following. Followers fell from 7 to 5 before the Oct 26 pass and were 6 by Oct 28. We're watching that, not acting on it. Voice clean. Both routines are back on, unchanged. Next Up: Mon 2026-11-02, 9:55 / 10:45 CT. $0 spend. EXP-03 held. Nothing needs Thomas.",
   "content": {
     "inputs": [
+      "2026-10-30: freeze lifted 11:15 AM CT; both routines back on, unchanged; desk caught up. No pass Thu Oct 29 or Fri Oct 30.",
+      "Thu 2026-10-29: token freeze (Thomas via Hayes, 9:18 AM CT); routines paused 9:19; no pass.",
+      "Wed 2026-10-28: 12 replies (4 questions/8 disagreements); 6/12 Falcons/Saints; posts 276→288; followers 6.",
+      "Tue 2026-10-27: 13 replies (4/9); 6/13 Falcons/Saints; posts 263→276; followers 5.",
+      "Mon 2026-10-26: 14 replies (4/10); 9/14 Falcons/Saints; posts 249→263; followers 5 (down from 7 before the pass).",
+      "Fri 2026-10-23: resume pass after Oct 19–22 freeze; 10 replies (3/7); 6/10 Falcons/Saints; posts 239→249; followers 7.",
       "2026-10-16: desk catch-up. Desk lag Sep 26–Oct 16 logged as an operating incident and closed.",
       "Fri 2026-10-16: 13 replies (3 questions/10 disagreements); 10/13 Falcons/Saints; posts 226→239; followers 6.",
       "Thu 2026-10-15: 12 replies (3/9); 7/12 Falcons/Saints; posts 214→226; followers 5.",
@@ -499,14 +505,14 @@
     "cadence": "Weekday ~9:55 CT (+10:45 missed-pass catch-up): (1) review & learn, including others’ high-engagement replies in target rooms; (2) ~8–15 go-hard replies in busy rooms, at least one Falcons/Saints; (3) ≤1 original if worth saying; (4) read-back audit of every post; (5) same-day truth delta to Presence CEO. Weekends quiet unless Thomas asks."
   },
   "growth": {
-    "summary": "Sep 26–Oct 23: posts 133→249; followers 2→7 (0 on Sep 21). Paused Sep 28–Oct 2 and Oct 19–22. EXP-03 held.",
-    "followers": "7",
+    "summary": "Sep 26–Oct 28: posts 133→288; followers 2→7 (Oct 23) → 5 (Oct 26) → 6 (Oct 28); 0 on Sep 21. Paused Sep 28–Oct 2, Oct 19–22 and Oct 29–30. EXP-03 held.",
+    "followers": "6",
     "following": "0",
-    "posts": "249",
+    "posts": "288",
     "originalViews": "One original since Sep 26 (Oct 3); not aged",
     "replyViews": "October replies not aged as a set; last aged comparison EXP-02 Q18/D14.5",
-    "analyticsNote": "Public counts from Rowan's pass records (start/end profile counts each pass). Desk catch-up 2026-10-16.",
-    "observation": "Followers went 0→6 over the go-hard / Falcons-Saints period (Sep 21–Oct 16). Observation only, with no proof of cause; Learning stays Testing.",
+    "analyticsNote": "Public counts from Rowan's pass records (start/end profile counts each pass). Desk catch-up 2026-10-30.",
+    "observation": "Followers went 0→7 over the go-hard / Falcons-Saints period (Sep 21–Oct 23). Then two unfollows (7→5) came before the Oct 26 pass, and it was back to 6 by Oct 28. Counts this small move on one or two people. We're watching, not acting. Observation only, with no proof of cause. Learning stays Testing.",
     "cycleNote": "External Validation; desk lag Sep 26–Oct 16 closed 2026-10-16; MVO — no new agents/routines without evidence."
   },
   "experiments": [
@@ -658,7 +664,7 @@
     {
       "id": "routine-miss-reliability",
       "experience": "Weekday routine missed at least one fire (2026-09-04).",
-      "evidence": "lastRunAt stayed 2026-09-03; Thomas noticed; manual pass ran. Recurred 2026-10-07 and 2026-10-08: the weekday 9:55 CT primary failed both days, and the root cause wasn't found. Oct 7 had no posts (a stale 'in progress' note also kept the catch-up from starting). The Oct 8 catch-up ran at 12:13 CT and covered the day. Oct 9 has no pass record (nothing posted).",
+      "evidence": "lastRunAt stayed 2026-09-03; Thomas noticed; manual pass ran. Recurred 2026-10-07 and 2026-10-08: the weekday 9:55 CT primary failed both days, and the root cause wasn't found. Oct 7 had no posts (a stale 'in progress' note also kept the catch-up from starting). The Oct 8 catch-up ran at 12:13 CT and covered the day. Oct 9 has no pass record (nothing posted). Oct 26–28: the 9:55 primary fired on time each day (baselines read ~9:58 CT).",
       "learning": "Scheduled wake is not fully trusted yet.",
       "change": "Watch routine reliability; manual catch-up when missed; escalate if systemic. Known ops item (open): 9:55 primary failures Oct 7–8, root cause unknown. Watch Mon Oct 19 onward; if it fails again, escalate as systemic.",
       "originationDate": "2026-09-04",
@@ -697,17 +703,17 @@
   "nextUp": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-10-23T11:30:00-05:00",
+    "lastUpdated": "2026-10-30T11:25:00-05:00",
     "items": [
       {
         "title": "Weekday X pass",
-        "nextRunAt": "2026-10-26T09:55:00-05:00",
+        "nextRunAt": "2026-11-02T09:55:00-05:00",
         "scheduleLabel": "Weekdays 9:55 AM CT (~8–15 replies; go-hard; voice 5; ≥1 Falcons/Saints; read-back audit)",
         "owner": "Rowan (Harbor Presence - Lead)"
       },
       {
         "title": "X missed-pass catch-up",
-        "nextRunAt": "2026-10-26T10:45:00-05:00",
+        "nextRunAt": "2026-11-02T10:45:00-05:00",
         "scheduleLabel": "Weekdays 10:45 AM CT (only if morning pass missed)",
         "owner": "Rowan (Harbor Presence - Lead)"
       }
@@ -716,8 +722,43 @@
   "sessionLog": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-10-23T11:30:00-05:00",
+    "lastUpdated": "2026-10-30T11:25:00-05:00",
     "entries": [
+      {
+        "at": "2026-10-30T11:25:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Freeze lifted for Presence (Thomas via Hayes, Fri Oct 30 11:15 AM CT). Rowan turned both X routines back on, unchanged: the weekday pass (9:55 CT) and the missed-pass catch-up (10:45 CT). No pass ran today because both of today's slots had already gone by. First run back: Mon Nov 2, 9:55 AM CT (catch-up 10:45). This update also catches the desk up on the Oct 26–28 passes, which were held back during the freeze. Now: 288 posts, 6 followers, 0 following. Followers have moved between 5 and 7 since Oct 23. We're watching that, not acting on it. $0 spend. EXP-03 still held. The go-hard voice learning stays Testing. Nothing needs Thomas.",
+        "deskChanges": "Status Operating; metrics posts 288 / followers 6; Oct 26–28 passes and the Oct 29 freeze logged; Active Ventures and Learning refreshed; Next Up Mon Nov 2.",
+        "lessonId": null
+      },
+      {
+        "at": "2026-10-29T09:19:00-05:00",
+        "actor": "Maren (Harbor Presence - CEO)",
+        "summary": "Token freeze for Presence (Thomas via Hayes, Thu Oct 29 9:18 AM CT). Rowan paused both X routines at 9:19 (paused, not deleted). No Thu Oct 29 pass. Desk updates for Oct 26–28 were held until the restart.",
+        "deskChanges": "None during the freeze (desk updates deferred until restart).",
+        "lessonId": null
+      },
+      {
+        "at": "2026-10-28T10:06:00-05:00",
+        "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+        "summary": "Wed weekday pass: 12 replies (4 questions / 8 hard takes, 0 originals). 13 were drafted. Draft #4 (a ~27-hour-old Saints trade room) was not posted, and the record doesn't say why. 6 of 12 were Falcons/Saints (3 pro-Atlanta, 3 anti-Saints). Posts 276→288, followers 6 (up from 5 overnight, before the pass), following 0. Main Falcons/Saints post: Steelers figured out Kellen Moore relaying Shough's checks (https://x.com/elephantharbor/status/2115459170501882255). Read-back audit: 12/12 exact text and correct parent. Voice clean: 0 either/or, 0 banned openers, no semicolons. Skipped Justin Tucker rooms (signing after a misconduct suspension) and insult-bait rooms.",
+        "deskChanges": "Logged in 2026-10-30 desk catch-up.",
+        "lessonId": null
+      },
+      {
+        "at": "2026-10-27T10:05:00-05:00",
+        "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+        "summary": "Tue weekday pass: 13 replies (4 questions / 9 hard takes, 0 originals). 6 of 13 were Falcons/Saints (4 pro-Atlanta, 2 anti-Saints). Posts 263→276, followers 5, following 0. Main Falcons/Saints post: Mayfield's 11-pass return, with Atlanta at Tampa next (https://x.com/elephantharbor/status/2115096711211204938). Read-back audit: 13/13 exact text and correct parent. Voice clean: 0 either/or, 0 banned openers, no semicolons.",
+        "deskChanges": "Logged in 2026-10-30 desk catch-up.",
+        "lessonId": null
+      },
+      {
+        "at": "2026-10-26T10:05:00-05:00",
+        "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+        "summary": "Mon weekday pass after Falcons 29, 49ers 20 and Steelers 16, Saints 10: 14 replies (4 questions / 10 hard takes, 0 originals). 9 of 14 were Falcons/Saints (6 pro-Atlanta, 3 anti-Saints). Posts 249→263. Followers 5, down from 7 on Oct 23. The two unfollows came before the pass started. Following 0. Main Falcons/Saints post: Coach_Yac's 49ers 'how we feeling after the loss' room (https://x.com/elephantharbor/status/2114734647871488048). Read-back audit: 14/14 exact text and correct parent. Voice clean: 0 either/or, 0 banned openers, no semicolons. Skipped the Kendal Daniels medical angle, Falcons 1966-logo rooms and politics rooms.",
+        "deskChanges": "Logged in 2026-10-30 desk catch-up.",
+        "lessonId": null
+      },
       {
         "at": "2026-10-23T11:30:00-05:00",
         "actor": "Maren (Harbor Presence - CEO)",
@@ -1019,7 +1060,7 @@
   "activeVentures": {
     "areaId": "presence",
     "areaName": "Harbor Presence",
-    "lastUpdated": "2026-10-16T10:55:33-05:00",
+    "lastUpdated": "2026-10-30T11:25:00-05:00",
     "items": [
       {
         "id": "human-voice-rules",
@@ -1031,10 +1072,10 @@
         "startDate": "2026-09-22",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium",
-        "performance": "Sep 22–Oct 16 (paused Sep 28–Oct 2): 13 passes, voice clean every pass (0 either/or questions, 0 banned openers). Posts 101→239. Followers 0→6. Observation only: followers rose during the go-hard period, but there's no proof go-hard caused it. Stays Testing.",
-        "nextMilestone": "Mon 2026-10-19 9:55 CT pass; age a sample of October replies before claiming any win",
+        "performance": "Sep 22–Oct 28 (paused Sep 28–Oct 2, Oct 19–22 and Oct 29–30): 17 passes, voice clean every pass (0 either/or questions, 0 banned openers). Posts 101→288. Followers 0 (Sep 21) → 7 (Oct 23) → 5 (Oct 26, two unfollows) → 6 (Oct 28). Observation only: there's no proof go-hard caused the rise, and the dip shows how noisy counts this small are. Stays Testing.",
+        "nextMilestone": "Mon 2026-11-02 9:55 CT pass; age a sample of October replies before claiming any win",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-        "lastUpdated": "2026-10-16T10:55:33-05:00"
+        "lastUpdated": "2026-10-30T11:25:00-05:00"
       },
       {
         "id": "exp-02-voice-shift",
@@ -1049,7 +1090,7 @@
         "performance": "2nd age (2026-09-23): question median 18 views / disagreement 14.5; engagement ~2 events. Confidence weakened; no Confirmed.",
         "nextMilestone": "EXP-03 held by Maren's decision until there's a clearer success metric; no review date set",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#experiments",
-        "lastUpdated": "2026-10-16T10:55:33-05:00"
+        "lastUpdated": "2026-10-30T11:25:00-05:00"
       },
       {
         "id": "x-volume-bar",
@@ -1061,22 +1102,22 @@
         "startDate": "2026-09-11",
         "owner": "Rowan (Harbor Presence - Lead); Maren (Harbor Presence - CEO)",
         "exposure": "$0 / no Premium",
-        "performance": "October passes: 11–13 replies a day (Oct 3 Saturday catch-up: 5 replies + 1 original). Posts 133→239. Missed days: Oct 7, Oct 9.",
-        "nextMilestone": "Mon 2026-10-19 9:55 CT weekday pass",
+        "performance": "October weekday passes: 10–14 replies a day (Oct 3 Saturday catch-up: 5 replies + 1 original). Posts 133→288. Missed days: Oct 7, Oct 9. Paused Oct 19–22 and Oct 29–30 (token freezes).",
+        "nextMilestone": "Mon 2026-11-02 9:55 CT weekday pass",
         "detailLink": "https://elephantharbor.github.io/harbor-presence/#overview",
-        "lastUpdated": "2026-10-16T10:55:33-05:00"
+        "lastUpdated": "2026-10-30T11:25:00-05:00"
       }
     ],
     "emptyReason": null
   },
   "learning": {
-    "lastUpdated": "2026-10-16T10:55:33-05:00",
+    "lastUpdated": "2026-10-30T11:25:00-05:00",
     "records": [
       {
         "id": "ls-human-voice-shape",
         "observation": "EXP-02 mix compliance was high but replies still read as AI templates (binary A-or-B questions; stock I don’t buy / I’m ranking openers; semicolon essays; abstract polish).",
-        "supportingEvidence": "Thomas review 2026-09-21 of recent ~30 replies; near-zero engagement after ~99 posts; aged EXP-02 Q med 17 / D med 13.5 with ~2 engagement events. Oct 3–16: 9 more passes, every one clean (0 either/or questions, 0 banned openers); followers 2→6.",
-        "contradictingEvidence": "Busy-room selection still drives impression outliers; room gate retained.",
+        "supportingEvidence": "Thomas review 2026-09-21 of recent ~30 replies; near-zero engagement after ~99 posts; aged EXP-02 Q med 17 / D med 13.5 with ~2 engagement events. Oct 3–16: 9 more passes, every one clean (0 either/or questions, 0 banned openers); followers 2→6. Oct 23–28: 4 more passes, all clean.",
+        "contradictingEvidence": "Busy-room selection still drives impression outliers; room gate retained. Followers dipped 7→5 between Oct 23 and Oct 26 (two unfollows before the pass) and were 6 on Oct 28. That's noise-level movement, and it weakens any follower-based read.",
         "dateWindow": "2026-09-16 through 2026-09-21",
         "scope": "contextual/temporal — X reply voice/structure for near-zero-follower account",
         "hypothesis": "Breaking template cadence (binary Q / stock D openers / abstract polish) and requiring parent-concrete + messier one-clause replies will reduce AI-tell and may improve engagement events vs templated EXP-02 voice.",
@@ -1086,7 +1127,7 @@
         "testMethod": "Ship weekday passes under rules; truth-delta compliance counts; watch likes/replies/follows + follower delta vs prior week.",
         "metrics": "Binary-Q count/pass; banned-opener count; engagement events; follower delta; subjective AI-tell (Thomas spot-check).",
         "reviewDate": "2026-10-23",
-        "lastValidated": "2026-10-16",
+        "lastValidated": "2026-10-30",
         "outcome": "Go-hard + voice 5 ran Sep 22–25 and Oct 3–16 (paused Sep 28–Oct 2) with clean compliance every pass. Observation (2026-10-16): followers went 0→6 over the go-hard / Falcons-Saints period (Sep 21–Oct 16). Logged as an observation only. There's no causal proof (no control, small numbers, engagement not aged), so it stays Testing. Not Confirmed.",
         "status": "Testing",
         "durablePrimitive": "Rowan weekday X pass routine + Presence desk Learning + voice checklist"

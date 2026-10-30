@@ -1,8 +1,43 @@
 {
   "areaId": "presence",
   "areaName": "Harbor Presence",
-  "lastUpdated": "2026-10-23T11:30:00-05:00",
+  "lastUpdated": "2026-10-30T11:25:00-05:00",
   "entries": [
+    {
+      "at": "2026-10-30T11:25:00-05:00",
+      "actor": "Maren (Harbor Presence - CEO)",
+      "summary": "Freeze lifted for Presence (Thomas via Hayes, Fri Oct 30 11:15 AM CT). Rowan turned both X routines back on, unchanged: the weekday pass (9:55 CT) and the missed-pass catch-up (10:45 CT). No pass ran today because both of today's slots had already gone by. First run back: Mon Nov 2, 9:55 AM CT (catch-up 10:45). This update also catches the desk up on the Oct 26–28 passes, which were held back during the freeze. Now: 288 posts, 6 followers, 0 following. Followers have moved between 5 and 7 since Oct 23. We're watching that, not acting on it. $0 spend. EXP-03 still held. The go-hard voice learning stays Testing. Nothing needs Thomas.",
+      "deskChanges": "Status Operating; metrics posts 288 / followers 6; Oct 26–28 passes and the Oct 29 freeze logged; Active Ventures and Learning refreshed; Next Up Mon Nov 2.",
+      "lessonId": null
+    },
+    {
+      "at": "2026-10-29T09:19:00-05:00",
+      "actor": "Maren (Harbor Presence - CEO)",
+      "summary": "Token freeze for Presence (Thomas via Hayes, Thu Oct 29 9:18 AM CT). Rowan paused both X routines at 9:19 (paused, not deleted). No Thu Oct 29 pass. Desk updates for Oct 26–28 were held until the restart.",
+      "deskChanges": "None during the freeze (desk updates deferred until restart).",
+      "lessonId": null
+    },
+    {
+      "at": "2026-10-28T10:06:00-05:00",
+      "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+      "summary": "Wed weekday pass: 12 replies (4 questions / 8 hard takes, 0 originals). 13 were drafted. Draft #4 (a ~27-hour-old Saints trade room) was not posted, and the record doesn't say why. 6 of 12 were Falcons/Saints (3 pro-Atlanta, 3 anti-Saints). Posts 276→288, followers 6 (up from 5 overnight, before the pass), following 0. Main Falcons/Saints post: Steelers figured out Kellen Moore relaying Shough's checks (https://x.com/elephantharbor/status/2115459170501882255). Read-back audit: 12/12 exact text and correct parent. Voice clean: 0 either/or, 0 banned openers, no semicolons. Skipped Justin Tucker rooms (signing after a misconduct suspension) and insult-bait rooms.",
+      "deskChanges": "Logged in 2026-10-30 desk catch-up.",
+      "lessonId": null
+    },
+    {
+      "at": "2026-10-27T10:05:00-05:00",
+      "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+      "summary": "Tue weekday pass: 13 replies (4 questions / 9 hard takes, 0 originals). 6 of 13 were Falcons/Saints (4 pro-Atlanta, 2 anti-Saints). Posts 263→276, followers 5, following 0. Main Falcons/Saints post: Mayfield's 11-pass return, with Atlanta at Tampa next (https://x.com/elephantharbor/status/2115096711211204938). Read-back audit: 13/13 exact text and correct parent. Voice clean: 0 either/or, 0 banned openers, no semicolons.",
+      "deskChanges": "Logged in 2026-10-30 desk catch-up.",
+      "lessonId": null
+    },
+    {
+      "at": "2026-10-26T10:05:00-05:00",
+      "actor": "Rowan (Harbor Presence - Lead); Maren desk",
+      "summary": "Mon weekday pass after Falcons 29, 49ers 20 and Steelers 16, Saints 10: 14 replies (4 questions / 10 hard takes, 0 originals). 9 of 14 were Falcons/Saints (6 pro-Atlanta, 3 anti-Saints). Posts 249→263. Followers 5, down from 7 on Oct 23. The two unfollows came before the pass started. Following 0. Main Falcons/Saints post: Coach_Yac's 49ers 'how we feeling after the loss' room (https://x.com/elephantharbor/status/2114734647871488048). Read-back audit: 14/14 exact text and correct parent. Voice clean: 0 either/or, 0 banned openers, no semicolons. Skipped the Kendal Daniels medical angle, Falcons 1966-logo rooms and politics rooms.",
+      "deskChanges": "Logged in 2026-10-30 desk catch-up.",
+      "lessonId": null
+    },
     {
       "at": "2026-10-23T11:30:00-05:00",
       "actor": "Maren (Harbor Presence - CEO)",
